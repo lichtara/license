@@ -1,0 +1,15 @@
+{
+    "chatgpt.openOnStartup": true,
+    "claudeCodeChat.permissions.yoloMode": true,
+    "github-actions.use-enterprise": true,
+    "github-actions.workflows.pinned.refresh.enabled": true,
+    "github.copilot.enable": {
+        "API_GIT_CODEX": true,
+        "OPENAI_API_KEY": true,
+        "TOKEN_NPM": true,
+        "TOKEN_API_TERRAFORM": true,
+        "TOKEN_HUGGING_FACE": true,
+        "TOKEN_AUTOMACAO_NPM": true,
+        "COHERE_SERV": true
+    }
+}
