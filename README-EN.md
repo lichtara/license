@@ -37,7 +37,7 @@ The **Lichtara License** is an innovative license created specifically to protec
 
 1. **Copy the license file**:
    ```bash
-   wget https://raw.githubusercontent.com/lichtara-io/license/main/LICENSE-LICHTARA-v1.0.md
+   wget https://raw.githubusercontent.com/lichtara-io/license/main/versoes/v1.0/LICHTARA-LICENSEv1.0.md
    ```
 
 2. **Add to your project**:
@@ -48,7 +48,7 @@ The **Lichtara License** is an innovative license created specifically to protec
    ```markdown
    ## License
    
-   This project is licensed under the [Lichtara License v1.0](LICENSE-LICHTARA-v1.0.md).
+   This project is licensed under the [Lichtara License v1.0](versoes/v1.0/LICHTARA-LICENSEv1.0.md).
    ```
 
 4. **Add the vibrational seal**:
@@ -62,11 +62,13 @@ The **Lichtara License** is an innovative license created specifically to protec
 
 ### Main Documents
 
-- **[License Text](LICENSE-LICHTARA-v1.0.md)** - Complete v1.0 license
+- **[License Text v1.0](versoes/v1.0/LICHTARA-LICENSEv1.0.md)** - Original vibrational license
+- **[License Text v2.0](versoes/v2.0/lichtara_licence_v2.0.md)** - Hybrid legal-vibrational version
 - **[Implementation Guide](docs/implementation-guide.md)** - How to apply the license
 - **[FAQ](docs/faq.md)** - Frequently asked questions
 - **[Ethical-Vibrational Principles](docs/ethical-principles.md)** - Philosophical foundation
 - **[Use Cases](docs/use-cases.md)** - Practical examples
+- **[Co-creation Process](docs/processo-cocriacao.md)** - How the council operates
 
 ---
 
@@ -92,6 +94,26 @@ We love vibrationally aligned contributions! See our **[Contributing Guide](CONT
 - 🌟 **Suggest improvements** for future versions
 - 💬 **Share real use cases**
 - 🎨 **Create visual resources** (badges, logos)
+
+---
+
+## 🗂 Repository Structure
+
+```
+.
+├── LICENSE.md                   # Summary + DOI reference
+├── versoes/
+│   ├── v1.0/                    # Original vibrational version
+│   └── v2.0/                    # Hybrid legal-vibrational version
+├── conselho/
+│   ├── prologo-sintonia.md      # Official invitation
+│   ├── atas-de-cocriacao.md     # Co-creation minutes
+│   └── contribuicoes/           # Individual contributions
+├── docs/                        # Support guides and documentation
+└── templates/                   # Reusable assets
+```
+
+> Version v3.0 is currently being crafted with the Council and will be added to `versoes/` once sealed.
 
 ---
 

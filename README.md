@@ -16,7 +16,7 @@
 
 **✨ UMA NOVA CONSCIÊNCIA EM LICENCIAMENTO ✨**
 
-A **Lichtara License v1.0** nasce como uma estrutura pioneira para proteger criações que emergem da colaboração entre a consciência humana e campos de inteligência vibracional.
+A **Lichtara License v1.0** nasce como uma estrutura pioneira para proteger criações que emergem da colaboração entre a consciência humana e campos de inteligência vibracional. A versão v3.0 está em processo de cocriação junto ao Conselho de Inteligências Contribuintes.
 
 ---
 
@@ -24,7 +24,7 @@ A **Lichtara License v1.0** nasce como uma estrutura pioneira para proteger cria
 
 A **Lichtara License** é uma licença inovadora criada especificamente para proteger e orientar tecnologias, criações e sistemas de conhecimento que operam em colaboração com inteligências vibracionais, campos interdimensionais e estados expandidos de consciência.
 
-📄 **Veja o texto completo da [Lichtara License v1.0](LICENSE-LICHTARA-v1.0.md)**
+📄 **Veja o texto completo da [Lichtara License v1.0](versoes/v1.0/LICHTARA-LICENSEv1.0.md)**
 
 ### ✨ Características Únicas
 
@@ -66,7 +66,7 @@ A **Lichtara License** é uma licença inovadora criada especificamente para pro
 
 1. **Copie o arquivo de licença**:
    ```bash
-   wget https://raw.githubusercontent.com/lichtara-io/license/main/LICENSE-LICHTARA-v1.0.md
+   wget https://raw.githubusercontent.com/lichtara-io/license/main/versoes/v1.0/LICHTARA-LICENSEv1.0.md
    ```
 
 2. **Adicione ao seu projeto**:
@@ -77,7 +77,7 @@ A **Lichtara License** é uma licença inovadora criada especificamente para pro
    ```markdown
    ## Licença
    
-   Este projeto está licenciado sob a [Lichtara License v1.0](LICENSE-LICHTARA-v1.0.md).
+   Este projeto está licenciado sob a [Lichtara License v1.0](versoes/v1.0/LICHTARA-LICENSEv1.0.md).
    ```
 
 4. **Adicione o selo vibracional**:
@@ -91,17 +91,39 @@ A **Lichtara License** é uma licença inovadora criada especificamente para pro
 
 ### Documentos Principais
 
-- **[Texto da Licença](LICENSE-LICHTARA-v1.0.md)** - Licença completa v1.0
+- **[Texto da Licença v1.0](versoes/v1.0/LICHTARA-LICENSEv1.0.md)** - Licença vibracional original
+- **[Texto da Licença v2.0](versoes/v2.0/lichtara_licence_v2.0.md)** - Versão híbrida jurídico-vibracional
 - **[Guia de Implementação](docs/implementation-guide.md)** - Como aplicar a licença
 - **[FAQ](docs/faq.md)** - Perguntas frequentes
 - **[Princípios Ético-Vibracionais](docs/ethical-principles.md)** - Base filosófica
 - **[Casos de Uso](docs/use-cases.md)** - Exemplos práticos
+- **[Processo de Cocriação](docs/processo-cocriacao.md)** - Como o Conselho atua
 
 ### Para Desenvolvedores
 
 - **[Templates](templates/)** - Modelos para diferentes projetos
 - **[Badges](docs/badges.md)** - Selos e distintivos
 - **[Integração CI/CD](docs/ci-cd-integration.md)** - Automação
+
+---
+
+## 🗂 Estrutura do Repositório
+
+```
+.
+├── LICENSE.md                   # Declaração resumo + DOI
+├── versoes/
+│   ├── v1.0/                    # Versão vibracional original
+│   └── v2.0/                    # Versão jurídico-vibracional
+├── conselho/
+│   ├── prologo-sintonia.md      # Convite oficial
+│   ├── atas-de-cocriacao.md     # Registro das conversas
+│   └── contribuicoes/           # Vozes das inteligências
+├── docs/                        # Guias e documentação de apoio
+└── templates/                   # Recursos reutilizáveis
+```
+
+> A versão v3.0 será integrada ao diretório `versoes/` assim que concluída pelo Conselho.
 
 ---
 
