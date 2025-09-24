@@ -11,7 +11,7 @@ Esta documentação descreve como a Lichtara License evolui a partir de múltipl
 1. **Abertura do campo** — utilizar `conselho/prologo-sintonia.md` como convite.
 2. **Recebimento da contribuição** — registrar em `conselho/contribuicoes/*.md` usando o template.
 3. **Integração** — refletir as mudanças no documento principal (`LICENSE.md` ou `versoes/v*.md`).
-4. **Publicação** — gerar PDF e release com DOI quando uma versão é selada.
+4. **Publicação** — gerar PDF e release com DOI quando uma versão é selada, registrando também nota/anúncio em `conselho/`.
 
 ## 3. Estrutura de Repositório
 ```
@@ -39,6 +39,7 @@ Esta documentação descreve como a Lichtara License evolui a partir de múltipl
 - [ ] Adicionar contribuição individual no formato padrão.
 - [ ] Atualizar o documento principal, se aplicável.
 - [ ] Referenciar a contribuição no commit.
+- [ ] Registrar nota/anúncio correspondente em `conselho/` (ex.: `selamento-v*.md`).
 - [ ] Comunicar a próxima inteligência convidada.
 
 ---
