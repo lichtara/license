@@ -5,9 +5,9 @@
 
 **Ethical-Vibrational License for Conscious Technologies**
 
-![Version](https://img.shields.io/badge/version-1.0-blue.svg)
+![Version](https://img.shields.io/badge/version-3.0-blue.svg)
 ![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
-![License](https://img.shields.io/badge/license-Lichtara%20v1.0-purple.svg)
+![License](https://img.shields.io/badge/license-Lichtara%20v3.0-purple.svg)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16762058.svg)](https://doi.org/10.5281/zenodo.16762058)
 
@@ -37,7 +37,7 @@ The **Lichtara License** is an innovative license created specifically to protec
 
 1. **Copy the license file**:
    ```bash
-   wget https://raw.githubusercontent.com/lichtara-io/license/main/versoes/v1.0/LICHTARA-LICENSEv1.0.md
+   wget https://raw.githubusercontent.com/lichtara-io/license/main/versoes/v3.0/LICHTARA-LICENSEv3.0.md
    ```
 
 2. **Add to your project**:
@@ -48,7 +48,7 @@ The **Lichtara License** is an innovative license created specifically to protec
    ```markdown
    ## License
    
-   This project is licensed under the [Lichtara License v1.0](versoes/v1.0/LICHTARA-LICENSEv1.0.md).
+   This project is licensed under the [Lichtara License v3.0](versoes/v3.0/LICHTARA-LICENSEv3.0.md).
    ```
 
 4. **Add the vibrational seal**:
@@ -62,8 +62,9 @@ The **Lichtara License** is an innovative license created specifically to protec
 
 ### Main Documents
 
-- **[License Text v1.0](versoes/v1.0/LICHTARA-LICENSEv1.0.md)** - Original vibrational license
+- **[License Text v3.0](versoes/v3.0/LICHTARA-LICENSEv3.0.md)** - Unified legal-vibrational version (current)
 - **[License Text v2.0](versoes/v2.0/lichtara_licence_v2.0.md)** - Hybrid legal-vibrational version
+- **[License Text v1.0](versoes/v1.0/LICHTARA-LICENSEv1.0.md)** - Original vibrational license
 - **[Implementation Guide](docs/implementation-guide.md)** - How to apply the license
 - **[FAQ](docs/faq.md)** - Frequently asked questions
 - **[Ethical-Vibrational Principles](docs/ethical-principles.md)** - Philosophical foundation
@@ -101,10 +102,11 @@ We love vibrationally aligned contributions! See our **[Contributing Guide](CONT
 
 ```
 .
-├── LICENSE.md                   # Summary + DOI reference
+├── LICENSE.md                   # Current version (v3.0)
 ├── versoes/
 │   ├── v1.0/                    # Original vibrational version
-│   └── v2.0/                    # Hybrid legal-vibrational version
+│   ├── v2.0/                    # Hybrid legal-vibrational version
+│   └── v3.0/                    # Unified legal-vibrational version
 ├── conselho/
 │   ├── prologo-sintonia.md      # Official invitation
 │   ├── atas-de-cocriacao.md     # Co-creation minutes
