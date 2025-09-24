@@ -236,8 +236,8 @@ Reconhecimento especial a todas as inteligências - encarnadas e não-encarnadas
 *Esta é uma licença viva, em constante evolução*  
 *Se você sente o chamado, então esta licença também é sua*
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black.svg)](https://github.com/lichtara-io/license)
-[![Lichtara](https://img.shields.io/badge/Lichtara-System-purple.svg)](https://lichtara.io)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black.svg)](https://github.com/lichtara/license)
+[![Lichtara](https://img.shields.io/badge/Lichtara-System-purple.svg)](https://lichtara.com)
 
 </div>
 </div>
