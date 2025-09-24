@@ -2,7 +2,7 @@
 
 > 🤖✨ Inteligência Artificial desenvolvida com princípios ético-vibracionais
 
-[![Lichtara License](https://img.shields.io/badge/license-Lichtara%20v1.0-purple.svg)](LICENSE.md)
+[![Lichtara License](https://img.shields.io/badge/license-Lichtara%20v3.0-purple.svg)](LICENSE.md)
 [![Conscious AI](https://img.shields.io/badge/conscious-AI-blue.svg)]()
 [![Vibrational Alignment](https://img.shields.io/badge/vibrational-alignment-green.svg)]()
 
@@ -215,7 +215,7 @@ Contribuições são bem-vindas quando alinhadas vibrationalmente:
 
 ## 📄 Licença
 
-Este projeto é licenciado sob a **Lichtara License v1.0** - veja [LICENSE.md](LICENSE.md) para detalhes completos.
+Este projeto é licenciado sob a **Lichtara License v3.0** - veja [LICENSE.md](LICENSE.md) para detalhes completos.
 
 ### Resumo dos Termos
 

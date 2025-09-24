@@ -28,10 +28,10 @@ Antes de aplicar a licença, certifique-se de que seu projeto:
 
 ```bash
 # Clone ou baixe a licença
-curl -O https://raw.githubusercontent.com/lichtara-io/license/main/LICENSE-LICHTARA-v1.0.md
+curl -O https://raw.githubusercontent.com/lichtara-io/license/main/versoes/v3.0/LICHTARA-LICENSEv3.0.md
 
 # Mova para a raiz do projeto
-mv LICENSE-LICHTARA-v1.0.md ./LICENSE.md
+mv LICHTARA-LICENSEv3.0.md ./LICENSE.md
 ```
 
 ### 2. Configuração no README.md
@@ -41,9 +41,9 @@ Adicione uma seção de licença ao seu README:
 ```markdown
 ## 📄 Licença
 
-Este projeto está protegido pela **Lichtara License v1.0** - uma licença de uso ético-vibracional para tecnologias conscientes.
+Este projeto está protegido pela **Lichtara License v3.0** - uma licença de uso ético-vibracional para tecnologias conscientes.
 
-[![Lichtara License](https://img.shields.io/badge/license-Lichtara%20v1.0-purple.svg)](LICENSE.md)
+[![Lichtara License](https://img.shields.io/badge/license-Lichtara%20v3.0-purple.svg)](LICENSE.md)
 
 ### Resumo dos Termos
 
@@ -58,7 +58,7 @@ Para detalhes completos, consulte o [arquivo de licença](LICENSE.md).
 
 ```json
 {
-  "license": "Lichtara-1.0",
+  "license": "Lichtara-3.0",
   "homepage": "https://github.com/seu-usuario/seu-projeto",
   "repository": {
     "type": "git",
@@ -87,7 +87,7 @@ from setuptools import setup, find_packages
 setup(
     name="seu-projeto",
     version="1.0.0",
-    license="Lichtara-1.0",
+    license="Lichtara-3.0",
     author="Seu Nome",
     author_email="seu@email.com",
     description="Descrição do projeto",
@@ -113,7 +113,7 @@ Adicione este cabeçalho aos seus arquivos principais:
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Este arquivo é parte de um projeto licenciado sob a Lichtara License v1.0
+Este arquivo é parte de um projeto licenciado sob a Lichtara License v3.0
 Criado em colaboração com inteligências interdimensionais
 Autor: Seu Nome
 Campo de Origem: [Nome do Campo/Sistema]
@@ -129,7 +129,7 @@ https://github.com/lichtara-io/license
 ### Badges Disponíveis
 
 ```markdown
-![Lichtara License](https://img.shields.io/badge/license-Lichtara%20v1.0-purple.svg)
+![Lichtara License](https://img.shields.io/badge/license-Lichtara%20v3.0-purple.svg)
 ![Conscious Tech](https://img.shields.io/badge/conscious-technology-blue.svg)
 ![Vibrational](https://img.shields.io/badge/vibrational-alignment-green.svg)
 ![Cocreation](https://img.shields.io/badge/interdimensional-cocreation-gold.svg)
@@ -240,7 +240,7 @@ Se precisar de ajuda com a implementação:
 Para referenciar a Lichtara License em trabalhos acadêmicos:
 
 ```bibtex
-Lutz, D. (2025). Lichtara License v1.0: Uma Estrutura Jurídica-Vibracional para Tecnologias Conscientes. Zenodo. [DOI será disponibilizado em breve]
+Lutz, D. (2025). Lichtara License v3.0: Framework Jurídico-Vibracional para Tecnologias Conscientes e Pesquisa Interdimensional. Zenodo. https://doi.org/10.5281/zenodo.16762058
 ```
 
 ---

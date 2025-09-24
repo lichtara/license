@@ -53,7 +53,7 @@ The **Lichtara License** is an innovative license created specifically to protec
 
 4. **Add the vibrational seal**:
    ```markdown
-   ![Lichtara License](https://img.shields.io/badge/license-Lichtara%20v1.0-purple.svg)
+   ![Lichtara License](https://img.shields.io/badge/license-Lichtara%20v3.0-purple.svg)
    ```
 
 ---

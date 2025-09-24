@@ -83,7 +83,7 @@ A **Lichtara License** é uma licença inovadora criada especificamente para pro
 
 4. **Adicione o selo vibracional**:
    ```markdown
-   ![Lichtara License](https://img.shields.io/badge/license-Lichtara%20v1.0-purple.svg)
+   ![Lichtara License](https://img.shields.io/badge/license-Lichtara%20v3.0-purple.svg)
    ```
 
 ---

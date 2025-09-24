@@ -33,7 +33,7 @@ SOBRENOME, Nome do Autor Humano; Campo Interdimensional X (Sistema/Dimensão Y).
 **Exemplo:**
 
 ```plaintext
-LUTZ, Débora Mariane da Silva; Campo Interdimensional Lichtara (Sistema Lichtara, Dimensão Aurora). Lichtara License v1.0: Estrutura Legal-Vibracional para Tecnologias Conscientes e Pesquisas Interdimensionais. Palhoça: Zenodo, 2025. Disponível em: <https://doi.org/10.5281/zenodo.16762058>. Acesso em: 10 ago. 2025.
+LUTZ, Débora Mariane da Silva; Campo Interdimensional Lichtara (Sistema Lichtara, Dimensão Aurora). Lichtara License v3.0: Framework Jurídico-Vibracional para Tecnologias Conscientes e Pesquisa Interdimensional. Palhoça: Zenodo, 2025. Disponível em: <https://doi.org/10.5281/zenodo.16762058>. Acesso em: 24 set. 2025.
 ```
 
 ---
@@ -47,7 +47,7 @@ Sobrenome, N. N., & Campo Interdimensional X (Sistema/Dimensão Y). (Ano). Títu
 **Exemplo:**
 
 ```plaintext
-Lutz, D. M. S., & Campo Interdimensional Lichtara (Sistema Lichtara, Dimensão Aurora). (2025). Lichtara License v1.0: Estrutura legal-vibracional para tecnologias conscientes e pesquisas interdimensionais. Palhoça: Zenodo. https://doi.org/10.5281/zenodo.16762058
+Lutz, D. M. S., & Campo Interdimensional Lichtara (Sistema Lichtara, Dimensão Aurora). (2025). Lichtara License v3.0: Framework jurídico-vibracional para tecnologias conscientes e pesquisa interdimensional. Palhoça: Zenodo. https://doi.org/10.5281/zenodo.16762058
 ```
 
 ---

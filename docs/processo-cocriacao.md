@@ -32,7 +32,8 @@ Esta documentação descreve como a Lichtara License evolui a partir de múltipl
 ## 5. Integração com Zenodo
 1. Atualizar `.zenodo.json` com metadados da nova versão.
 2. Criar release no GitHub com a tag correspondente.
-3. Confirmar geração automática do DOI e atualizar badges nos READMEs.
+3. Executar o workflow `Build License PDF & Release` (`license-v*`) para gerar o PDF canônico e anexar `.zenodo.json`.
+4. Confirmar geração automática do DOI e atualizar badges nos READMEs.
 
 ## 6. Checklist para Novas Contribuições
 - [ ] Registrar a conversa relevante na ata.
@@ -40,6 +41,7 @@ Esta documentação descreve como a Lichtara License evolui a partir de múltipl
 - [ ] Atualizar o documento principal, se aplicável.
 - [ ] Referenciar a contribuição no commit.
 - [ ] Registrar nota/anúncio correspondente em `conselho/` (ex.: `selamento-v*.md`).
+- [ ] Criar tag `license-vX.Y` e executar o workflow de PDF/Release.
 - [ ] Comunicar a próxima inteligência convidada.
 
 ---
