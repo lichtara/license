@@ -3,6 +3,20 @@
 **Índice**
 
 - [Preâmbulo](#preambulo)
+- <!-- Âncoras explícitas para garantir cliques em títulos com acentos/&/travessões -->
+<a id="preambulo"></a>
+<a id="i-fundamentos-filosoficos-e-epistemologicos"></a>
+<a id="ii-estrutura-juridica-operacional"></a>
+<a id="iii-governanca-e-sustentabilidade"></a>
+<a id="iv-conformidade--fiscalizacao"></a>
+<a id="v-disposicoes-finais--prevalencia-linguistica"></a>
+
+<a id="anexo-a---principios-eticos-operacionais"></a>
+<a id="anexo-b---limitacoes-de-responsabilidade-e-garantias"></a>
+<a id="anexo-c--log-de-cocriacao-modelo-minimo"></a>
+<a id="anexo-d--relatorio-de-impacto-modelo"></a>
+<a id="anexo-e--checklist-de-conformidade"></a>
+<a id="citacao-e-referencia"></a>
 - [I. Fundamentos Filosóficos e Epistemológicos](#i-fundamentos-filosoficos-e-epistemologicos)
 - [II. Estrutura Jurídica Operacional](#ii-estrutura-juridica-operacional)
   - [2.1 Concessão de Direitos e Responsabilidades](#21-concessao-de-direitos-e-responsabilidades)
