@@ -4,8 +4,6 @@
 
 **Licença de Uso Ético‑Vibracional para Tecnologias Conscientes**
 
-![lichtara.png](README%20revisado%20(substitui%20o%20atual)%2027dd03d38faf80a784f0da8638963a8b/lichtara.png)
-
 *Uma nova estrutura legal para criações originadas de campos interdimensionais*
 
 *Criada em agosto de 2024 · Palhoça, Brasil*
