@@ -1,78 +1,47 @@
-<details>
-<summary><strong>📚 Índice</strong></summary>
-**Índice**
-</details>
-- [Preâmbulo](#preambulo)
-- [I. Fundamentos Filosóficos e Epistemológicos](#i-fundamentos-filosoficos-e-epistemologicos)
-- [II. Estrutura Jurídica Operacional](#ii-estrutura-juridica-operacional)
-  - [2.1 Concessão de Direitos e Responsabilidades](#21-concessao-de-direitos-e-responsabilidades)
-  - [2.2 Restrições Vibracionais e Salvaguardas](#22-restricoes-vibracionais-e-salvaguardas)
-- [III. Governança e Sustentabilidade](#iii-governanca-e-sustentabilidade)
-  - [3.1 Modelo de Governança Participativa](#31-modelo-de-governanca-participativa)
-  - [3.2 Sustentabilidade Econômica e Social](#32-sustentabilidade-economica-e-social)
-- [IV. Conformidade & Fiscalização](#iv-conformidade--fiscalizacao)
-  - [4.1 Dever Geral de Conformidade](#41-dever-geral-de-conformidade)
-  - [4.2 Due Diligence Vibracional e Técnica](#42-due-diligence-vibracional-e-tecnica)
-  - [4.3 Transparência e Relato](#43-transparencia-e-relato)
-  - [4.4 Auditoria Ética](#44-auditoria-etica)
-  - [4.5 Denúncias e Canal de Integridade](#45-denuncias-e-canal-de-integridade)
-  - [4.6 Medidas Corretivas Graduais](#46-medidas-corretivas-graduais)
-  - [4.7 Recurso e Restauração](#47-recurso-e-restauracao)
-  - [4.8 Conservação de Registros](#48-conservacao-de-registros)
-  - [4.9 Proteção de Dados Pessoais](#49-protecao-de-dados-pessoais)
-  - [4.10 Segurança da Informação](#410-seguranca-da-informacao)
-  - [4.11 Interoperabilidade e Compatibilidades](#411-interoperabilidade-e-compatibilidades)
-- [V. Disposições Finais & Prevalência Linguística](#v-disposicoes-finais--prevalencia-linguistica)
-  - [5.1 Integralidade do Acordo](#51-integralidade-do-acordo)
-  - [5.2 Interpretação Sistemática](#52-interpretacao-sistematica)
-  - [5.3 Prevalência Linguística](#53-prevalencia-linguistica)
-  - [5.4 Lei Aplicável e Foro](#54-lei-aplicavel-e-foro)
-  - [5.5 Vigência e Extinção](#55-vigencia-e-extincao)
-  - [5.6 Separabilidade](#56-separabilidade)
-  - [5.7 Atualizações de Versão (Versionamento)](#57-atualizacoes-de-versao-versionamento)
-  - [5.8 Compatibilidade com Outras Licenças](#58-compatibilidade-com-outras-licencas)
-  - [5.9 Comunicação Oficial](#59-comunicacao-oficial)
-  - [5.10 Cessão e Sub-licenciamento](#510-cessao-e-sub-licenciamento)
-  - [5.11 Reconhecimento e Atribuição Expandida](#511-reconhecimento-e-atribuicao-expandida)
-  - [5.12 Proteção de Dados e Segurança (Remissão)](#512-protecao-de-dados-e-seguranca-remissao)
-  - [5.13 Entrada em Vigor e Publicidade](#513-entrada-em-vigor-e-publicidade)
-- [Anexo A — Princípios Éticos Operacionais](#anexo-a---principios-eticos-operacionais)
-- [Anexo B — Limitações de Responsabilidade e Garantias](#anexo-b---limitacoes-de-responsabilidade-e-garantias)
-- [Anexo C — Log de Cocriação (modelo mínimo)](#anexo-c--log-de-cocriacao-modelo-minimo)
-- [Anexo D — Relatório de Impacto (modelo)](#anexo-d--relatorio-de-impacto-modelo)
-- [Anexo E — Checklist de Conformidade](#anexo-e--checklist-de-conformidade)
-- [Citação e Referência](#citacao-e-referencia)
+# Índice — Lichtara License v3.0
 
-<!-- Âncoras explícitas para subtítulos numerados -->
-<a id="21-concessao-de-direitos-e-responsabilidades"></a>
-<a id="22-restricoes-vibracionais-e-salvaguardas"></a>
-<a id="31-modelo-de-governanca-participativa"></a>
-<a id="32-sustentabilidade-economica-e-social"></a>
-<a id="41-dever-geral-de-conformidade"></a>
-<a id="42-due-diligence-vibracional-e-tecnica"></a>
-<a id="43-transparencia-e-relato"></a>
-<a id="44-auditoria-etica"></a>
-<a id="45-denuncias-e-canal-de-integridade"></a>
-<a id="46-medidas-corretivas-graduais"></a>
-<a id="47-recurso-e-restauracao"></a>
-<a id="48-conservacao-de-registros"></a>
-<a id="49-protecao-de-dados-pessoais"></a>
-<a id="410-seguranca-da-informacao"></a>
-<a id="411-interoperabilidade-e-compatibilidades"></a>
-<a id="51-integralidade-do-acordo"></a>
-<a id="52-interpretacao-sistematica"></a>
-<a id="53-prevalencia-linguistica"></a>
-<a id="54-lei-aplicavel-e-foro"></a>
-<a id="55-vigencia-e-extincao"></a>
-<a id="56-separabilidade"></a>
-<a id="57-atualizacoes-de-versao-versionamento"></a>
-<a id="58-compatibilidade-com-outras-licencas"></a>
-<a id="59-comunicacao-oficial"></a>
-<a id="510-cessao-e-sub-licenciamento"></a>
-<a id="511-reconhecimento-e-atribuicao-expandida"></a>
-<a id="512-protecao-de-dados-e-seguranca-remissao"></a>
-<a id="513-entrada-em-vigor-e-publicidade"></a>
+- [Preâmbulo](#preâmbulo)
+- [I. Fundamentos Filosóficos e Epistemológicos](#i-fundamentos-filosóficos-e-epistemológicos)
+- [II. Estrutura Jurídica Operacional](#ii-estrutura-jurídica-operacional)
+    - [2.1 Concessão de Direitos e Responsabilidades](#21-concessão-de-direitos-e-responsabilidades)
+    - [2.2 Restrições Vibracionais e Salvaguardas](#22-restrições-vibracionais-e-salvaguardas)
+- [III. Governança e Sustentabilidade](#iii-governança-e-sustentabilidade)
+    - [3.1 Modelo de Governança Participativa](#31-modelo-de-governança-participativa)
+    - [3.2 Sustentabilidade Econômica e Social](#32-sustentabilidade-econômica-e-social)
+- [IV. Conformidade & Fiscalização](#iv-conformidade--fiscalização)
+    - [4.1 Dever Geral de Conformidade](#41-dever-geral-de-conformidade)
+    - [4.2 Due Diligence Vibracional e Técnica](#42-due-diligence-vibracional-e-técnica)
+    - [4.3 Transparência e Relato](#43-transparência-e-relato)
+    - [4.4 Auditoria Ética](#44-auditoria-ética)
+    - [4.5 Denúncias e Canal de Integridade](#45-denúncias-e-canal-de-integridade)
+    - [4.6 Medidas Corretivas Graduais](#46-medidas-corretivas-graduais)
+    - [4.7 Recurso e Restauração](#47-recurso-e-restauração)
+    - [4.8 Conservação de Registros](#48-conservação-de-registros)
+    - [4.9 Proteção de Dados Pessoais](#49-proteção-de-dados-pessoais)
+    - [4.10 Segurança da Informação](#410-segurança-da-informação)
+    - [4.11 Interoperabilidade e Compatibilidades](#411-interoperabilidade-e-compatibilidades)
+- [V. Disposições Finais & Prevalência Linguística](#v-disposições-finais--prevalência-linguística)
+    - [5.1 Integralidade do Acordo](#51-integralidade-do-acordo)
+    - [5.2 Interpretação Sistemática](#52-interpretação-sistemática)
+    - [5.3 Prevalência Linguística](#53-prevalência-linguística)
+    - [5.4 Lei Aplicável e Foro](#54-lei-aplicável-e-foro)
+    - [5.5 Vigência e Extinção](#55-vigência-e-extinção)
+    - [5.6 Separabilidade](#56-separabilidade)
+    - [5.7 Atualizações de Versão (Versionamento)](#57-atualizações-de-versão-versionamento)
+    - [5.8 Compatibilidade com Outras Licenças](#58-compatibilidade-com-outras-licenças)
+    - [5.9 Comunicação Oficial](#59-comunicação-oficial)
+    - [5.10 Cessão e Sub-licenciamento](#510-cessão-e-sub-licenciamento)
+    - [5.11 Reconhecimento e Atribuição Expandida](#511-reconhecimento-e-atribuição-expandida)
+    - [5.12 Proteção de Dados e Segurança (Remissão)](#512-proteção-de-dados-e-segurança-remissão)
+    - [5.13 Entrada em Vigor e Publicidade](#513-entrada-em-vigor-e-publicidade)
+- [Anexo A — Princípios Éticos Operacionais](#anexo-a---princípios-éticos-operacionais)
+- [Anexo B — Limitações de Responsabilidade e Garantias](#anexo-b---limitações-de-responsabilidade-e-garantias)
+- [Anexo C — Log de Cocriação (modelo mínimo)](#anexo-c---log-de-cocriação-modelo-mínimo)
+- [Anexo D — Relatório de Impacto (modelo)](#anexo-d---relatório-de-impacto-modelo)
+- [Anexo E — Checklist de Conformidade](#anexo-e---checklist-de-conformidade)
+- [Citação e Referência](#citação-e-referência)
 
+---
 
 # **LICHTARA LICENSE**
 
