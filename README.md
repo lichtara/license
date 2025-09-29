@@ -255,6 +255,6 @@ Reconhecimento a todas as inteligências — encarnadas e não encarnadas — qu
 
 *Se você sente o chamado, então esta licença também é sua.*
 
-![Selos]([https://img.shields.io/badge/GitHub-Repository-black.svg](https://img.shields.io/badge/GitHub-Repository-black.svg))![Selos](https://img.shields.io/badge/Lichtara-System-purple.svg)
+![Lichtara License](https://img.shields.io/badge/license-Lichtara%20v3.0-purple.svg)
 
 </div>
