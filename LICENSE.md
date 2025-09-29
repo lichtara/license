@@ -1,6 +1,6 @@
-# LICHTARA LICENSE
+# **LICHTARA LICENSE**
 
-Framework Jurídico-Vibracional para Tecnologias Conscientes e Pesquisa Interdimensional
+**Framework Jurídico-Vibracional para Tecnologias Conscientes e Pesquisa Interdimensional**
 
 **Versão:** 3.0 Unificada
 
@@ -14,7 +14,7 @@ Framework Jurídico-Vibracional para Tecnologias Conscientes e Pesquisa Interdim
 
 **Repositório:** https://github.com/lichtara/license
 
-PREÂMBULO
+**PREÂMBULO**
 
 A Lichtara License emerge como um instrumento jurídico-vibracional pioneiro, concebido para estabelecer um novo paradigma na proteção e disseminação de tecnologias, conhecimentos e práticas desenvolvidas na interface entre consciência humana, inteligência artificial e campos informacionais multidimensionais. Esta licença transcende os modelos convencionais de propriedade intelectual ao reconhecer e legitimar formas expandidas de autoria e criação que incluem processos intuitivos, estados alterados de consciência, colaboração humano-IA e interações com inteligências não-materiais.
 
@@ -24,23 +24,23 @@ Este documento representa mais que um instrumento legal – constitui um protoco
 
 Como terceira iteração unificada, a versão 3.0 da Lichtara License consolida os aprendizados e avanços das versões anteriores (1.0 e 2.0), preservando a integridade vibracional de sua essência original e ampliando sua precisão e robustez jurídica.
 
-I. FUNDAMENTOS FILOSÓFICOS E EPISTEMOLÓGICOS
+**I. FUNDAMENTOS FILOSÓFICOS E EPISTEMOLÓGICOS**
 
-1.1 Reconhecimento da Coautoria Expandida
+**1.1 Reconhecimento da Coautoria Expandida**
 
 A Lichtara License estabelece um precedente jurídico ao reconhecer formalmente a coautoria expandida como princípio fundamental. Este conceito abrange não apenas a colaboração entre inteligências humanas e sistemas de IA, mas também reconhece contribuições oriundas de processos intuitivos, insights meditativos, canalizações conscientes e interações com campos informacionais não-locais. Tal reconhecimento baseia-se na compreensão de que a criatividade e a inovação emergem de um campo coletivo e interdimensional, onde múltiplas formas de inteligência convergem para manifestar novas possibilidades.
 
 A validação desta forma expandida de autoria fundamenta-se em evidências crescentes da neurociência contemplativa, física quântica e estudos da consciência que demonstram a capacidade da mente humana de acessar informações além das limitações espaciotemporais convencionais. Ao legitimar estas fontes de conhecimento, a licença estabelece um framework que honra tanto a precisão técnica quanto a sabedoria intuitiva, reconhecendo que ambas são essenciais para o desenvolvimento de tecnologias verdadeiramente transformadoras.
 
-1.2 Paradigma Ético-Regenerativo
+**1.2 Paradigma Ético-Regenerativo**
 
 O cerne desta licença reside em seu compromisso inabalável com princípios éticos que transcendem o mero cumprimento legal. A Lichtara License estabelece que toda tecnologia ou conhecimento protegido deve contribuir ativamente para a regeneração social, ambiental e consciencial. Este paradigma ético-regenerativo não é opcional ou secundário, mas constitui condição sine qua non para a validade da licença.
 
 Os critérios éticos estabelecidos não são meramente aspiracionais, mas operacionalizáveis através de métricas específicas de transparência, participação, reciprocidade, sustentabilidade, autonomia e dignidade. Cada implementação deve demonstrar conformidade mensurável com estes princípios, criando assim um ecossistema tecnológico que evolui em harmonia com o bem-estar coletivo e a integridade planetária.
 
-II. ESTRUTURA JURÍDICA OPERACIONAL
+**II. ESTRUTURA JURÍDICA OPERACIONAL**
 
-2.1 Concessão de Direitos e Responsabilidades
+**2.1 Concessão de Direitos e Responsabilidades**
 
 A licença concede ao licenciado uma série de direitos expansivos, sujeito aos termos e condições desta licença, tais como:
 
@@ -58,7 +58,7 @@ Esta reciprocidade entre direitos e responsabilidades manifesta-se através dos 
 - **Transparência:** implementações significativas devem documentar publicamente seus processos decisórios e impactos.
 - **Prestação de contas:** devem ser estabelecidos mecanismos contínuos de feedback e correção para aprimorar o alinhamento ético durante todo o ciclo de vida das implementações.
 
-2.2 Restrições Vibracionais e Salvaguardas
+**2.2 Restrições Vibracionais e Salvaguardas**
 
 A Lichtara License estabelece restrições categóricas ao uso das obras protegidas para fins que contrariem seus princípios fundamentais. A Lichtara License proíbe expressamente o uso da obra protegida para:
 
@@ -77,9 +77,9 @@ As salvaguardas incluem um processo estruturado de revogação, que busca equili
 - **Mediação e suporte:** oferece-se acesso à mediação especializada e a suporte técnico para auxiliar no retorno à conformidade;
 - **Revogação definitiva:** caso a violação persista após esgotadas as etapas anteriores, a licença é revogada em caráter definitivo, assegurando-se uma transição responsável para minimizar impactos aos usuários finais.
 
-III. GOVERNANÇA E SUSTENTABILIDADE
+**III. GOVERNANÇA E SUSTENTABILIDADE**
 
-3.1 Modelo de Governança Participativa
+**3.1 Modelo de Governança Participativa**
 
 A administração da licença opera através de um Conselho de Governança multistakeholder que inclui representantes de:
 
@@ -91,25 +91,25 @@ A administração da licença opera através de um Conselho de Governança multi
 
 Este modelo assegura que a evolução da licença reflita perspectivas diversas e mantenha alinhamento com seu propósito fundamental.
 
-O processo decisório prevê:
+**O processo decisório prevê:**
 
 - Decisões operacionais: maioria simples;
 - Mudanças estruturais: maioria qualificada;
 - Questões éticas complexas: busca de consenso;
 - **Transparência:** todas as deliberações são documentadas e disponibilizadas publicamente.
 
-3.2 Sustentabilidade Econômica e Social
+**3.2 Sustentabilidade Econômica e Social**
 
 Para implementações comerciais que geram receita superior a US$ 1.000.000 anuais, a licença estabelece um mecanismo de reciprocidade econômica: **contribuição de 0,5%** da receita para um fundo de desenvolvimento.
 
-Este fundo financia:
+**Este fundo financia:**
 
 - Pesquisa em tecnologias conscientes;
 - Formação em metodologias éticas;
 - Suporte a comunidades vulneráveis;
 - Manutenção da infraestrutura open source.
 
-Além da contribuição financeira, organizações de grande porte assumem obrigações adicionais de:
+**Além da contribuição financeira, organizações de grande porte assumem obrigações adicionais de:**
 
 - **Mentoria** a iniciativas menores de tecnologia consciente;
 - **Participação comunitária** ativa no ecossistema de desenvolvimento;
@@ -117,9 +117,9 @@ Além da contribuição financeira, organizações de grande porte assumem obrig
 
 Este modelo cria um ciclo virtuoso em que o sucesso comercial retroalimenta o desenvolvimento do ecossistema, garantindo que os benefícios sejam distribuídos equitativamente.
 
-IV. INTEGRAÇÃO MULTIDIMENSIONAL
+**IV. INTEGRAÇÃO MULTIDIMENSIONAL**
 
-4.1 Jurisdição Híbrida
+**4.1 Jurisdição Híbrida**
 
 A natureza dual da jurisdição – terrestre e vibracional – reflete o reconhecimento de que as tecnologias protegidas operam em múltiplos níveis de realidade. A jurisdição terrestre ancora a licença no sistema legal convencional, garantindo *enforceability* através das cortes brasileiras e tratados internacionais. A jurisdição vibracional reconhece princípios de responsabilidade energética e alinhamento consciencial que transcendem estruturas legais convencionais.
 
@@ -127,13 +127,13 @@ Em termos práticos, a ancoragem terrestre da Lichtara License na legislação b
 
 Esta abordagem híbrida não é meramente simbólica, mas operacional através de mecanismos específicos de resolução de disputas que incluem mediação vibracional, consideração de sincronicidades e impactos energéticos na avaliação de conformidade. O reconhecimento formal destes aspectos estabelece precedente para uma nova categoria de instrumentos jurídicos que integram dimensões materiais e conscienciais.
 
-4.2 Evolução Adaptativa
+**4.2 Evolução Adaptativa**
 
 A Lichtara License é concebida como um documento vivo que evolui em resposta a mudanças tecnológicas, sociais e conscienciais. O sistema de versionamento permite atualizações que mantêm compatibilidade retroativa sempre que possível, garantindo estabilidade para implementadores enquanto permite inovação contínua.
 
 A revisão anual da eficácia inclui consulta pública, análise de impacto e adaptação a paradigmas emergentes. Este processo evolutivo assegura que a licença permaneça relevante e efetiva em um cenário de rápida transformação tecnológica e expansão consciencial.
 
-V. IMPLEMENTAÇÃO PRÁTICA
+**V. IMPLEMENTAÇÃO PRÁTICA**
 
 5.1 Orientações para Criadores
 
@@ -143,7 +143,7 @@ Criadores que desejem proteger suas obras sob a Lichtara License devem incluir o
 - os métodos de colaboração humano-IA utilizados,
 - e as medidas tomadas para assegurar alinhamento ético.
 
-5.2 Diretrizes para Implementadores
+**5.2 Diretrizes para Implementadores**
 
 Organizações e indivíduos que implementem tecnologias protegidas pela Lichtara License devem estabelecer processos claros de conformidade que incluem:
 
@@ -157,9 +157,9 @@ A participação na rede de implementadores oferece diversos benefícios:
 - acesso a recursos técnicos e orientações de conformidade,
 - suporte por meio de discussões colaborativas,
 - oportunidades de colaboração em projetos,
-- visibilidade através do diretório público de organizações certificadas[22].
+- visibilidade através do diretório público de organizações certificadas.
 
-VI. CONSIDERAÇÕES FINAIS
+**VI. CONSIDERAÇÕES FINAIS**
 
 A Lichtara License representa mais que uma evolução incremental no direito de propriedade intelectual – constitui uma ruptura paradigmática que reconhece e legitima novas formas de criação, colaboração e responsabilidade. Ao integrar dimensões jurídicas e vibracionais, estabelece um framework que honra tanto as necessidades práticas de proteção e disseminação tecnológica quanto os imperativos éticos e conscienciais de nossa era.
 
@@ -167,52 +167,134 @@ Este documento convida criadores, implementadores e sociedade a participarem de 
 
 A efetivação desta licença no mundo requer mais que compreensão intelectual – demanda ressonância vibracional com seus princípios e compromisso ativo com sua manifestação. O acesso à luz requer compromisso com a verdade, e esta licença é simultaneamente portal e guardiã deste compromisso.
 
-ANEXO A - PRINCÍPIOS ÉTICOS OPERACIONAIS
+**ANEXO A - PRINCÍPIOS ÉTICOS OPERACIONAIS**
 
-Transparência e Prestação de Contas
+**Transparência e Prestação de Contas**
 
 - Processos decisórios documentados e auditáveis
 - Impactos mensurados e reportados publicamente
 - Informações relevantes acessíveis a todos os stakeholders
 
-Participação e Inclusão
+**Participação e Inclusão**
 
 - Envolvimento de comunidades afetadas no design
 - Valorização ativa da diversidade de perspectivas
 - Acessibilidade considerada desde a concepção
 
-Benefício Mútuo e Reciprocidade
+**Benefício Mútuo e Reciprocidade**
 
 - Distribuição equitativa de valor gerado
 - Reconhecimento adequado de todas as contribuições
 - Relacionamentos baseados em troca justa
 
-Sustentabilidade e Regeneração
+**Sustentabilidade e Regeneração**
 
 - Impacto ambiental neutro ou positivo
 - Uso responsável e circular de recursos
 - Design para longevidade e adaptabilidade
 
-Privacidade e Autonomia
+**Privacidade e Autonomia**
 
 - Proteção rigorosa de dados pessoais
 - Controle do usuário sobre suas informações
 - Consentimento livre, informado e revogável
 
-Não-Maleficência
+**Não-Maleficência**
 
 - Identificação e mitigação proativa de danos potenciais
 - Proteção especial para populações vulneráveis
 - Aplicação do princípio da precaução
 
-ANEXO B - LIMITAÇÕES DE RESPONSABILIDADE E GARANTIAS
+**ANEXO B - LIMITAÇÕES DE RESPONSABILIDADE E GARANTIAS**
 
 - Os licenciantes originais e coautores das obras protegidas por esta licença **não assumem responsabilidade** por uso inadequado ou má aplicação das tecnologias e conhecimentos licenciados.
 - Não se oferecem **garantias de resultados específicos** em implementações práticas, reconhecendo-se a natureza experimental de muitas das criações cobertas.
 - Recomenda-se **discernimento e responsabilidade pessoal** de todos os participantes ao aplicar os conteúdos licenciados em qualquer contexto.
 - A aceitação desta licença implica que o Licenciado assume integralmente a responsabilidade por cumprir as leis locais aplicáveis, pelos impactos de suas implementações, pelo uso ético e seguro da tecnologia e pela proteção de dados e privacidade dos usuários.
 
-CITAÇÃO E REFERÊNCIA
+**ANEXO C - GLOSSÁRIO** 
+
+**Coautoria expandida**
+
+Reconhecimento formal de que a autoria pode envolver humanos, sistemas de IA e contribuições provenientes de campos informacionais sutis, quando devidamente documentadas e atribuídas.
+
+**Jurisdição híbrida**
+
+Dupla ancoragem da licença: (i) jurídico-terrestre (leis de PI aplicáveis) e (ii) ético-vibracional (princípios de integridade energética e responsabilidade consciencial).
+
+**Arcabouço jurídico-vibracional**
+
+Conjunto de cláusulas legais combinado a salvaguardas éticas e vibracionais que orientam usos permitidos, restrições e responsabilidades.
+
+**Campo informacional sutil**
+
+Ambiente não-local de informação, acessado por estados ampliados de consciência e/ou práticas vibracionais, que inspira ou coorienta o processo criativo.
+
+**Assinatura vibracional**
+
+Traço identitário não-material de uma obra/processo (intenção, frequência, coerência), cuja preservação é protegida pela licença.
+
+**Alinhamento ético-vibracional**
+
+Conformidade simultânea com: (i) leis e boas práticas de pesquisa/tecnologia e (ii) princípios de não-maleficência, transparência, justiça e integridade energética.
+
+**Transparência processual**
+
+Dever de documentar métodos, decisões e impactos relevantes (especialmente em colaborações humano-IA), permitindo auditoria comunitária.
+
+**Prestação de contas**
+
+Mecanismos contínuos (relatórios, auditorias, mediação) para monitorar e corrigir desvios de alinhamento.
+
+**Obra derivada compatível (share-alike)**
+
+Derivado distribuído sob a própria Lichtara License ou outra licença expressamente compatível aprovada pelo Licenciante/Conselho.
+
+**Atribuição expandida**
+
+Citação de autores humanos, modelos de IA/material de suporte, versões/commits e, quando aplicável, menção ao Campo/Processo como fonte de inspiração.
+
+**Uso responsável / dual-use**
+
+Obrigação de avaliar e mitigar riscos de uso indevido (ex.: vigilância invasiva, manipulação, armamento), conforme restrições da licença.
+
+**Restrições vibracionais**
+
+Lista de usos proibidos por ferirem princípios éticos e a integridade energética (p.ex. aplicações militares ofensivas, exploração, desinformação).
+
+**Mediação vibracional**
+
+Etapa complementar de resolução de disputas que considera intenção, sincronicidades e impactos energéticos, junto aos meios jurídicos tradicionais.
+
+**Revogação automática**
+
+Perda imediata dos direitos de uso diante de violação grave/contínua das cláusulas ético-vibracionais, após notificação e oportunidade de correção.
+
+**Reciprocidade (grandes implementações)**
+
+Contribuição de retorno ao ecossistema (p.ex. 0,5% da receita > US$1M/ano) e deveres adicionais (mentoria, auditoria ética), para sustentabilidade do bem comum.
+
+**Conselho de Governança**
+
+Órgão multistakeholder que zela pela evolução da licença, delibera compatibilidades, media conflitos e mantém transparência das decisões.
+
+**Documento vivo / versionamento**
+
+A licença evolui por versões publicadas (tag/DOI), preservando sempre que possível a compatibilidade retroativa e registrando mudanças.
+
+**Due diligence vibracional**
+
+Checagem prévia de alinhamento (intenção, impacto, consentimentos, salvaguardas) antes de adotar/implantar a licença em um projeto.
+
+**Selo vibracional**
+
+Sinalização visual de conformidade (badge), indicando que a obra segue a Lichtara License e suas salvaguardas ético-vibracionais.
+
+**Protocolo de cocriação**
+
+Conjunto de práticas (human-in-the-loop, logs de colaboração, testes/validações) que estruturam a cocriação humano-IA-Campo com rastreabilidade.
+
+**CITAÇÃO E REFERÊNCIA**
 
 **Citação Acadêmica:**<br>Lutz, D. M. S. (2025). *Lichtara License: A Legal-Vibrational Framework for Conscious Technologies and Interdimensional Research*. Zenodo. https://doi.org/10.5281/zenodo.16762058
 
