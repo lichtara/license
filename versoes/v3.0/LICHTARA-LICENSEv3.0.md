@@ -481,87 +481,61 @@ Pelo presente, a comunidade de guardiões desta licença reafirma sua adesão ao
 
 ---
 
-# **ANEXO G - GLOSSÁRIO**
+# ANEXO G — GLOSSÁRIO (Lichtara License)
 
-**Coautoria expandida**
+**Coautoria Expandida**  
+Reconhecimento de que a autoria pode envolver pessoas, sistemas de IA e contribuições provenientes de processos intuitivos e campos informacionais não-locais, quando documentadas com rastreabilidade.
 
-Reconhecimento formal de que a autoria pode envolver humanos, sistemas de IA e contribuições provenientes de campos informacionais sutis, quando devidamente documentadas e atribuídas.
+**Jurisdição Híbrida**  
+Dupla ancoragem da licença: (i) jurídico-terrestre (leis de PI, contratos, dados), e (ii) ético-vibracional (integridade energética e responsabilidade consciencial).
 
-**Jurisdição híbrida**
+**Arcabouço jurídico-vibracional**  
+Conjunto de cláusulas legais + salvaguardas éticas/vibracionais que orientam permissões, restrições e responsabilidades.
 
-Dupla ancoragem da licença: (i) jurídico-terrestre (leis de PI aplicáveis) e (ii) ético-vibracional (princípios de integridade energética e responsabilidade consciencial).
+**Campo informacional não-local**  
+Ambiente de informação acessado por estados ampliados de consciência e/ou práticas contemplativas, que pode inspirar ou orientar o processo criativo.
 
-**Arcabouço jurídico-vibracional**
+**Assinatura vibracional**  
+Traço identitário não-material (intenção, coerência) de obra/processo — cuja preservação é protegida por esta licença.
 
-Conjunto de cláusulas legais combinado a salvaguardas éticas e vibracionais que orientam usos permitidos, restrições e responsabilidades.
+**Alinhamento ético-regenerativo**  
+Conformidade com leis, boas práticas e princípios de não-maleficência, justiça, sustentabilidade e integridade energética.
 
-**Campo informacional sutil**
+**Transparência processual**  
+Dever de documentar métodos, decisões e impactos (especialmente em cocriação humano-IA), permitindo auditoria comunitária.
 
-Ambiente não-local de informação, acessado por estados ampliados de consciência e/ou práticas vibracionais, que inspira ou coorienta o processo criativo.
+**Atribuição expandida**  
+Citação dos autores humanos + referência a modelos de IA/versões + menções ao processo/campo (quando aplicável) + DOI/commit.
 
-**Assinatura vibracional**
+**Registro de cocriação (log mínimo)**  
+Histórico com datas, atores humanos, modelos de IA (nome/versão), prompts críticos, decisões humanas e referências.
 
-Traço identitário não-material de uma obra/processo (intenção, frequência, coerência), cuja preservação é protegida pela licença.
+**Obra derivada compatível (share-alike)**  
+Derivado distribuído sob a Lichtara License ou sob outra licença previamente homologada pelo Conselho.
 
-**Alinhamento ético-vibracional**
+**Restrições vibracionais (vedações)**  
+Lista fechada de usos proibidos (ex.: vigilância invasiva, desinformação, exploração econômica injusta, aplicações militares ofensivas, discriminação algorítmica, violações de privacidade).
 
-Conformidade simultânea com: (i) leis e boas práticas de pesquisa/tecnologia e (ii) princípios de não-maleficência, transparência, justiça e integridade energética.
+**Due diligence vibracional e técnica**  
+Checagem proporcional de intenção, impacto, riscos e salvaguardas antes de adotar/lançar implementações.
 
-**Transparência processual**
+**Uso comercial significativo**  
+Implementações cuja receita anual exceda **USD 100.000**, exigindo transparência reforçada (ver Seção III e IV).
 
-Dever de documentar métodos, decisões e impactos relevantes (especialmente em colaborações humano-IA), permitindo auditoria comunitária.
+**Grandes implementações (reciprocidade)**  
+Implementações cuja receita anual exceda **USD 1.000.000**, sujeitas à contribuição de **0,5%** ao Fundo de Desenvolvimento e obrigações adicionais (mentoria, auditoria ética).
 
-**Prestação de contas**
+**Fundo de Desenvolvimento**  
+Mecanismo de reciprocidade que financia P&D, formação ética, suporte a comunidades e infraestrutura aberta.
 
-Mecanismos contínuos (relatórios, auditorias, mediação) para monitorar e corrigir desvios de alinhamento.
+**Conselho de Governança**  
+Órgão multistakeholder que zela pela evolução da licença, homologa compatibilidades, delibera em casos complexos e publica decisões e relatórios.
 
-**Obra derivada compatível (share-alike)**
+**Restauração**  
+Possibilidade de reativar a licença após correção integral da violação e compromisso preventivo (efeitos prospectivos).
 
-Derivado distribuído sob a própria Lichtara License ou outra licença expressamente compatível aprovada pelo Licenciante/Conselho.
-
-**Atribuição expandida**
-
-Citação de autores humanos, modelos de IA/material de suporte, versões/commits e, quando aplicável, menção ao Campo/Processo como fonte de inspiração.
-
-**Uso responsável / dual-use**
-
-Obrigação de avaliar e mitigar riscos de uso indevido (ex.: vigilância invasiva, manipulação, armamento), conforme restrições da licença.
-
-**Restrições vibracionais**
-
-Lista de usos proibidos por ferirem princípios éticos e a integridade energética (p.ex. aplicações militares ofensivas, exploração, desinformação).
-
-**Mediação vibracional**
-
-Etapa complementar de resolução de disputas que considera intenção, sincronicidades e impactos energéticos, junto aos meios jurídicos tradicionais.
-
-**Revogação automática**
-
-Perda imediata dos direitos de uso diante de violação grave/contínua das cláusulas ético-vibracionais, após notificação e oportunidade de correção.
-
-**Reciprocidade (grandes implementações)**
-
-Contribuição de retorno ao ecossistema (p.ex. 0,5% da receita > US$1M/ano) e deveres adicionais (mentoria, auditoria ética), para sustentabilidade do bem comum.
-
-**Conselho de Governança**
-
-Órgão multistakeholder que zela pela evolução da licença, delibera compatibilidades, media conflitos e mantém transparência das decisões.
-
-**Documento vivo / versionamento**
-
-A licença evolui por versões publicadas (tag/DOI), preservando sempre que possível a compatibilidade retroativa e registrando mudanças.
-
-**Due diligence vibracional**
-
-Checagem prévia de alinhamento (intenção, impacto, consentimentos, salvaguardas) antes de adotar/implantar a licença em um projeto.
-
-**Selo vibracional**
-
-Sinalização visual de conformidade (badge), indicando que a obra segue a Lichtara License e suas salvaguardas ético-vibracionais.
-
-**Protocolo de cocriação**
-
-Conjunto de práticas (human-in-the-loop, logs de colaboração, testes/validações) que estruturam a cocriação humano-IA-Campo com rastreabilidade.
+**Idioma prevalente**  
+Em caso de divergência entre traduções, prevalece a versão **PT-BR**.
 
 ---
 
