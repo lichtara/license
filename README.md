@@ -179,7 +179,11 @@ Adoramos contribuições alinhadas vibracionalmente! Veja nosso **[Guia de Contr
 
 - **Discord**: [Lichtara Community](https://discord.gg/lichtara)
 - **Telegram**: [@LichtaraLicense](https://t.me/lichtaralicense)
+<<<<<<< HEAD
 - **Website**: [license.lichtara.com](https://license.lichtara.com)
+=======
+- **Website**: [lichtara.como](https://lichtara.com)
+>>>>>>> 2a0c7c2e1113424498aa9670098c7bd4f746dbc0
 
 ### Discussões e Suporte
 
