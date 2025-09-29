@@ -1,5 +1,3 @@
-# README revisado (substitui o atual)
-
 # ✦ Lichtara License
 
 **Licença de Uso Ético‑Vibracional para Tecnologias Conscientes**
