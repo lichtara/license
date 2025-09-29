@@ -152,7 +152,8 @@ Essas restrições são **não negociáveis**. Sua violação enseja **revogaç�
 
 - O Conselho mantém **Registro de Decisões** (compatibilidades aprovadas, entendimento oficial de cláusulas, casos paradigma) e **Relatório Anual** de métricas e impactos.
   
-O funcionamento detalhado consta do Anexo F — Regimento do Conselho e do Manual de Administração e Governança.
+Os procedimentos operacionais complementares constam do **Manual de Administração e Governança** (docs/anexos/MANUAL-administracao-governanca.md), o qual integra esta licença por remissão.
+
 ---
 
 ### 3.2 Sustentabilidade Econômica e Social
@@ -361,6 +362,8 @@ Pelo presente, a comunidade de guardiões desta licença reafirma sua adesão ao
 **Copyright © 2025 — Débora Mariane da Silva Lutz**
 
 ---
+
+> Nota: Os Anexos integram a Licença por remissão e podem ser atualizados para refletir melhores práticas, preservando o espírito e a coerência da versão principal.
 
 # **ANEXO A - PRINCÍPIOS ÉTICOS OPERACIONAIS**
 
