@@ -2,8 +2,6 @@
 
 # ✦ Lichtara License
 
-<div align="center">
-
 **Licença de Uso Ético‑Vibracional para Tecnologias Conscientes**
 
 ![lichtara.png](README%20revisado%20(substitui%20o%20atual)%2027dd03d38faf80a784f0da8638963a8b/lichtara.png)
@@ -259,6 +257,6 @@ Reconhecimento a todas as inteligências — encarnadas e não encarnadas — qu
 
 *Se você sente o chamado, então esta licença também é sua.*
 
-![Selos]([https://img.shields.io/badge/GitHub-Repository-black.svg](https://img.shields.io/badge/GitHub-Repository-black.svg)) ![Selos](https://img.shields.io/badge/Lichtara-System-purple.svg)
+![Selos]([https://img.shields.io/badge/GitHub-Repository-black.svg](https://img.shields.io/badge/GitHub-Repository-black.svg))![Selos](https://img.shields.io/badge/Lichtara-System-purple.svg)
 
 </div>
