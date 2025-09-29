@@ -1,3 +1,48 @@
+<!-- SUMMARY / ToC -->
+
+**Índice**
+
+- [Preâmbulo](#preambulo)
+- [I. Fundamentos Filosóficos e Epistemológicos](#i-fundamentos-filosoficos-e-epistemologicos)
+- [II. Estrutura Jurídica Operacional](#ii-estrutura-juridica-operacional)
+  - [2.1 Concessão de Direitos e Responsabilidades](#21-concessao-de-direitos-e-responsabilidades)
+  - [2.2 Restrições Vibracionais e Salvaguardas](#22-restricoes-vibracionais-e-salvaguardas)
+- [III. Governança e Sustentabilidade](#iii-governanca-e-sustentabilidade)
+  - [3.1 Modelo de Governança Participativa](#31-modelo-de-governanca-participativa)
+  - [3.2 Sustentabilidade Econômica e Social](#32-sustentabilidade-economica-e-social)
+- [IV. Conformidade & Fiscalização](#iv-conformidade--fiscalizacao)
+  - [4.1 Dever Geral de Conformidade](#41-dever-geral-de-conformidade)
+  - [4.2 Due Diligence Vibracional e Técnica](#42-due-diligence-vibracional-e-tecnica)
+  - [4.3 Transparência e Relato](#43-transparencia-e-relato)
+  - [4.4 Auditoria Ética](#44-auditoria-etica)
+  - [4.5 Denúncias e Canal de Integridade](#45-denuncias-e-canal-de-integridade)
+  - [4.6 Medidas Corretivas Graduais](#46-medidas-corretivas-graduais)
+  - [4.7 Recurso e Restauração](#47-recurso-e-restauracao)
+  - [4.8 Conservação de Registros](#48-conservacao-de-registros)
+  - [4.9 Proteção de Dados Pessoais](#49-protecao-de-dados-pessoais)
+  - [4.10 Segurança da Informação](#410-seguranca-da-informacao)
+  - [4.11 Interoperabilidade e Compatibilidades](#411-interoperabilidade-e-compatibilidades)
+- [V. Disposições Finais & Prevalência Linguística](#v-disposicoes-finais--prevalencia-linguistica)
+  - [5.1 Integralidade do Acordo](#51-integralidade-do-acordo)
+  - [5.2 Interpretação Sistemática](#52-interpretacao-sistematica)
+  - [5.3 Prevalência Linguística](#53-prevalencia-linguistica)
+  - [5.4 Lei Aplicável e Foro](#54-lei-aplicavel-e-foro)
+  - [5.5 Vigência e Extinção](#55-vigencia-e-extincao)
+  - [5.6 Separabilidade](#56-separabilidade)
+  - [5.7 Atualizações de Versão (Versionamento)](#57-atualizacoes-de-versao-versionamento)
+  - [5.8 Compatibilidade com Outras Licenças](#58-compatibilidade-com-outras-licencas)
+  - [5.9 Comunicação Oficial](#59-comunicacao-oficial)
+  - [5.10 Cessão e Sub-licenciamento](#510-cessao-e-sub-licenciamento)
+  - [5.11 Reconhecimento e Atribuição Expandida](#511-reconhecimento-e-atribuicao-expandida)
+  - [5.12 Proteção de Dados e Segurança (Remissão)](#512-protecao-de-dados-e-seguranca-remissao)
+  - [5.13 Entrada em Vigor e Publicidade](#513-entrada-em-vigor-e-publicidade)
+- [Anexo A — Princípios Éticos Operacionais](#anexo-a---principios-eticos-operacionais)
+- [Anexo B — Limitações de Responsabilidade e Garantias](#anexo-b---limitacoes-de-responsabilidade-e-garantias)
+- [Anexo C — Log de Cocriação (modelo mínimo)](#anexo-c--log-de-cocriacao-modelo-minimo)
+- [Anexo D — Relatório de Impacto (modelo)](#anexo-d--relatorio-de-impacto-modelo)
+- [Anexo E — Checklist de Conformidade](#anexo-e--checklist-de-conformidade)
+- [Citação e Referência](#citacao-e-referencia)
+
 <!-- Âncoras explícitas para subtítulos numerados -->
 <a id="21-concessao-de-direitos-e-responsabilidades"></a>
 <a id="22-restricoes-vibracionais-e-salvaguardas"></a>
