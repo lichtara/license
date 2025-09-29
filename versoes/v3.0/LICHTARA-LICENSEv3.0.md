@@ -151,7 +151,8 @@ Essas restrições são **não negociáveis**. Sua violação enseja **revogaç�
 **Registro público.**
 
 - O Conselho mantém **Registro de Decisões** (compatibilidades aprovadas, entendimento oficial de cláusulas, casos paradigma) e **Relatório Anual** de métricas e impactos.
-
+  
+O funcionamento detalhado consta do Anexo F — Regimento do Conselho e do Manual de Administração e Governança.
 ---
 
 ### 3.2 Sustentabilidade Econômica e Social
@@ -332,6 +333,8 @@ A integração com licenças de terceiros (p. ex., **CC BY-SA 4.0**, **GPL-3.0**
 ### 5.9 Comunicação Oficial
 
 Notificações, pedidos de homologação, recursos e demais comunicações formais deverão ser enviados aos canais públicos designados pelo Conselho e/ou endereços de contato do Licenciante, conforme página oficial do projeto. O Conselho confirmará **recebimento em 15 dias**.
+
+Canais oficiais, prazos e formulários padronizados estão no Manual de Administração e Governança.
 
 ### 5.10 Cessão e Sub-licenciamento
 
