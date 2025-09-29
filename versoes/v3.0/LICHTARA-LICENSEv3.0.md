@@ -1,11 +1,7 @@
 <details>
 <summary><strong>📚 Índice</strong></summary>
-
-
 **Índice**
 </details>
-
-
 - [Preâmbulo](#preambulo)
 - [I. Fundamentos Filosóficos e Epistemológicos](#i-fundamentos-filosoficos-e-epistemologicos)
 - [II. Estrutura Jurídica Operacional](#ii-estrutura-juridica-operacional)
