@@ -12,8 +12,8 @@ para criações conscientes.
 
 - **Texto completo (v3)** — [licença](../versoes/v3.0/LICHTARA-LICENSEv3.0.md)
 - **Anexo F — Regimento** — [docs/anexos/ANEXO-F_regimento.md](anexos/ANEXO-F_regimento.md)
-- **Manual de Administração e Governança** — [docs/anexos/MANUAL-administracao-governanca.md](anexos/MANUAL-administracao-governanca.md)
 - **Anexo G — Glossário** — [docs/anexos/ANEXO-G_glossario.md](anexos/ANEXO-G_glossario.md)
+- **Manual de Administração e Governança** — [docs/anexos/MANUAL-administracao-governanca.md](anexos/MANUAL-administracao-governanca.md)
 - **Guia de Implementação:** [docs/implementation-guide.md](implementation-guide.md)
 - **FAQ:** [docs/faq.md](faq.md)
 - **Princípios Ético-Vibracionais:** [docs/ethical-principles.md](ethical-principles.md)
