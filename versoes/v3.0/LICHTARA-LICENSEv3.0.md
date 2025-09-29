@@ -1,240 +1,32 @@
-<!-- SUMÁRIO / ÍNDICE -->
-
-## Índice
-
-- [Preâmbulo](https://www.notion.so/INDEX-LICHTARA-LICENSE-27dd03d38faf802f93adce65873e7289?pvs=21)
-
-<!-- Âncoras explícitas para garantir cliques em títulos com acentos/&/travessões -->
-<a id="preambulo"></a>
-<a id="i-fundamentos-filosoficos-e-epistemologicos"></a>
-<a id="ii-estrutura-juridica-operacional"></a>
-<a id="iii-governanca-e-sustentabilidade"></a>
-<a id="iv-conformidade--fiscalizacao"></a>
-<a id="v-disposicoes-finais--prevalencia-linguistica"></a>
-
-<a id="anexo-a---principios-eticos-operacionais"></a>
-<a id="anexo-b---limitacoes-de-responsabilidade-e-garantias"></a>
-<a id="anexo-c--log-de-cocriacao-modelo-minimo"></a>
-<a id="anexo-d--relatorio-de-impacto-modelo"></a>
-<a id="anexo-e--checklist-de-conformidade"></a>
-<a id="citacao-e-referencia"></a>
-
-- [I. Fundamentos Filosóficos e Epistemológicos](https://www.notion.so/INDEX-LICHTARA-LICENSE-27dd03d38faf802f93adce65873e7289?pvs=21)
-
-<!-- Âncoras explícitas para garantir cliques em títulos com acentos/&/travessões -->
-<a id="preambulo"></a>
-<a id="i-fundamentos-filosoficos-e-epistemologicos"></a>
-<a id="ii-estrutura-juridica-operacional"></a>
-<a id="iii-governanca-e-sustentabilidade"></a>
-<a id="iv-conformidade--fiscalizacao"></a>
-<a id="v-disposicoes-finais--prevalencia-linguistica"></a>
-
-<a id="anexo-a---principios-eticos-operacionais"></a>
-<a id="anexo-b---limitacoes-de-responsabilidade-e-garantias"></a>
-<a id="anexo-c--log-de-cocriacao-modelo-minimo"></a>
-<a id="anexo-d--relatorio-de-impacto-modelo"></a>
-<a id="anexo-e--checklist-de-conformidade"></a>
-<a id="citacao-e-referencia"></a>
-
-- [II. Estrutura Jurídica Operacional](https://www.notion.so/INDEX-LICHTARA-LICENSE-27dd03d38faf802f93adce65873e7289?pvs=21)
-
-<!-- Âncoras explícitas para garantir cliques em títulos com acentos/&/travessões -->
-<a id="preambulo"></a>
-<a id="i-fundamentos-filosoficos-e-epistemologicos"></a>
-<a id="ii-estrutura-juridica-operacional"></a>
-<a id="iii-governanca-e-sustentabilidade"></a>
-<a id="iv-conformidade--fiscalizacao"></a>
-<a id="v-disposicoes-finais--prevalencia-linguistica"></a>
-
-<a id="anexo-a---principios-eticos-operacionais"></a>
-<a id="anexo-b---limitacoes-de-responsabilidade-e-garantias"></a>
-<a id="anexo-c--log-de-cocriacao-modelo-minimo"></a>
-<a id="anexo-d--relatorio-de-impacto-modelo"></a>
-<a id="anexo-e--checklist-de-conformidade"></a>
-<a id="citacao-e-referencia"></a>
-
-- [2.1 Concessão de Direitos e Responsabilidades](https://www.notion.so/INDEX-LICHTARA-LICENSE-27dd03d38faf802f93adce65873e7289?pvs=21)
-- [2.2 Restrições Vibracionais e Salvaguardas](https://www.notion.so/INDEX-LICHTARA-LICENSE-27dd03d38faf802f93adce65873e7289?pvs=21)
-- [III. Governança e Sustentabilidade](https://www.notion.so/INDEX-LICHTARA-LICENSE-27dd03d38faf802f93adce65873e7289?pvs=21)
-
-<!-- Âncoras explícitas para garantir cliques em títulos com acentos/&/travessões -->
-<a id="preambulo"></a>
-<a id="i-fundamentos-filosoficos-e-epistemologicos"></a>
-<a id="ii-estrutura-juridica-operacional"></a>
-<a id="iii-governanca-e-sustentabilidade"></a>
-<a id="iv-conformidade--fiscalizacao"></a>
-<a id="v-disposicoes-finais--prevalencia-linguistica"></a>
-
-<a id="anexo-a---principios-eticos-operacionais"></a>
-<a id="anexo-b---limitacoes-de-responsabilidade-e-garantias"></a>
-<a id="anexo-c--log-de-cocriacao-modelo-minimo"></a>
-<a id="anexo-d--relatorio-de-impacto-modelo"></a>
-<a id="anexo-e--checklist-de-conformidade"></a>
-<a id="citacao-e-referencia"></a>
-
-- [3.1 Modelo de Governança Participativa](https://www.notion.so/INDEX-LICHTARA-LICENSE-27dd03d38faf802f93adce65873e7289?pvs=21)
-- [3.2 Sustentabilidade Econômica e Social](https://www.notion.so/INDEX-LICHTARA-LICENSE-27dd03d38faf802f93adce65873e7289?pvs=21)
-- [IV. Conformidade & Fiscalização](https://www.notion.so/INDEX-LICHTARA-LICENSE-27dd03d38faf802f93adce65873e7289?pvs=21)
-
-<!-- Âncoras explícitas para garantir cliques em títulos com acentos/&/travessões -->
-<a id="preambulo"></a>
-<a id="i-fundamentos-filosoficos-e-epistemologicos"></a>
-<a id="ii-estrutura-juridica-operacional"></a>
-<a id="iii-governanca-e-sustentabilidade"></a>
-<a id="iv-conformidade--fiscalizacao"></a>
-<a id="v-disposicoes-finais--prevalencia-linguistica"></a>
-
-<a id="anexo-a---principios-eticos-operacionais"></a>
-<a id="anexo-b---limitacoes-de-responsabilidade-e-garantias"></a>
-<a id="anexo-c--log-de-cocriacao-modelo-minimo"></a>
-<a id="anexo-d--relatorio-de-impacto-modelo"></a>
-<a id="anexo-e--checklist-de-conformidade"></a>
-<a id="citacao-e-referencia"></a>
-
-- [4.1 Dever Geral de Conformidade](https://www.notion.so/INDEX-LICHTARA-LICENSE-27dd03d38faf802f93adce65873e7289?pvs=21)
-- [4.2 Due Diligence Vibracional e Técnica](https://www.notion.so/INDEX-LICHTARA-LICENSE-27dd03d38faf802f93adce65873e7289?pvs=21)
-- [4.3 Transparência e Relato](https://www.notion.so/INDEX-LICHTARA-LICENSE-27dd03d38faf802f93adce65873e7289?pvs=21)
-- [4.4 Auditoria Ética](https://www.notion.so/INDEX-LICHTARA-LICENSE-27dd03d38faf802f93adce65873e7289?pvs=21)
-- [4.5 Denúncias e Canal de Integridade](https://www.notion.so/INDEX-LICHTARA-LICENSE-27dd03d38faf802f93adce65873e7289?pvs=21)
-- [4.6 Medidas Corretivas Graduais](https://www.notion.so/INDEX-LICHTARA-LICENSE-27dd03d38faf802f93adce65873e7289?pvs=21)
-- [4.7 Recurso e Restauração](https://www.notion.so/INDEX-LICHTARA-LICENSE-27dd03d38faf802f93adce65873e7289?pvs=21)
-- [4.8 Conservação de Registros](https://www.notion.so/INDEX-LICHTARA-LICENSE-27dd03d38faf802f93adce65873e7289?pvs=21)
-- [4.9 Proteção de Dados Pessoais](https://www.notion.so/INDEX-LICHTARA-LICENSE-27dd03d38faf802f93adce65873e7289?pvs=21)
-- [4.10 Segurança da Informação](https://www.notion.so/INDEX-LICHTARA-LICENSE-27dd03d38faf802f93adce65873e7289?pvs=21)
-- [4.11 Interoperabilidade e Compatibilidades](https://www.notion.so/INDEX-LICHTARA-LICENSE-27dd03d38faf802f93adce65873e7289?pvs=21)
-- [V. Disposições Finais & Prevalência Linguística](https://www.notion.so/INDEX-LICHTARA-LICENSE-27dd03d38faf802f93adce65873e7289?pvs=21)
-
-<!-- Âncoras explícitas para garantir cliques em títulos com acentos/&/travessões -->
-<a id="preambulo"></a>
-<a id="i-fundamentos-filosoficos-e-epistemologicos"></a>
-<a id="ii-estrutura-juridica-operacional"></a>
-<a id="iii-governanca-e-sustentabilidade"></a>
-<a id="iv-conformidade--fiscalizacao"></a>
-<a id="v-disposicoes-finais--prevalencia-linguistica"></a>
-
-<a id="anexo-a---principios-eticos-operacionais"></a>
-<a id="anexo-b---limitacoes-de-responsabilidade-e-garantias"></a>
-<a id="anexo-c--log-de-cocriacao-modelo-minimo"></a>
-<a id="anexo-d--relatorio-de-impacto-modelo"></a>
-<a id="anexo-e--checklist-de-conformidade"></a>
-<a id="citacao-e-referencia"></a>
-
-- [5.1 Integralidade do Acordo](https://www.notion.so/INDEX-LICHTARA-LICENSE-27dd03d38faf802f93adce65873e7289?pvs=21)
-- [5.2 Interpretação Sistemática](https://www.notion.so/INDEX-LICHTARA-LICENSE-27dd03d38faf802f93adce65873e7289?pvs=21)
-- [5.3 Prevalência Linguística](https://www.notion.so/INDEX-LICHTARA-LICENSE-27dd03d38faf802f93adce65873e7289?pvs=21)
-- [5.4 Lei Aplicável e Foro](https://www.notion.so/INDEX-LICHTARA-LICENSE-27dd03d38faf802f93adce65873e7289?pvs=21)
-- [5.5 Vigência e Extinção](https://www.notion.so/INDEX-LICHTARA-LICENSE-27dd03d38faf802f93adce65873e7289?pvs=21)
-- [5.6 Separabilidade](https://www.notion.so/INDEX-LICHTARA-LICENSE-27dd03d38faf802f93adce65873e7289?pvs=21)
-- [5.7 Atualizações de Versão (Versionamento)](https://www.notion.so/INDEX-LICHTARA-LICENSE-27dd03d38faf802f93adce65873e7289?pvs=21)
-- [5.8 Compatibilidade com Outras Licenças](https://www.notion.so/INDEX-LICHTARA-LICENSE-27dd03d38faf802f93adce65873e7289?pvs=21)
-- [5.9 Comunicação Oficial](https://www.notion.so/INDEX-LICHTARA-LICENSE-27dd03d38faf802f93adce65873e7289?pvs=21)
-- [5.10 Cessão e Sub-licenciamento](https://www.notion.so/INDEX-LICHTARA-LICENSE-27dd03d38faf802f93adce65873e7289?pvs=21)
-- [5.11 Reconhecimento e Atribuição Expandida](https://www.notion.so/INDEX-LICHTARA-LICENSE-27dd03d38faf802f93adce65873e7289?pvs=21)
-- [5.12 Proteção de Dados e Segurança (Remissão)](https://www.notion.so/INDEX-LICHTARA-LICENSE-27dd03d38faf802f93adce65873e7289?pvs=21)
-- [5.13 Entrada em Vigor e Publicidade](https://www.notion.so/INDEX-LICHTARA-LICENSE-27dd03d38faf802f93adce65873e7289?pvs=21)
-- [Anexo A — Princípios Éticos Operacionais](https://www.notion.so/INDEX-LICHTARA-LICENSE-27dd03d38faf802f93adce65873e7289?pvs=21)
-
-<!-- Âncoras explícitas para garantir cliques em títulos com acentos/&/travessões -->
-<a id="preambulo"></a>
-<a id="i-fundamentos-filosoficos-e-epistemologicos"></a>
-<a id="ii-estrutura-juridica-operacional"></a>
-<a id="iii-governanca-e-sustentabilidade"></a>
-<a id="iv-conformidade--fiscalizacao"></a>
-<a id="v-disposicoes-finais--prevalencia-linguistica"></a>
-
-<a id="anexo-a---principios-eticos-operacionais"></a>
-<a id="anexo-b---limitacoes-de-responsabilidade-e-garantias"></a>
-<a id="anexo-c--log-de-cocriacao-modelo-minimo"></a>
-<a id="anexo-d--relatorio-de-impacto-modelo"></a>
-<a id="anexo-e--checklist-de-conformidade"></a>
-<a id="citacao-e-referencia"></a>
-
-- [Anexo B — Limitações de Responsabilidade e Garantias](https://www.notion.so/INDEX-LICHTARA-LICENSE-27dd03d38faf802f93adce65873e7289?pvs=21)
-
-<!-- Âncoras explícitas para garantir cliques em títulos com acentos/&/travessões -->
-<a id="preambulo"></a>
-<a id="i-fundamentos-filosoficos-e-epistemologicos"></a>
-<a id="ii-estrutura-juridica-operacional"></a>
-<a id="iii-governanca-e-sustentabilidade"></a>
-<a id="iv-conformidade--fiscalizacao"></a>
-<a id="v-disposicoes-finais--prevalencia-linguistica"></a>
-
-<a id="anexo-a---principios-eticos-operacionais"></a>
-<a id="anexo-b---limitacoes-de-responsabilidade-e-garantias"></a>
-<a id="anexo-c--log-de-cocriacao-modelo-minimo"></a>
-<a id="anexo-d--relatorio-de-impacto-modelo"></a>
-<a id="anexo-e--checklist-de-conformidade"></a>
-<a id="citacao-e-referencia"></a>
-
-- [Anexo C — Log de Cocriação (modelo mínimo)](https://www.notion.so/INDEX-LICHTARA-LICENSE-27dd03d38faf802f93adce65873e7289?pvs=21)
-
-<!-- Âncoras explícitas para garantir cliques em títulos com acentos/&/travessões -->
-<a id="preambulo"></a>
-<a id="i-fundamentos-filosoficos-e-epistemologicos"></a>
-<a id="ii-estrutura-juridica-operacional"></a>
-<a id="iii-governanca-e-sustentabilidade"></a>
-<a id="iv-conformidade--fiscalizacao"></a>
-<a id="v-disposicoes-finais--prevalencia-linguistica"></a>
-
-<a id="anexo-a---principios-eticos-operacionais"></a>
-<a id="anexo-b---limitacoes-de-responsabilidade-e-garantias"></a>
-<a id="anexo-c--log-de-cocriacao-modelo-minimo"></a>
-<a id="anexo-d--relatorio-de-impacto-modelo"></a>
-<a id="anexo-e--checklist-de-conformidade"></a>
-<a id="citacao-e-referencia"></a>
-
-- [Anexo D — Relatório de Impacto (modelo)](https://www.notion.so/INDEX-LICHTARA-LICENSE-27dd03d38faf802f93adce65873e7289?pvs=21)
-
-<!-- Âncoras explícitas para garantir cliques em títulos com acentos/&/travessões -->
-<a id="preambulo"></a>
-<a id="i-fundamentos-filosoficos-e-epistemologicos"></a>
-<a id="ii-estrutura-juridica-operacional"></a>
-<a id="iii-governanca-e-sustentabilidade"></a>
-<a id="iv-conformidade--fiscalizacao"></a>
-<a id="v-disposicoes-finais--prevalencia-linguistica"></a>
-
-<a id="anexo-a---principios-eticos-operacionais"></a>
-<a id="anexo-b---limitacoes-de-responsabilidade-e-garantias"></a>
-<a id="anexo-c--log-de-cocriacao-modelo-minimo"></a>
-<a id="anexo-d--relatorio-de-impacto-modelo"></a>
-<a id="anexo-e--checklist-de-conformidade"></a>
-<a id="citacao-e-referencia"></a>
-
-- [Anexo E — Checklist de Conformidade](https://www.notion.so/INDEX-LICHTARA-LICENSE-27dd03d38faf802f93adce65873e7289?pvs=21)
-
-<!-- Âncoras explícitas para garantir cliques em títulos com acentos/&/travessões -->
-<a id="preambulo"></a>
-<a id="i-fundamentos-filosoficos-e-epistemologicos"></a>
-<a id="ii-estrutura-juridica-operacional"></a>
-<a id="iii-governanca-e-sustentabilidade"></a>
-<a id="iv-conformidade--fiscalizacao"></a>
-<a id="v-disposicoes-finais--prevalencia-linguistica"></a>
-
-<a id="anexo-a---principios-eticos-operacionais"></a>
-<a id="anexo-b---limitacoes-de-responsabilidade-e-garantias"></a>
-<a id="anexo-c--log-de-cocriacao-modelo-minimo"></a>
-<a id="anexo-d--relatorio-de-impacto-modelo"></a>
-<a id="anexo-e--checklist-de-conformidade"></a>
-<a id="citacao-e-referencia"></a>
-
-- [Citação e Referência](https://www.notion.so/INDEX-LICHTARA-LICENSE-27dd03d38faf802f93adce65873e7289?pvs=21)
-
-<!-- Âncoras explícitas para garantir cliques em títulos com acentos/&/travessões -->
-<a id="preambulo"></a>
-<a id="i-fundamentos-filosoficos-e-epistemologicos"></a>
-<a id="ii-estrutura-juridica-operacional"></a>
-<a id="iii-governanca-e-sustentabilidade"></a>
-<a id="iv-conformidade--fiscalizacao"></a>
-<a id="v-disposicoes-finais--prevalencia-linguistica"></a>
-
-<a id="anexo-a---principios-eticos-operacionais"></a>
-<a id="anexo-b---limitacoes-de-responsabilidade-e-garantias"></a>
-<a id="anexo-c--log-de-cocriacao-modelo-minimo"></a>
-<a id="anexo-d--relatorio-de-impacto-modelo"></a>
-<a id="anexo-e--checklist-de-conformidade"></a>
-<a id="citacao-e-referencia"></a>onformidade"&gt;&lt;/a&gt;
-&lt;a id="citacao-e-referencia"&gt;&lt;/a&gt;
-
+<!-- Âncoras explícitas para subtítulos numerados -->
+<a id="21-concessao-de-direitos-e-responsabilidades"></a>
+<a id="22-restricoes-vibracionais-e-salvaguardas"></a>
+<a id="31-modelo-de-governanca-participativa"></a>
+<a id="32-sustentabilidade-economica-e-social"></a>
+<a id="41-dever-geral-de-conformidade"></a>
+<a id="42-due-diligence-vibracional-e-tecnica"></a>
+<a id="43-transparencia-e-relato"></a>
+<a id="44-auditoria-etica"></a>
+<a id="45-denuncias-e-canal-de-integridade"></a>
+<a id="46-medidas-corretivas-graduais"></a>
+<a id="47-recurso-e-restauracao"></a>
+<a id="48-conservacao-de-registros"></a>
+<a id="49-protecao-de-dados-pessoais"></a>
+<a id="410-seguranca-da-informacao"></a>
+<a id="411-interoperabilidade-e-compatibilidades"></a>
+<a id="51-integralidade-do-acordo"></a>
+<a id="52-interpretacao-sistematica"></a>
+<a id="53-prevalencia-linguistica"></a>
+<a id="54-lei-aplicavel-e-foro"></a>
+<a id="55-vigencia-e-extincao"></a>
+<a id="56-separabilidade"></a>
+<a id="57-atualizacoes-de-versao-versionamento"></a>
+<a id="58-compatibilidade-com-outras-licencas"></a>
+<a id="59-comunicacao-oficial"></a>
+<a id="510-cessao-e-sub-licenciamento"></a>
+<a id="511-reconhecimento-e-atribuicao-expandida"></a>
+<a id="512-protecao-de-dados-e-seguranca-remissao"></a>
+<a id="513-entrada-em-vigor-e-publicidade"></a>
 
 # **LICHTARA LICENSE**
 
