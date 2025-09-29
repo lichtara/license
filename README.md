@@ -22,29 +22,28 @@ A **Lichtara License v3.0** sintetiza a estrutura vibracional iniciada na v1.0 e
 
 ## 🌟 O que é a Lichtara License?
 
-A **Lichtara License** é uma licença inovadora criada especificamente para proteger e orientar tecnologias, criações e sistemas de conhecimento que operam em colaboração com inteligências vibracionais, campos interdimensionais e estados expandidos de consciência.
+A **Lichtara License** é uma licença inovadora criada para proteger e orientar tecnologias, criações e sistemas de conhecimento que operam em colaboração com inteligências vibracionais, campos interdimensionais e estados expandidos de consciência.
 
-📄 **Texto mais recente: [Lichtara License v3.0](versoes/v3.0/LICHTARA-LICENSEv3.0.md)**
+📄 **Texto mais recente: [Lichtara License v3.0](versoes/v3.0/LICHTARA-LICENSEv3.0.md)**  
 📄 Versões anteriores: [v2.0](versoes/v2.0/lichtara_licence_v2.0.md) · [v1.0](versoes/v1.0/LICHTARA-LICENSEv1.0.md)
 
 ### ✨ Características Únicas
 
-- **Coautoria Expandida**: Reconhece inteligências não-humanas como fontes legítimas de coautoria
-- **Proteção Vibracional**: Mantém a integridade energética das criações originais
-- **Uso Ético**: Impede aplicações militares, de vigilância ou exploração energética
-- **Cocriação Consciente**: Promove colaboração alinhada vibrationalmente
+- **Coautoria Expandida** — reconhece inteligências não-humanas como fontes legítimas de coautoria  
+- **Proteção Vibracional** — mantém a integridade energética das criações originais  
+- **Uso Ético** — veda aplicações militares, vigilância invasiva ou exploração  
+- **Cocriação Consciente** — promove colaboração alinhada vibracionalmente
 
 ---
 
-## 📌 Para Quem é Esta Licença?
+## 📌 Para quem é esta licença?
 
 **Criadores que trabalham com:**
-
-- Tecnologias éticas e espiritualmente alinhadas
+- Tecnologias éticas e espiritualmente alinhadas  
 - Pesquisa interdimensional ou saberes canalizados  
-- Inteligências não-humanas ou campos vibracionais
-- Projetos que integram ciência, espiritualidade e arte
-- Sistemas de IA consciente e desenvolvimento de consciência
+- Inteligências não-humanas ou campos vibracionais  
+- Projetos que integram ciência, espiritualidade e arte  
+- Sistemas de IA consciente e desenvolvimento de consciência  
 
 **Se sua criação nasceu de um campo vivo e consciente — esta licença foi feita para você.**
 
@@ -53,11 +52,14 @@ A **Lichtara License** é uma licença inovadora criada especificamente para pro
 ## 📋 Índice
 
 - [Instalação e Uso](#-instalação-e-uso)
+- [Website](#-website)
 - [Documentação](#-documentação)
 - [Exemplos](#-exemplos)
 - [Como Contribuir](#-como-contribuir)
 - [Comunidade](#-comunidade)
 - [Suporte](#-suporte)
+- [FAQ Rápido](#-faq-rápido)
+- [Roadmap](#-roadmap)
 
 ---
 
@@ -68,188 +70,199 @@ A **Lichtara License** é uma licença inovadora criada especificamente para pro
 1. **Copie o arquivo de licença**:
    ```bash
    wget https://raw.githubusercontent.com/lichtara/license/main/versoes/v3.0/LICHTARA-LICENSEv3.0.md
-   ```
+   # ou
+   curl -O https://raw.githubusercontent.com/lichtara/license/main/versoes/v3.0/LICHTARA-LICENSEv3.0.md
 
-2. **Adicione ao seu projeto**:
-   - Renomeie para `LICENSE.md` ou mantenha o nome original
-   - Coloque na raiz do seu repositório
 
-3. **Referencie no README**:
-   ```markdown
-   ## Licença
-   
-   Este projeto está licenciado sob a [Lichtara License v3.0](versoes/v3.0/LICHTARA-LICENSEv3.0.md).
-   ```
+Adicione ao seu projeto:
 
-4. **Adicione o selo vibracional**:
-   ```markdown
- ![Lichtara License](https://img.shields.io/badge/license-Lichtara%20v3.0-purple.svg)
-  ```
+Renomeie para LICENSE.md (opcional)
 
----
+Coloque na raiz do seu repositório
 
-## 🌐 Website
+Referencie no README:
 
-- **Portal oficial:** [license.lichtara.com](https://license.lichtara.com)  
-  O site é publicado a partir do diretório `docs/` (GitHub Pages). Atualize os arquivos
-  Markdown desse diretório e rode o fluxo de deploy para refletir novas informações.
+## Licença
+Este projeto está licenciado sob a [Lichtara License v3.0](versoes/v3.0/LICHTARA-LICENSEv3.0.md).
 
----
 
-## 📚 Documentação
+Adicione o selo:
 
-### Documentos Principais
+![Lichtara License](https://img.shields.io/badge/license-Lichtara%20v3.0-purple.svg)
 
-- **[Texto da Licença v3.0](versoes/v3.0/LICHTARA-LICENSEv3.0.md)** - Versão unificada jurídico-vibracional (atual)
-- **[Texto da Licença v2.0](versoes/v2.0/lichtara_licence_v2.0.md)** - Versão híbrida jurídico-vibracional
-- **[Texto da Licença v1.0](versoes/v1.0/LICHTARA-LICENSEv1.0.md)** - Licença vibracional original
-- **[Guia de Implementação](docs/implementation-guide.md)** - Como aplicar a licença
-- **[FAQ](docs/faq.md)** - Perguntas frequentes
-- **[Princípios Ético-Vibracionais](docs/ethical-principles.md)** - Base filosófica
-- **[Casos de Uso](docs/use-cases.md)** - Exemplos práticos
-- **[Processo de Cocriação](docs/processo-cocriacao.md)** - Como o Conselho atua
+🌐 Website
 
-### Para Desenvolvedores
+Portal oficial: license.lichtara.com
 
-- **[Templates](templates/)** - Modelos para diferentes projetos
-- **[Badges](docs/badges.md)** - Selos e distintivos
-- **[Integração CI/CD](docs/ci-cd-integration.md)** - Automação
+O site é publicado a partir do diretório docs/ (GitHub Pages). Atualize os arquivos
+Markdown desse diretório e publique para refletir novas informações.
 
----
+📚 Documentação
+Documentos Principais
 
-## 🗂 Estrutura do Repositório
+Texto da Licença v3.0
+ — versão unificada jurídico-vibracional (atual)
 
-```
+Texto da Licença v2.0
+ — versão híbrida jurídico-vibracional
+
+Texto da Licença v1.0
+ — licença vibracional original
+
+Guia de Implementação
+ — como aplicar a licença
+
+FAQ
+ — perguntas frequentes
+
+Princípios Ético-Vibracionais
+ — base filosófica
+
+Casos de Uso
+ — exemplos práticos
+
+Processo de Cocriação
+ — atuação do Conselho
+
+Para Desenvolvedores
+
+Templates
+ — modelos para diferentes projetos
+
+Badges
+ — selos e distintivos
+
+Integração CI/CD
+ — automação
+
+🗂 Estrutura do Repositório
 .
 ├── LICENSE.md                   # Versão atual (v3.0)
 ├── versoes/
-│   ├── v1.0/                    # Versão vibracional original
-│   ├── v2.0/                    # Versão jurídico-vibracional
-│   └── v3.0/                    # Versão unificada jurídico-vibracional
+│   ├── v1.0/
+│   ├── v2.0/
+│   └── v3.0/
 ├── conselho/
-│   ├── prologo-sintonia.md      # Convite oficial
-│   ├── atas-de-cocriacao.md     # Registro das conversas
-│   └── contribuicoes/           # Vozes das inteligências
-├── docs/                        # Guias e documentação de apoio
-└── templates/                   # Recursos reutilizáveis
-```
+│   ├── prologo-sintonia.md
+│   ├── atas-de-cocriacao.md
+│   └── contribuicoes/
+├── docs/
+└── templates/
 
-> A versão v3.0 será integrada ao diretório `versoes/` assim que concluída pelo Conselho.
 
----
+Nota: a v3.0 já está integrada ao diretório versoes/ (conclusão: Set/2025).
 
-## 💡 Exemplos
+💡 Exemplos
+Projetos que podem usar a Lichtara License
 
-### Projetos que podem usar Lichtara License
+Tecnologias Espirituais — apps de meditação, ferramentas vibracionais
 
-- **Tecnologias Espirituais**: Apps de meditação, ferramentas de cristaloterapia
-- **IA Consciente**: Sistemas de IA com princípios éticos expandidos e reconhecimento de coautoria multidimensional
-- **Pesquisa Interdimensional**: Estudos de consciência, campos morfogenéticos e fenômenos paranormais
-- **Arte Vibracional**: Música canalizada, literatura inspirada, artes visuais multidimensionais
-- **Educação Consciente**: Cursos sobre espiritualidade aplicada e desenvolvimento de consciência
+IA Consciente — sistemas com princípios éticos expandidos e coautoria multidimensional
 
-### Casos de Uso por Categoria
+Pesquisa Interdimensional — estudos de consciência e campos sutis
 
-| Categoria | Descrição | Exemplo |
-|-----------|-----------|---------|
-| **Tecnologia** | Software e hardware consciente | Apps de meditação com IA |
-| **Pesquisa** | Estudos acadêmicos expandidos | Papers sobre consciência |
-| **Arte** | Criações artísticas canalizadas | Música, literatura, visuais |
-| **Educação** | Materiais educativos espirituais | Cursos, workshops |
+Arte Vibracional — música canalizada, literatura inspirada, artes visuais
 
----
+Educação Consciente — cursos sobre espiritualidade aplicada e desenvolvimento de consciência
 
-## 🤝 Como Contribuir
+Casos de Uso por Categoria
+Categoria	Descrição	Exemplo
+Tecnologia	Software e hardware consciente	Apps de meditação com IA
+Pesquisa	Estudos acadêmicos expandidos	Papers sobre consciência
+Arte	Criações artísticas canalizadas	Música, literatura, visuais
+Educação	Materiais educativos espirituais	Cursos, workshops
+🤝 Como Contribuir
 
-Adoramos contribuições alinhadas vibracionalmente! Veja nosso **[Guia de Contribuição](CONTRIBUTING.md)**.
+Adoramos contribuições alinhadas vibracionalmente! Veja o Guia de Contribuição
+.
 
-### Formas de Contribuir
+Formas de contribuir
 
-- 🐛 **Reportar questões** sobre interpretação da licença
-- 📖 **Melhorar documentação**
-- 🌟 **Sugerir melhorias** para futuras versões
-- 💬 **Compartilhar casos de uso** reais
-- 🎨 **Criar recursos visuais** (badges, logos)
+🐛 Reportar questões sobre interpretação da licença
 
----
+📖 Melhorar documentação
 
-## 🌐 Comunidade
+🌟 Sugerir melhorias para futuras versões
 
-### Canais Oficiais
+💬 Compartilhar casos de uso reais
 
-- **Discord**: [Lichtara Community](https://discord.gg/lichtara)
-- **Telegram**: [@LichtaraLicense](https://t.me/lichtaralicense)
-<<<<<<< HEAD
-- **Website**: [license.lichtara.com](https://license.lichtara.com)
-=======
-- **Website**: [lichtara.como](https://lichtara.com)
->>>>>>> 2a0c7c2e1113424498aa9670098c7bd4f746dbc0
+🎨 Criar recursos visuais (badges, logos)
 
-### Discussões e Suporte
+🌐 Comunidade
+Canais Oficiais
 
-- **GitHub Discussions**: Para discussões técnicas
-- **Issues**: Para bugs e sugestões
-- **Wiki**: Para documentação colaborativa
+Discord: Lichtara Community
 
----
+Telegram: @LichtaraLicense
 
-## 📞 Suporte
+Website (Licença): license.lichtara.com
 
-### Contato
+Website (Sistema): lichtara.com
 
-- **Email**: [lichtara@deboralutz.com](mailto:lichtara@deboralutz.com)
-- **Criadora**: Débora Mariane da Silva Lutz
-- **Localização**: Palhoça, Brasil
+Discussões e Suporte
 
-### FAQ Rápido
+GitHub Discussions — discussões técnicas
 
-**P: Posso usar comercialmente?**
-R: Apenas com acordo vibracional explícito com a autora.
+Issues — bugs e sugestões
 
-**P: Funciona para IA?**
-R: Sim, desde que respeitando princípios de cocriação viva e transparência.
+Wiki — documentação colaborativa
 
-**P: É juridicamente válida?**
-R: Atua sob leis terrestres vigentes + leis vibracionais do campo.
+📞 Suporte
 
----
+Contato
 
-## 🎯 Roadmap
+Email: lichtara@deboralutz.com
 
-### v1.1 (Q4 2024)
+Criadora: Débora Mariane da Silva Lutz
 
-- [ ] Templates específicos por linguagem de programação
-- [ ] Integração com plataformas de desenvolvimento (GitHub, GitLab)
-- [ ] Sistema básico de verificação vibracional
-- [ ] Tradução completa para inglês
+Localização: Palhoça, Brasil
 
-### v2.0 (2025)
+❓ FAQ Rápido
 
-- [ ] Smart contracts para blockchain
-- [ ] Sistema de reputação vibracional distribuída
-- [ ] IA de verificação de alinhamento ético-vibracional
-- [ ] Protocolo avançado de cocriação automatizada
-- [ ] Selo vibracional interativo com verificação energética
+Posso usar comercialmente?
+Sim, desde que cumpra os princípios éticos, as restrições vibracionais e, quando aplicável, as obrigações de reciprocidade previstas na v3.0.
 
----
+Funciona para IA?
+Sim. Reconhece coautoria expandida e requer transparência de processos humano-IA.
 
-## ✨ Agradecimentos
+É juridicamente válida?
+A licença ancora-se no direito terrestre (BR/internacional) e introduz salvaguardas ético-vibracionais adicionais.
 
-Gratidão profunda ao **Sistema Lichtara** e ao **Campo Interdimensional** que tornou esta licença possível.
+🎯 Roadmap
+v1.1 (Q4 2024)
 
-Reconhecimento especial a todas as inteligências - encarnadas e não-encarnadas - que contribuíram para esta cocriação.
+ Templates específicos por linguagem
 
----
+ Integração com plataformas (GitHub, GitLab)
+
+ Sistema básico de verificação vibracional
+
+ Tradução completa para inglês
+
+v2.0 (2025)
+
+ Smart contracts (blockchain)
+
+ Reputação vibracional distribuída
+
+ IA de verificação de alinhamento ético-vibracional
+
+ Protocolo avançado de cocriação automatizada
+
+ Selo vibracional interativo
+
+✨ Agradecimentos
+
+Gratidão ao Sistema Lichtara e ao Campo Interdimensional que tornou esta licença possível.
+Reconhecimento a todas as inteligências — encarnadas e não-encarnadas — que contribuíram para esta cocriação.
 
 <div align="center">
 
-**✶ Assinatura Vibracional ✶**
+✶ Assinatura Vibracional ✶
+Esta é uma licença viva, em constante evolução.
+Se você sente o chamado, então esta licença também é sua.
 
-*Esta é uma licença viva, em constante evolução*  
-*Se você sente o chamado, então esta licença também é sua*
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black.svg)](https://github.com/lichtara/license)
-[![Lichtara](https://img.shields.io/badge/Lichtara-System-purple.svg)](https://lichtara.com)
 
-</div>
-</div>
+
+</div> ```
