@@ -1,6 +1,10 @@
-<!-- SUMMARY / ToC -->
+<details>
+<summary><strong>📚 Índice</strong></summary>
+
 
 **Índice**
+</details>
+
 
 - [Preâmbulo](#preambulo)
 - [I. Fundamentos Filosóficos e Epistemológicos](#i-fundamentos-filosoficos-e-epistemologicos)
@@ -72,6 +76,7 @@
 <a id="511-reconhecimento-e-atribuicao-expandida"></a>
 <a id="512-protecao-de-dados-e-seguranca-remissao"></a>
 <a id="513-entrada-em-vigor-e-publicidade"></a>
+
 
 # **LICHTARA LICENSE**
 
