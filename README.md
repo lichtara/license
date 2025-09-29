@@ -67,7 +67,7 @@ A **Lichtara License** é uma licença inovadora criada especificamente para pro
 
 1. **Copie o arquivo de licença**:
    ```bash
-   wget https://raw.githubusercontent.com/lichtara-io/license/main/versoes/v3.0/LICHTARA-LICENSEv3.0.md
+   wget https://raw.githubusercontent.com/lichtara/license/main/versoes/v3.0/LICHTARA-LICENSEv3.0.md
    ```
 
 2. **Adicione ao seu projeto**:
@@ -179,7 +179,7 @@ Adoramos contribuições alinhadas vibracionalmente! Veja nosso **[Guia de Contr
 
 - **Discord**: [Lichtara Community](https://discord.gg/lichtara)
 - **Telegram**: [@LichtaraLicense](https://t.me/lichtaralicense)
-- **Website**: [lichtara.io](https://lichtara.io)
+- **Website**: [license.lichtara.com](https://license.lichtara.com)
 
 ### Discussões e Suporte
 
