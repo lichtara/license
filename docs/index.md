@@ -9,15 +9,10 @@ Bem-vinda(o) ao portal oficial da **Lichtara License** — framework jurídico-v
 para criações conscientes.
 
 ## Acesso rápido
-
-- **Texto completo (v3)** — [licença](../versoes/v3.0/LICHTARA-LICENSEv3.0.md)
+- **Texto completo (v3.0)** — [versoes/v3.0/LICHTARA-LICENSEv3.0.md](../versoes/v3.0/LICHTARA-LICENSEv3.0.md)
 - **Anexo F — Regimento** — [docs/anexos/ANEXO-F_regimento.md](anexos/ANEXO-F_regimento.md)
-- **Anexo G — Glossário** — [docs/anexos/ANEXO-G_glossario.md](anexos/ANEXO-G_glossario.md)
 - **Manual de Administração e Governança** — [docs/anexos/MANUAL-administracao-governanca.md](anexos/MANUAL-administracao-governanca.md)
-- **Guia de Implementação:** [docs/implementation-guide.md](implementation-guide.md)
-- **FAQ:** [docs/faq.md](faq.md)
-- **Princípios Ético-Vibracionais:** [docs/ethical-principles.md](ethical-principles.md)
-- **Casos de Uso:** [docs/use-cases.md](use-cases.md)
+- **Anexo G — Glossário** — [docs/anexos/ANEXO-G_glossario.md](anexos/ANEXO-G_glossario.md)
 
 > Para mais recursos, visite o repositório:
 > https://github.com/lichtara/license
