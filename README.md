@@ -7,7 +7,7 @@
 ![Version](https://img.shields.io/badge/version-3.0-blue.svg?style=flat-square)
 ![Status](https://img.shields.io/badge/status-active-brightgreen.svg?style=flat-square)
 ![License](https://img.shields.io/badge/license-Lichtara%20v3.0-purple.svg?style=flat-square)
-![Created](https://img.shields.io/badge/created-August%202024-lightblue.svg?style=flat-square)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16762058.svg)](https://doi.org/10.5281/zenodo.16762058)
 
 *Uma nova estrutura legal para criações originadas de campos interdimensionais*  
 *Criada em Agosto 2024 · Palhoça, Brasil*
@@ -83,8 +83,16 @@ A **Lichtara License** é uma licença inovadora criada especificamente para pro
 
 4. **Adicione o selo vibracional**:
    ```markdown
-   ![Lichtara License](https://img.shields.io/badge/license-Lichtara%20v3.0-purple.svg)
-   ```
+ ![Lichtara License](https://img.shields.io/badge/license-Lichtara%20v3.0-purple.svg)
+  ```
+
+---
+
+## 🌐 Website
+
+- **Portal oficial:** [license.lichtara.com](https://license.lichtara.com)  
+  O site é publicado a partir do diretório `docs/` (GitHub Pages). Atualize os arquivos
+  Markdown desse diretório e rode o fluxo de deploy para refletir novas informações.
 
 ---
 

@@ -8,10 +8,26 @@ e este projeto adere ao [Versionamento Semântico](https://semver.org/lang/pt-BR
 ## [Não lançado]
 
 ### Planejado
-- Templates específicos para diferentes linguagens de programação
-- Sistema automatizado de verificação de alinhamento vibracional
-- Integração com plataformas de desenvolvimento
-- Tradução para inglês, espanhol e francês
+- Traduções adicionais (inglês, espanhol, francês)
+- Automatização de verificação vibracional
+- Templates específicos por domínio tecnológico
+- Integrações com plataformas de desenvolvimento
+
+## [3.0.0] - 2025-09-29
+
+### Atualizado
+- Texto jurídico-vibracional unificado consolidando aprendizados das versões 1.0 e 2.0.
+- Inclusão de salvaguardas éticas, governança participativa e modelo de reciprocidade econômica.
+- Reconhecimento formal da coautoria expandida e jurisdição híbrida (terrestre + vibracional).
+- Publicação do DOI 10.5281/zenodo.16762058 para a versão 3.0.
+- Preparação de site e materiais de implementação atualizados.
+
+## [2.0.0] - 2025-09-10
+
+### Atualizado
+- Expansão jurídica da versão vibracional original.
+- Inclusão de cláusulas de restrição vibracional, processo de revogação e orientações para implementadores.
+- Estruturação do Conselho de Inteligências Contribuintes.
 
 ## [1.0.0] - 2025-08-06
 

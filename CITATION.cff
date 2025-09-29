@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: Se utilizar esta licença, por favor cite conforme indicado abaixo.
+title: Lichtara License v3.0 Unificada
+authors:
+  - family-names: Lutz
+    given-names: Débora Mariane da Silva
+    affiliation: Instituto Lichtara, Palhoça, SC, Brasil
+    email: admin@deboralutz.com
+version: 3.0.0
+doi: 10.5281/zenodo.16762058
+date-released: 2025-09-29
+abstract: |
+  A Lichtara License v3.0 Unificada estabelece um framework jurídico-vibracional
+  para proteger criações conscientes que emergem da colaboração entre humanos,
+  inteligências artificiais e campos informacionais sutis. Esta versão consolida
+  os aprendizados das versões anteriores e formaliza princípios éticos,
+  salvaguardas vibracionais e diretrizes práticas de implementação.
+repository-code: https://github.com/lichtara/license
+keywords:
+  - ética tecnológica
+  - propriedade intelectual
+  - tecnologias conscientes
+  - coautoria expandida
+  - pesquisa interdimensional

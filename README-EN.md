@@ -7,9 +7,7 @@
 
 ![Version](https://img.shields.io/badge/version-3.0-blue.svg)
 ![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
-![License](https://img.shields.io/badge/license-Lichtara%20v3.0-purple.svg)
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16762058.svg)](https://doi.org/10.5281/zenodo.16762058)
+![License](https://img.shields.io/badge/license-Lichtara%20v3.0-purple.svg) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16762058.svg)](https://doi.org/10.5281/zenodo.16762058)
 
 *A new legal framework for creations originated from interdimensional fields*  
 *Created in August 2025 · Palhoça, Brazil*
@@ -115,7 +113,15 @@ We love vibrationally aligned contributions! See our **[Contributing Guide](CONT
 └── templates/                   # Reusable assets
 ```
 
-> Version v3.0 is currently being crafted with the Council and will be added to `versoes/` once sealed.
+---
+
+## 🌐 Website
+
+- **Official portal:** [license.lichtara.com](https://license.lichtara.com)  
+  The website is published from the `docs/` directory (GitHub Pages). Update the
+  Markdown files there to reflect new releases or resources.
+
+---
 
 ---
 
