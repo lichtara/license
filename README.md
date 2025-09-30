@@ -78,7 +78,7 @@ curl -O [https://raw.githubusercontent.com/lichtara/license/main/versoes/v3.0/LI
 
 ```markdown
 ## Licença
-Este projeto está licenciado sob a [Lichtara License v3.0](versoes/v3.0/[LICHTARA-LICENSEv3.0.md](http://LICHTARA-LICENSEv3.0.md)).
+Este projeto está licenciado sob a [Lichtara License v3.0](versoes/v3.0/LICHTARA-LICENSEv3.0.md).
 ```
 
 1. **Adicione o selo**
