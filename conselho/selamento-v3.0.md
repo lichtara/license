@@ -22,7 +22,7 @@
 ## O que mudou nesta versão
 
 - Texto completo consolidado em [LICENSE.md](../LICENSE.md) (raiz)
-- Cópia canônica em `versoes/v3.0/[LICHTARA-LICENSEv3.0.md](../versoes/v3.0/LICHTARA-LICENSEv3.0.md)`
+- Cópia canônica em [Lichtara License v3.0](../versoes/v3.0/LICHTARA-LICENSEv3.0.md)
 - READMEs atualizados para apontar v3.0, com instruções e mapa de diretórios
 
 ## Orientações de uso
