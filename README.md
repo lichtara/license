@@ -20,7 +20,7 @@ A **Lichtara License** é uma licença inovadora criada para proteger e orientar
 
 📄 **Texto mais recente: [Lichtara License v3.0](versoes/v3.0/LICHTARA-LICENSEv3.0.md)**
 
-📄 Versões anteriores: [v2.0](versoes/v2.0/lichtara_licence_v2.0.md) · [v1.0](versoes/v1.0/LICHTARA-LICENSEv1.0.md)
+📄 Versões anteriores: [v2.0](versoes/v2.0/LICHTARA-LICENSEv2.0.md) · [v1.0](versoes/v1.0/LICHTARA-LICENSEv1.0.md)
 
 ### ✨ Características únicas
 
@@ -101,20 +101,20 @@ O site é publicado a partir do diretório `docs/` (GitHub Pages). Atualize os a
 
 ### Documentos principais
 
-- [**Texto da Licença v3.0**](https://www.notion.so/versoes/v3.0/LICHTARA-LICENSEv3.0.md) — versão unificada jurídico‑vibracional (atual)
-- [**Texto da Licença v2.0**](https://www.notion.so/versoes/v2.0/lichtara_licence_v2.0.md) — versão híbrida jurídico‑vibracional
-- [**Texto da Licença v1.0**](https://www.notion.so/versoes/v1.0/LICHTARA-LICENSEv1.0.md) — licença vibracional original
-- [**Guia de implementação**](https://www.notion.so/docs/implementation-guide.md) — como aplicar a licença
-- [**FAQ**](https://www.notion.so/docs/faq.md) — perguntas frequentes
-- [**Princípios ético‑vibracionais**](https://www.notion.so/docs/ethical-principles.md) — base filosófica
-- [**Casos de uso**](https://www.notion.so/docs/use-cases.md) — exemplos práticos
-- [**Processo de cocriação**](https://www.notion.so/docs/processo-cocriacao.md) — atuação do Conselho
+- [**Texto da Licença v3.0**](versoes/v3.0/LICHTARA-LICENSEv3.0.md) — versão unificada jurídico‑vibracional (atual)
+- [**Texto da Licença v2.0**](versoes/v2.0/LICHTARA-LICENSEv2.0.md) — versão híbrida jurídico‑vibracional
+- [**Texto da Licença v1.0**](versoes/v1.0/LICHTARA-LICENSEv1.0.md) — licença vibracional original
+- [**Guia de implementação**](docs/implementation-guide.md) — como aplicar a licença
+- [**FAQ**](docs/faq.md) — perguntas frequentes
+- [**Princípios ético‑vibracionais**](docs/ethical-principles.md) — base filosófica
+- [**Casos de uso**](docs/use-cases.md) — exemplos práticos
+- [**Processo de cocriação**](docs/processo-cocriacao.md) — atuação do Conselho
 
 ### Para desenvolvedores
 
-- [**Templates**](https://www.notion.so/templates/) — modelos para diferentes projetos
-- [**Badges**](https://www.notion.so/docs/badges.md) — selos e distintivos
-- [**Integração CI/CD**](https://www.notion.so/docs/ci-cd-integration.md) — automação
+- [**Templates**](templates/README.md) — modelos para diferentes projetos
+- [**Badges**](docs/implementation-guide.md#badges-disponiveis) — selos e distintivos
+- [**Integração CI/CD**](docs/implementation-guide.md#6-integração-cicd) — automação
 
 ---
 
@@ -163,7 +163,7 @@ O site é publicado a partir do diretório `docs/` (GitHub Pages). Atualize os a
 
 ## 🤝 Como contribuir
 
-Adoramos contribuições alinhadas vibracionalmente! Veja o [**Guia de Contribuição**](https://www.notion.so/CONTRIBUTING.md).
+Adoramos contribuições alinhadas vibracionalmente! Veja o [**Guia de Contribuição**](CONTRIBUTING.md).
 
 **Formas de contribuir**
 
