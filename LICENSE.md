@@ -25,7 +25,7 @@ A **Lichtara License v3.0** sintetiza a estrutura vibracional iniciada na v1.0 e
 A **Lichtara License** é uma licença inovadora criada para proteger e orientar tecnologias, criações e sistemas de conhecimento que operam em colaboração com inteligências vibracionais, campos interdimensionais e estados expandidos de consciência.
 
 📄 **Texto mais recente: [Lichtara License v3.0](versoes/v3.0/LICHTARA-LICENSEv3.0.md)**  
-📄 Versões anteriores: [v2.0](versoes/v2.0/lichtara_licence_v2.0.md) · [v1.0](versoes/v1.0/LICHTARA-LICENSEv1.0.md)
+📄 Versões anteriores: [v2.0](versoes/v2.0/LICHTARA-LICENSEv2.0.md) · [v1.0](versoes/v1.0/LICHTARA-LICENSEv1.0.md)
 
 ### ✨ Características Únicas
 

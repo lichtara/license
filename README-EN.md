@@ -61,7 +61,7 @@ The **Lichtara License** is an innovative license created specifically to protec
 ### Main Documents
 
 - **[License Text v3.0](versoes/v3.0/LICHTARA-LICENSEv3.0.md)** - Unified legal-vibrational version (current)
-- **[License Text v2.0](versoes/v2.0/lichtara_licence_v2.0.md)** - Hybrid legal-vibrational version
+- **[License Text v2.0](versoes/v2.0/LICHTARA-LICENSEv2.0.md)** - Hybrid legal-vibrational version
 - **[License Text v1.0](versoes/v1.0/LICHTARA-LICENSEv1.0.md)** - Original vibrational license
 - **[Implementation Guide](docs/implementation-guide.md)** - How to apply the license
 - **[FAQ](docs/faq.md)** - Frequently asked questions

@@ -124,6 +124,34 @@ https://github.com/lichtara-io/license
 """
 ```
 
+### 6. Integração CI/CD
+
+Automatize verificações para garantir que o repositório permaneça em conformidade com a Lichtara License:
+
+```yaml
+name: Lichtara License Guard
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  check-license:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verificar presença da licença
+        run: |
+          test -f LICENSE.md
+      - name: Validar referências
+        run: |
+          grep -R "Lichtara License v3.0" -n README.md docs/
+```
+
+> 💡 Ajuste os comandos conforme seu stack (por exemplo, adicionando linters ou testes vibracionais automatizados).
+
 ## 🎨 Elementos Visuais
 
 ### Badges Disponíveis
