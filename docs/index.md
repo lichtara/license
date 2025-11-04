@@ -13,6 +13,7 @@ para criações conscientes.
 - **Anexo F — Regimento** — [docs/anexos/ANEXO-F_regimento.md](anexos/ANEXO-F_regimento.md)
 - **Manual de Administração e Governança** — [docs/anexos/MANUAL-administracao-governanca.md](anexos/MANUAL-administracao-governanca.md)
 - **Anexo G — Glossário** — [docs/anexos/ANEXO-G_glossario.md](anexos/ANEXO-G_glossario.md)
+- **Relatório de Verificação (out/2025)** — [docs/anexos/RELATORIO-2025-10-24-verificacao-lichtara-license-v3.md](anexos/RELATORIO-2025-10-24-verificacao-lichtara-license-v3.md)
 
 > Para mais recursos, visite o repositório:
 > https://github.com/lichtara/license

@@ -109,6 +109,7 @@ O site é publicado a partir do diretório `docs/` (GitHub Pages). Atualize os a
 - [**Princípios ético‑vibracionais**](docs/ethical-principles.md) — base filosófica
 - [**Casos de uso**](docs/use-cases.md) — exemplos práticos
 - [**Processo de cocriação**](docs/processo-cocriacao.md) — atuação do Conselho
+- [**Relatório de verificação (24/10/2025)**](docs/anexos/RELATORIO-2025-10-24-verificacao-lichtara-license-v3.md) — status da adoção da Lichtara License v3.0 e pendências
 
 ### Para desenvolvedores
 
