@@ -525,9 +525,10 @@ Pelo presente, a comunidade de guardiões desta licença reafirma sua adesão ao
 
 # **CITAÇÃO E REFERÊNCIA**
 
-**Citação Acadêmica:**<br>Lutz, D. M. S. (2025). *Lichtara License: A Legal-Vibrational Framework for Conscious Technologies and Interdimensional Research*. Zenodo. https://doi.org/10.5281/zenodo.16762058
+**Citação Acadêmica:**<br>Lutz, D. M. S. (2025). *Lichtara License: A Legal-Vibrational Framework for Conscious Technologies and Interdimensional Research*. Zenodo. https://doi.org/10.5281/zenodo.17702807
 
-**Atribuição Padrão:**<br>Baseado em trabalho de Débora Mariane da Silva Lutz e Sistema Lichtara
+
+**Atribuição Padrão:**<br>Baseado em trabalho de Débora Lutz e Sistema Lichtara
 
 Licenciado sob Lichtara License v3.1
 
