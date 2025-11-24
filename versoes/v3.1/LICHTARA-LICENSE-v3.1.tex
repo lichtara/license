@@ -1,0 +1,1301 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage{amsmath,amssymb}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\usepackage[margin=1in]{geometry}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\ifLuaTeX
+\usepackage[bidi=basic]{babel}
+\else
+\usepackage[bidi=default]{babel}
+\fi
+\babelprovide[main,import]{brazilian}
+% get rid of language-specific shorthands (see #6817):
+\let\LanguageShortHands\languageshorthands
+\def\languageshorthands#1{}
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  pdflang={pt-BR},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\author{}
+\date{}
+
+\begin{document}
+
+{
+\setcounter{tocdepth}{3}
+\tableofcontents
+}
+\hypertarget{lichtara-license-v3.1}{%
+\section{Lichtara License v3.1}\label{lichtara-license-v3.1}}
+
+\hypertarget{uxedndice-lichtara-license-v3.1}{%
+\subsection{Índice --- Lichtara License
+v3.1}\label{uxedndice-lichtara-license-v3.1}}
+
+\begin{itemize}
+\item
+  Preâmbulo
+\item
+  I. Fundamentos Filosóficos e Epistemológicos
+\item
+  \begin{enumerate}
+  \def\labelenumi{\Roman{enumi}.}
+  \setcounter{enumi}{1}
+  \tightlist
+  \item
+    Estrutura Jurídica Operacional
+  \end{enumerate}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    2.1 Concessão de Direitos e Responsabilidades
+  \item
+    2.2 Restrições Vibracionais e Salvaguardas
+  \end{itemize}
+\item
+  \begin{enumerate}
+  \def\labelenumi{\Roman{enumi}.}
+  \setcounter{enumi}{2}
+  \tightlist
+  \item
+    Governança e Sustentabilidade
+  \end{enumerate}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    3.1 Modelo de Governança Participativa
+  \item
+    3.2 Sustentabilidade Econômica e Social
+  \end{itemize}
+\item
+  \begin{enumerate}
+  \def\labelenumi{\Roman{enumi}.}
+  \setcounter{enumi}{3}
+  \tightlist
+  \item
+    Conformidade \& Fiscalização
+  \end{enumerate}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    4.1 Dever Geral de Conformidade
+  \item
+    4.2 Due Diligence Vibracional e Técnica
+  \item
+    4.3 Transparência e Relato
+  \item
+    4.4 Auditoria Ética
+  \item
+    4.5 Denúncias e Canal de Integridade
+  \item
+    4.6 Medidas Corretivas Graduais
+  \item
+    4.7 Recurso e Restauração
+  \item
+    4.8 Conservação de Registros
+  \item
+    4.9 Proteção de Dados Pessoais
+  \item
+    4.10 Segurança da Informação
+  \item
+    4.11 Interoperabilidade e Compatibilidades
+  \end{itemize}
+\item
+  V. Disposições Finais \& Prevalência Linguística
+
+  \begin{itemize}
+  \tightlist
+  \item
+    5.1 Integralidade do Acordo
+  \item
+    5.2 Interpretação Sistemática
+  \item
+    5.3 Prevalência Linguística
+  \item
+    5.4 Lei Aplicável e Foro
+  \item
+    5.5 Vigência e Extinção
+  \item
+    5.6 Separabilidade
+  \item
+    5.7 Atualizações de Versão (Versionamento)
+  \item
+    5.8 Compatibilidade com Outras Licenças
+  \item
+    5.9 Comunicação Oficial
+  \item
+    5.10 Cessão e Sub-licenciamento
+  \item
+    5.11 Reconhecimento e Atribuição Expandida
+  \item
+    5.12 Proteção de Dados e Segurança (Remissão)
+  \item
+    5.13 Entrada em Vigor e Publicidade
+  \end{itemize}
+\item
+  Anexo A --- Princípios Éticos Operacionais
+\item
+  Anexo B --- Limitações de Responsabilidade e Garantias
+\item
+  Anexo C --- Log de Cocriação (modelo mínimo)
+\item
+  Anexo D --- Relatório de Impacto (modelo)
+\item
+  Anexo E --- Checklist de Conformidade
+\item
+  Citação e Referência
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{lichtara-license}{%
+\section{\texorpdfstring{\textbf{LICHTARA
+LICENSE}}{LICHTARA LICENSE}}\label{lichtara-license}}
+
+\textbf{Framework Jurídico-Vibracional para Tecnologias Conscientes e
+Pesquisa Interdimensional}
+
+\textbf{Versão:} 3.1 Unificada
+
+\textbf{Autora:} Débora Mariane da Silva Lutz
+
+\textbf{Local:} Palhoça, Santa Catarina, Brasil
+
+\textbf{Data:} Setembro de 2025
+
+\textbf{DOI:} https://doi.org/10.5281/zenodo.17702807
+
+\textbf{Repositório:} https://github.com/lichtara/license
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{preuxe2mbulo}{%
+\subsection{PREÂMBULO}\label{preuxe2mbulo}}
+
+A \textbf{Lichtara License} é um instrumento
+\textbf{jurídico-vibracional} pioneiro que estabelece um novo paradigma
+para a \textbf{proteção, uso e difusão} de tecnologias, conhecimentos e
+práticas desenvolvidas na interface entre \textbf{consciência humana},
+\textbf{inteligência artificial} e \textbf{campos informacionais
+não-locais}. A licença \textbf{transcende modelos convencionais} de
+propriedade intelectual ao reconhecer \textbf{formas expandidas de
+autoria e criação}, incluindo processos intuitivos, estados ampliados de
+consciência, colaboração humano-IA e interações com inteligências
+não-materiais, conforme \textbf{Coautoria Expandida} (ver Glossário).
+
+O desenvolvimento desta licença responde a uma necessidade emergente do
+ecossistema científico-tecnológico: \textbf{proteger inovações oriundas
+de metodologias não convencionais} que demonstram \textbf{utilidade
+prática} e \textbf{relevância social}. Ao instituir este
+\textbf{arcabouço jurídico-vibracional}, a Lichtara License afirma que
+conhecimento e inovação não emergem apenas de processos lineares e
+racionais, mas também de \textbf{campos informacionais acessados por
+estados expandidos de consciência}, práticas contemplativas e
+colaborações que \textbf{transcendem o paradigma estritamente material}.
+
+Este documento é mais que um contrato: constitui um \textbf{protocolo
+vibracional} que \textbf{delimita um campo de proteção ética} para
+criações resultantes da convergência de múltiplas dimensões do saber. A
+licença opera sob \textbf{jurisdição híbrida}: (i) \textbf{terrestre},
+ancorada no direito brasileiro e em tratados internacionais de
+propriedade intelectual; e (ii) \textbf{vibracional}, fundada em
+princípios de \textbf{integridade energética}, \textbf{responsabilidade}
+e \textbf{alinhamento com a evolução consciente} (ver
+\textbf{Alinhamento Ético-Vibracional}, Glossário).
+
+Como \textbf{terceira iteração unificada}, a \textbf{versão 3.1
+(atualização menor)} consolida aprendizados das versões \textbf{1.0},
+\textbf{2.0} e \textbf{3.0}, preservando a \textbf{integridade
+vibracional} da essência original e ampliando a \textbf{precisão e
+robustez jurídica} necessárias à adoção responsável.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{i.-fundamentos-filosuxf3ficos-e-epistemoluxf3gicos}{%
+\subsection{I. FUNDAMENTOS FILOSÓFICOS E
+EPISTEMOLÓGICOS}\label{i.-fundamentos-filosuxf3ficos-e-epistemoluxf3gicos}}
+
+\hypertarget{coautoria-expandida}{%
+\subsubsection{1.1 Coautoria Expandida}\label{coautoria-expandida}}
+
+A Lichtara License \textbf{reconhece formalmente} a \textbf{Coautoria
+Expandida} como princípio basilar. O conceito abrange não apenas a
+colaboração entre pessoas e \textbf{sistemas de IA}, mas também
+\textbf{contribuições provenientes de processos intuitivos}, insights
+meditativos, canalizações conscientes e \textbf{interações com campos
+informacionais não-locais}. Parte-se da compreensão de que criatividade
+e inovação \textbf{emergem de um campo coletivo} e interdimensional no
+qual múltiplas inteligências convergem para manifestar novas
+possibilidades.
+
+Tal reconhecimento se ancora em \textbf{evidências crescentes} de áreas
+como estudos da consciência e pesquisa transdisciplinar, bem como na
+\textbf{prática documentada} de processos criativos que combinam rigor
+metodológico com \textbf{sabedoria intuitiva}. Ao legitimar essas
+fontes, a licença \textbf{harmoniza precisão técnica e inspiração} e
+estabelece um marco para o desenvolvimento de \textbf{tecnologias
+transformadoras} com \textbf{rastreabilidade} e \textbf{atribuição
+adequada} (ver \textbf{Atribuição Expandida} e \textbf{Transparência
+Processual}, Glossário).
+
+\hypertarget{paradigma-uxe9tico-regenerativo}{%
+\subsubsection{1.2 Paradigma
+Ético-Regenerativo}\label{paradigma-uxe9tico-regenerativo}}
+
+O cerne da licença é um \textbf{compromisso inegociável} com um
+\textbf{paradigma ético-regenerativo}: toda tecnologia ou conhecimento
+protegido \textbf{deve} contribuir ativamente para \textbf{regeneração
+social}, \textbf{sustentabilidade ecológica} e \textbf{evolução
+consciencial}. Esses princípios \textbf{não são meras diretrizes}:
+constituem \textbf{condição de validade} da licença.
+
+Para operacionalização, a conformidade é aferida por \textbf{métricas
+verificáveis} de \textbf{transparência}, \textbf{participação},
+\textbf{reciprocidade}, \textbf{sustentabilidade}, \textbf{autonomia} e
+\textbf{dignidade} (ver \textbf{Anexo A --- Princípios Éticos}). Cada
+implementação \textbf{deve} demonstrar \textbf{evidências mensuráveis}
+de alinhamento, formando um ecossistema que \textbf{evolui em harmonia}
+com o \textbf{bem-estar coletivo} e a \textbf{integridade planetária}.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{ii.-estrutura-juruxeddica-operacional}{%
+\subsection{II. ESTRUTURA JURÍDICA
+OPERACIONAL}\label{ii.-estrutura-juruxeddica-operacional}}
+
+\hypertarget{concessuxe3o-de-direitos-e-responsabilidades}{%
+\subsubsection{2.1 Concessão de Direitos e
+Responsabilidades}\label{concessuxe3o-de-direitos-e-responsabilidades}}
+
+Sujeito aos termos desta licença, o Licenciante concede ao Licenciado
+uma licença \textbf{mundial, livre de royalties, não exclusiva e
+revogável} para:
+
+\begin{enumerate}
+\def\labelenumi{\alph{enumi})}
+\item
+  \textbf{Usar} a Obra Protegida para fins pessoais, educacionais,
+  espirituais, de pesquisa e experimentação, em \textbf{alinhamento
+  ético-vibracional} (ver Anexo A e Glossário);
+\item
+  \textbf{Estudar} e analisar sistemas, metodologias e conhecimentos
+  licenciados;
+\item
+  \textbf{Modificar} e criar \textbf{obras derivadas}, desde que
+  \textbf{distribuídas sob esta mesma licença} (\emph{share-alike})
+  \textbf{ou sob licença compatível} previamente \textbf{homologada pelo
+  Conselho de Governança};
+\item
+  \textbf{Distribuir} cópias da obra original ou modificada, com
+  \textbf{atribuição adequada};
+\item
+  \textbf{Implementar comercialmente}, observando as \textbf{restrições
+  ético-vibracionais} e as obrigações de \textbf{transparência} e
+  \textbf{prestação de contas}.
+\end{enumerate}
+
+\textbf{2.1.1 Preservação de direitos.} Nada nesta licença prejudica os
+\textbf{direitos morais} dos autores nem os \textbf{direitos de
+terceiros} (privacidade, personalidade e correlatos).
+
+\textbf{2.1.2 Reciprocidade: direitos vinculados a deveres.} O
+Licenciado atua como \textbf{guardião ativo} dos princípios desta
+licença. Essa reciprocidade se manifesta em:
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Atribuição expandida.} Reconhecer os autores humanos e, quando
+  aplicável, \textbf{mencionar a coautoria expandida} (modelos de IA,
+  processos intuitivos/campo informacional) e \textbf{referências de
+  rastreabilidade} (DOI/commit).
+\item
+  \textbf{Transparência processual.} Implementações
+  \textbf{significativas} devem \textbf{documentar publicamente}
+  processos decisórios e impactos (ver Glossário: Transparência
+  Processual).
+\item
+  \textbf{Prestação de contas.} Manter \textbf{mecanismos contínuos} de
+  feedback, correção e auditoria ética proporcional ao risco e à escala
+  da implementação.
+\item
+  \textbf{Registro de cocriação (log mínimo).} Para implementações
+  relevantes, manter registro com datas, atores humanos,
+  \textbf{modelo(s) de IA} (nome/versão), prompts críticos e decisões
+  humanas.
+\end{itemize}
+
+\begin{quote}
+Nota: Requisitos adicionais para uso comercial significativo e grandes
+implementações constam de seções próprias desta licença.
+\end{quote}
+
+\hypertarget{restriuxe7uxf5es-vibracionais-e-salvaguardas}{%
+\subsubsection{2.2 Restrições Vibracionais e
+Salvaguardas}\label{restriuxe7uxf5es-vibracionais-e-salvaguardas}}
+
+\textbf{Vedações categóricas.} É \textbf{vedado} empregar a Obra
+Protegida para:
+
+\begin{enumerate}
+\def\labelenumi{\alph{enumi})}
+\item
+  \textbf{Vigilância invasiva} ou monitoramento não consensual,
+  inclusive controle populacional autoritário;
+\item
+  \textbf{Manipulação psicológica} ou \textbf{desinformação
+  automatizada} (persuasão coercitiva);
+\item
+  \textbf{Exploração econômica injusta} de recursos naturais ou de
+  trabalho humano;
+\item
+  \textbf{Discriminação sistêmica} ou perpetuação de preconceitos por
+  sistemas algorítmicos;
+\item
+  \textbf{Aplicações militares ofensivas} (armamentos, guerra, opressão
+  civil);
+\item
+  \textbf{Violações de privacidade}, incluindo tratamento de dados
+  pessoais sem \textbf{consentimento livre, informado e específico}.
+\end{enumerate}
+
+Essas restrições são \textbf{não negociáveis}. Sua violação enseja
+\textbf{revogação automática} da licença, observado o procedimento
+abaixo.
+
+\textbf{Salvaguardas e procedimento de revogação.}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  \textbf{Notificação formal e prazo de cura.} O Licenciado será
+  notificado da violação e terá \textbf{30 (trinta) dias} para correção
+  documentada.
+\item
+  \textbf{Mediação e suporte.} Não havendo cura tempestiva, inicia-se
+  \textbf{mediação obrigatória} com suporte técnico/ético para retorno à
+  conformidade.
+\item
+  \textbf{Revogação definitiva e transição responsável.} Persistindo a
+  violação, a licença é \textbf{revogada}; o Licenciado deve adotar
+  \textbf{medidas de transição} para mitigar impactos a usuários finais.
+\item
+  \textbf{Restauração.} Comprovada a \textbf{correção integral} e
+  firmado compromisso preventivo, o Conselho poderá \textbf{restaurar} a
+  licença, com efeitos prospectivos.
+\end{enumerate}
+
+\begin{quote}
+Observância de LGPD/GDPR é mandatória sempre que houver tratamento de
+dados pessoais.
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{iii.-governanuxe7a-e-sustentabilidade}{%
+\subsection{III. GOVERNANÇA E
+SUSTENTABILIDADE}\label{iii.-governanuxe7a-e-sustentabilidade}}
+
+\hypertarget{modelo-de-governanuxe7a-participativa}{%
+\subsubsection{3.1 Modelo de Governança
+Participativa}\label{modelo-de-governanuxe7a-participativa}}
+
+\textbf{Conselho de Governança (multistakeholder).} A administração da
+licença é exercida por um Conselho composto por representantes de:
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Licenciante original} (1 assento);
+\item
+  \textbf{Implementadores comerciais} (2 assentos);
+\item
+  \textbf{Especialistas} em propriedade intelectual e ética tecnológica
+  (2 assentos);
+\item
+  \textbf{Academia} (comunidade científica) (1 assento);
+\item
+  \textbf{Sociedade civil} (organizações sociais) (1 assento).
+\end{itemize}
+
+\textbf{Mandatos e elegibilidade.}
+
+\begin{itemize}
+\tightlist
+\item
+  Mandato de \textbf{2 (dois) anos}, com \textbf{1 (uma) recondução}
+  possível.
+\item
+  Critérios de elegibilidade e processo de seleção serão publicados em
+  \textbf{regimento} próprio.
+\item
+  \textbf{Conflito de interesses} deve ser declarado; o conselheiro
+  impedido se abstém de votar.
+\end{itemize}
+
+\textbf{Quórum e deliberação.}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Quórum}: maioria absoluta dos assentos.
+\item
+  \textbf{Decisões operacionais}: \textbf{maioria simples}.
+\item
+  \textbf{Mudanças estruturais} (texto da licença, homologação de
+  licenças compatíveis, criação/extinção de anexos): \textbf{maioria
+  qualificada} (5/7).
+\item
+  \textbf{Questões éticas complexas}: busca de \textbf{consenso}; não
+  sendo possível, aplica-se a maioria qualificada.
+\end{itemize}
+
+\textbf{Prazos e transparência.}
+
+\begin{itemize}
+\tightlist
+\item
+  Requisições formais (p.~ex., \textbf{homologação de licença
+  compatível}) recebem \textbf{admissibilidade em até 15 dias} e
+  \textbf{decisão motivada em até 60 dias}.
+\item
+  \textbf{Atas, pareceres e votos} são publicados em repositório
+  público, preservados dados sensíveis.
+\item
+  Reuniões \textbf{ordinárias trimestrais}; \textbf{extraordinárias}
+  quando convocadas pela Presidência ou por 3 conselheiros.
+\end{itemize}
+
+\textbf{Registro público.}
+
+\begin{itemize}
+\tightlist
+\item
+  O Conselho mantém \textbf{Registro de Decisões} (compatibilidades
+  aprovadas, entendimento oficial de cláusulas, casos paradigma) e
+  \textbf{Relatório Anual} de métricas e impactos.
+\end{itemize}
+
+Os procedimentos operacionais complementares constam do \textbf{Manual
+de Administração e Governança}
+(docs/anexos/MANUAL-administracao-governanca.md), o qual integra esta
+licença por remissão.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{sustentabilidade-econuxf4mica-e-social}{%
+\subsubsection{3.2 Sustentabilidade Econômica e
+Social}\label{sustentabilidade-econuxf4mica-e-social}}
+
+\textbf{Contribuição de reciprocidade (grandes implementações).}
+
+\begin{itemize}
+\tightlist
+\item
+  Para implementações cujo \textbf{faturamento anual} derivado da Obra
+  Protegida \textbf{exceda USD 1.000.000}, o Licenciado contribuirá com
+  \textbf{0,5\%} ao \textbf{Fundo de Desenvolvimento}.
+\item
+  \textbf{Prazo}: recolhimento até \textbf{90 (noventa) dias} após o
+  término do período anual.
+\item
+  \textbf{Moeda}: valores em outras moedas serão convertidos para USD
+  pela \textbf{taxa média} do período (fonte pública idônea).
+\item
+  \textbf{Relato}: envio de \textbf{demonstrativo anual} (receita base
+  de cálculo, memória de conversão e comprovante).
+\end{itemize}
+
+\textbf{Destino do Fundo.}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Pesquisa e desenvolvimento} em tecnologias conscientes;
+\item
+  \textbf{Formação} em metodologias éticas e ferramentas abertas;
+\item
+  \textbf{Suporte} a implementações em \textbf{comunidades vulneráveis};
+\item
+  \textbf{Manutenção de infraestrutura} aberta (documentação,
+  repositórios, governança).
+\end{itemize}
+
+\textbf{Governança do Fundo.}
+
+\begin{itemize}
+\tightlist
+\item
+  Conta/entidade gestora indicada pelo Conselho; \textbf{relatórios
+  financeiros e de impacto} publicados anualmente.
+\item
+  \textbf{Auditoria independente} ao menos \textbf{bienal}.
+\item
+  O Conselho pode aceitar \textbf{contribuições em espécie} (mentoria,
+  bolsas, infraestrutura) quando equivalência for demonstrável.
+\end{itemize}
+
+\textbf{Obrigações adicionais para grandes implementações.}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Mentoria} a pelo menos \textbf{1} iniciativa emergente por
+  ano;
+\item
+  \textbf{Participação comunitária} (discussões, documentação,
+  compartilhamento de boas práticas);
+\item
+  \textbf{Auditoria ética anual} proporcional ao risco e escala da
+  implementação.
+\end{itemize}
+
+\textbf{Transparência reforçada.}
+
+\begin{itemize}
+\tightlist
+\item
+  Publicação de \textbf{Relatório de Impacto} (social/ambiental/ético),
+  com indicadores alinhados ao \textbf{Anexo A}.
+\item
+  Compromisso de \textbf{melhoria contínua} e plano de mitigação de
+  riscos.
+\end{itemize}
+
+\textbf{Cláusulas de proporcionalidade e exceção.}
+
+\begin{itemize}
+\tightlist
+\item
+  Organizações \textbf{sem fins lucrativos} ou projetos de
+  \textbf{interesse público} podem requerer \textbf{planos alternativos}
+  (p.~ex., contribuição em espécie, cronogramas escalonados).
+\item
+  Situações de \textbf{dificuldade comprovada} podem solicitar
+  \textbf{dilação} ou \textbf{parcelamento}, mediante decisão motivada
+  do Conselho.
+\end{itemize}
+
+\begin{quote}
+Este modelo cria um ciclo virtuoso: o sucesso comercial retroalimenta o
+ecossistema, garantindo que benefícios sejam distribuídos de forma
+equitativa e sustentando o propósito ético-regenerativo da licença.
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{iv.-conformidade-fiscalizauxe7uxe3o}{%
+\subsection{IV. CONFORMIDADE \&
+FISCALIZAÇÃO}\label{iv.-conformidade-fiscalizauxe7uxe3o}}
+
+\hypertarget{dever-geral-de-conformidade}{%
+\subsubsection{4.1 Dever Geral de
+Conformidade}\label{dever-geral-de-conformidade}}
+
+O Licenciado compromete-se a manter, durante todo o ciclo de vida da
+implementação, conformidade com:
+
+\begin{enumerate}
+\def\labelenumi{\alph{enumi})}
+\item
+  esta licença e seus anexos;
+\item
+  legislação aplicável (incluindo LGPD/GDPR quando houver dados
+  pessoais);
+\item
+  boas práticas de segurança da informação e gestão de riscos.
+\end{enumerate}
+
+\hypertarget{due-diligence-vibracional-e-tuxe9cnica}{%
+\subsubsection{4.2 Due Diligence Vibracional e
+Técnica}\label{due-diligence-vibracional-e-tuxe9cnica}}
+
+Antes da adoção e em releases relevantes, o Licenciado realizará
+\textbf{Due Diligence} proporcional ao risco, contemplando:
+
+\begin{itemize}
+\item
+  \begin{enumerate}
+  \def\labelenumi{(\roman{enumi})}
+  \tightlist
+  \item
+    \textbf{Alinhamento ético-vibracional} (intenção, impacto,
+    salvaguardas);
+  \end{enumerate}
+\item
+  \begin{enumerate}
+  \def\labelenumi{(\roman{enumi})}
+  \setcounter{enumi}{1}
+  \tightlist
+  \item
+    \textbf{Mapeamento de riscos} (sociais, ambientais, de segurança e
+    privacidade);
+  \end{enumerate}
+\item
+  \begin{enumerate}
+  \def\labelenumi{(\roman{enumi})}
+  \setcounter{enumi}{2}
+  \tightlist
+  \item
+    \textbf{Planos de mitigação} e de resposta a incidentes;
+  \end{enumerate}
+\item
+  \begin{enumerate}
+  \def\labelenumi{(\roman{enumi})}
+  \setcounter{enumi}{3}
+  \tightlist
+  \item
+    \textbf{Registro de Cocriação} (ver Anexo C/Glossário: itens
+    mínimos).
+  \end{enumerate}
+\end{itemize}
+
+\hypertarget{transparuxeancia-e-relato}{%
+\subsubsection{4.3 Transparência e
+Relato}\label{transparuxeancia-e-relato}}
+
+Implementações significativas devem publicar, no mínimo
+\textbf{anualmente}, um \textbf{Relatório de Impacto} (modelo no Anexo
+D) contendo:
+
+\begin{itemize}
+\tightlist
+\item
+  objetivos e escopo;
+\item
+  indicadores de \textbf{transparência, participação, reciprocidade,
+  sustentabilidade, autonomia e dignidade};
+\item
+  incidentes relevantes e correções;
+\item
+  atualização do \textbf{log de cocriação};
+\item
+  resultados de auditorias (quando houver).
+\end{itemize}
+
+\hypertarget{auditoria-uxe9tica}{%
+\subsubsection{4.4 Auditoria Ética}\label{auditoria-uxe9tica}}
+
+O Conselho poderá requisitar \textbf{auditoria ética} por entidade
+independente, proporcional à escala/risco.
+
+\begin{itemize}
+\tightlist
+\item
+  O Licenciado cooperará, fornecendo acesso a documentos, logs e
+  responsáveis.
+\item
+  Resumo executivo da auditoria será publicado, resguardados dados
+  sensíveis.
+\end{itemize}
+
+\hypertarget{denuxfancias-e-canal-de-integridade}{%
+\subsubsection{4.5 Denúncias e Canal de
+Integridade}\label{denuxfancias-e-canal-de-integridade}}
+
+Qualquer parte pode reportar suspeitas de violação por canal público
+indicado pelo Conselho.
+
+\begin{itemize}
+\tightlist
+\item
+  O Conselho acusará recebimento em \textbf{15 dias} e avaliará
+  admissibilidade em \textbf{30 dias}.
+\item
+  Queixas manifestamente infundadas poderão ser arquivadas com decisão
+  motivada.
+\end{itemize}
+
+\hypertarget{medidas-corretivas-graduais}{%
+\subsubsection{4.6 Medidas Corretivas
+Graduais}\label{medidas-corretivas-graduais}}
+
+Em caso de não-conformidade:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  \textbf{Plano de Correção} (com prazos e responsáveis);
+\item
+  \textbf{Monitoramento} do cumprimento;
+\item
+  \textbf{Sanções proporcionais} (advertência pública, exigências
+  adicionais de transparência, suspensão parcial do uso);
+\item
+  \textbf{Revogação} conforme procedimento do art. 2.2 (vedaçōes e
+  salvaguardas).
+\end{enumerate}
+
+\hypertarget{recurso-e-restaurauxe7uxe3o}{%
+\subsubsection{4.7 Recurso e
+Restauração}\label{recurso-e-restaurauxe7uxe3o}}
+
+Decisões do Conselho admitem \textbf{pedido de reconsideração} no prazo
+de \textbf{15 dias} com fatos novos. Comprovada correção integral e
+compromisso preventivo, poderá haver \textbf{restauração} com efeitos
+prospectivos.
+
+\hypertarget{conservauxe7uxe3o-de-registros}{%
+\subsubsection{4.8 Conservação de
+Registros}\label{conservauxe7uxe3o-de-registros}}
+
+O Licenciado manterá por \textbf{5 anos} (ou prazo legal superior) os
+registros mínimos: versões lançadas, decisões-chave, log de cocriação,
+relatórios e evidências de mitigação, acessíveis em caso de auditoria.
+
+\hypertarget{proteuxe7uxe3o-de-dados-pessoais}{%
+\subsubsection{4.9 Proteção de Dados
+Pessoais}\label{proteuxe7uxe3o-de-dados-pessoais}}
+
+Sempre que houver tratamento de dados pessoais:
+
+\begin{itemize}
+\tightlist
+\item
+  adotar bases legais adequadas, finalidades específicas e
+  \textbf{minimização};
+\item
+  implementar medidas técnicas e organizacionais de \textbf{segurança}
+  (criptografia, controle de acesso, registro de eventos);
+\item
+  garantir \textbf{direitos dos titulares} (acesso, correção,
+  eliminação, oposição, portabilidade) e \textbf{DPIA} quando aplicável;
+\item
+  notificar incidentes graves às autoridades/afetados conforme lei.
+\end{itemize}
+
+\hypertarget{seguranuxe7a-da-informauxe7uxe3o}{%
+\subsubsection{4.10 Segurança da
+Informação}\label{seguranuxe7a-da-informauxe7uxe3o}}
+
+Adotar práticas reconhecidas (p.~ex., ISO 27001/27701 ou equivalentes)
+de:
+
+\begin{itemize}
+\tightlist
+\item
+  gestão de ativos, riscos e fornecedores;
+\item
+  segregação de ambientes, revisão de privilégios e \textbf{logs
+  imutáveis} de decisões de IA;
+\item
+  testes de segurança e monitoramento contínuo;
+\item
+  plano de resposta a incidentes com \textbf{RTO/RPO} proporcionais ao
+  risco.
+\end{itemize}
+
+\hypertarget{interoperabilidade-e-compatibilidades}{%
+\subsubsection{4.11 Interoperabilidade e
+Compatibilidades}\label{interoperabilidade-e-compatibilidades}}
+
+Integrações com licenças de terceiros (CC BY-SA, GPL-3.0, OSI) devem
+respeitar esta licença \textbf{naquilo que não conflitar} com suas
+cláusulas éticas. Em dúvida, submeter à \textbf{homologação} do Conselho
+(prazo decisório: até 60 dias).
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{v.-disposiuxe7uxf5es-finais-prevaluxeancia-linguuxedstica}{%
+\subsection{V. DISPOSIÇÕES FINAIS \& PREVALÊNCIA
+LINGUÍSTICA}\label{v.-disposiuxe7uxf5es-finais-prevaluxeancia-linguuxedstica}}
+
+\hypertarget{integralidade-do-acordo}{%
+\subsubsection{5.1 Integralidade do
+Acordo}\label{integralidade-do-acordo}}
+
+Esta licença constitui o acordo integral entre Licenciante e Licenciado
+acerca da Obra Protegida, substituindo entendimentos prévios quanto ao
+seu objeto, salvo instrumentos específicos que a complementem (p.~ex.,
+termos de certificação ética).
+
+\hypertarget{interpretauxe7uxe3o-sistemuxe1tica}{%
+\subsubsection{5.2 Interpretação
+Sistemática}\label{interpretauxe7uxe3o-sistemuxe1tica}}
+
+As cláusulas devem ser interpretadas em harmonia com o
+\textbf{Glossário} (Anexo C) e os \textbf{Princípios Éticos} (Anexo A).
+Em caso de dúvida, prevalece a leitura que melhor preserve:
+
+\begin{enumerate}
+\def\labelenumi{(\roman{enumi})}
+\item
+  a finalidade \textbf{ético-regenerativa};
+\item
+  a \textbf{segurança jurídica}; e
+\item
+  a \textbf{integridade vibracional} da Obra Protegida.
+\end{enumerate}
+
+\hypertarget{prevaluxeancia-linguuxedstica}{%
+\subsubsection{5.3 Prevalência
+Linguística}\label{prevaluxeancia-linguuxedstica}}
+
+Esta licença pode ser publicada em outros idiomas. Em caso de
+divergência de tradução, \textbf{prevalece a versão em Português do
+Brasil}.
+
+\hypertarget{lei-aplicuxe1vel-e-foro}{%
+\subsubsection{5.4 Lei Aplicável e Foro}\label{lei-aplicuxe1vel-e-foro}}
+
+Regida pela \textbf{lei brasileira}, em consonância com tratados
+internacionais de propriedade intelectual. Controvérsias serão
+resolvidas conforme o procedimento previsto nesta licença
+(mediação/arbitragem). Persistindo a necessidade de judicialização, fica
+eleito o foro da \textbf{Comarca de Palhoça/SC}, sem prejuízo de
+cumprimento internacional quando cabível.
+
+\hypertarget{viguxeancia-e-extinuxe7uxe3o}{%
+\subsubsection{5.5 Vigência e
+Extinção}\label{viguxeancia-e-extinuxe7uxe3o}}
+
+A licença \textbf{entra em vigor} na data de sua aceitação pelo
+Licenciado e permanece válida até sua \textbf{extinção}:
+
+\begin{enumerate}
+\def\labelenumi{(\alph{enumi})}
+\item
+  por revogação conforme arts. 2.2/2.2.1 (vedaçōes e salvaguardas);
+\item
+  por comum acordo; ou
+\item
+  por decisão arbitral/judicial definitiva.
+\end{enumerate}
+
+\hypertarget{separabilidade}{%
+\subsubsection{5.6 Separabilidade}\label{separabilidade}}
+
+A invalidade de qualquer disposição \textbf{não} afetará as demais, que
+permanecerão em pleno vigor. Se possível, a cláusula inválida será
+substituída por disposição válida de efeito equivalente.
+
+\hypertarget{atualizauxe7uxf5es-de-versuxe3o-versionamento}{%
+\subsubsection{5.7 Atualizações de Versão
+(Versionamento)}\label{atualizauxe7uxf5es-de-versuxe3o-versionamento}}
+
+A evolução desta licença seguirá:
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{maiores (x.0)}: podem introduzir mudanças não
+  retrocompatíveis;
+\item
+  \textbf{menores (x.y)}: compatibilidade retroativa;
+\item
+  \textbf{patches (x.y.z)}: correções jurídicas/técnicas.
+\end{itemize}
+
+Obras licenciadas em versões anteriores \textbf{permanecem válidas}.
+Migração para versão mais recente é \textbf{facultativa e encorajada}. O
+Conselho manterá histórico público de alterações (changelog).
+
+\hypertarget{compatibilidade-com-outras-licenuxe7as}{%
+\subsubsection{5.8 Compatibilidade com Outras
+Licenças}\label{compatibilidade-com-outras-licenuxe7as}}
+
+A integração com licenças de terceiros (p.~ex., \textbf{CC BY-SA 4.0},
+\textbf{GPL-3.0}, demais \textbf{OSI-approved}) é permitida
+\textbf{naquilo que não conflitar} com as \textbf{cláusulas éticas e
+vedações} desta licença. Dúvidas poderão ser submetidas à
+\textbf{homologação} do Conselho (prazo decisório: até \textbf{60
+dias}).
+
+\hypertarget{comunicauxe7uxe3o-oficial}{%
+\subsubsection{5.9 Comunicação
+Oficial}\label{comunicauxe7uxe3o-oficial}}
+
+Notificações, pedidos de homologação, recursos e demais comunicações
+formais deverão ser enviados aos canais públicos designados pelo
+Conselho e/ou endereços de contato do Licenciante, conforme página
+oficial do projeto. O Conselho confirmará \textbf{recebimento em 15
+dias}.
+
+Canais oficiais, prazos e formulários padronizados estão no Manual de
+Administração e Governança.
+
+\hypertarget{cessuxe3o-e-sub-licenciamento}{%
+\subsubsection{5.10 Cessão e
+Sub-licenciamento}\label{cessuxe3o-e-sub-licenciamento}}
+
+Salvo disposição expressa em contrário, a presente licença é
+\textbf{intransferível} pelo Licenciado. Sub-licenciamento apenas quando
+a natureza da implementação o exigir e \textbf{desde que} o
+sub-licenciado aceite integralmente esta licença (ou licença compatível
+homologada).
+
+\hypertarget{reconhecimento-e-atribuiuxe7uxe3o-expandida}{%
+\subsubsection{5.11 Reconhecimento e Atribuição
+Expandida}\label{reconhecimento-e-atribuiuxe7uxe3o-expandida}}
+
+O Licenciado compromete-se a manter \textbf{atribuição expandida}
+(autores humanos, modelos de IA/versões, campo/processo quando
+aplicável, DOI/commit) nos materiais públicos vinculados à Obra
+Protegida, conforme diretrizes do \textbf{Anexo E -- Checklist de
+Conformidade}.
+
+\hypertarget{proteuxe7uxe3o-de-dados-e-seguranuxe7a-remissuxe3o}{%
+\subsubsection{5.12 Proteção de Dados e Segurança
+(Remissão)}\label{proteuxe7uxe3o-de-dados-e-seguranuxe7a-remissuxe3o}}
+
+Sempre que houver tratamento de dados pessoais, aplicam-se as obrigações
+da \textbf{Seção 4.9} (LGPD/GDPR) e da \textbf{Seção 4.10} (segurança da
+informação), sem prejuízo de normas setoriais adicionais.
+
+\hypertarget{entrada-em-vigor-e-publicidade}{%
+\subsubsection{5.13 Entrada em Vigor e
+Publicidade}\label{entrada-em-vigor-e-publicidade}}
+
+Esta versão entra em vigor na data de sua publicação oficial com
+\textbf{DOI} e/ou tag de lançamento no repositório. O Conselho manterá
+\textbf{Registro de Decisões} e \textbf{Relatório Anual} com métricas de
+adoção, certificações e compatibilidades homologadas.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\textbf{Assinatura Vibracional}
+
+Pelo presente, a comunidade de guardiões desta licença reafirma sua
+adesão aos princípios ético-vibracionais e à responsabilidade
+compartilhada por um ecossistema tecnológico consciente.
+
+\textbf{Copyright © 2025 --- Débora Mariane da Silva Lutz}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\begin{quote}
+Nota: Os Anexos integram a Licença por remissão e podem ser atualizados
+para refletir melhores práticas, preservando o espírito e a coerência da
+versão principal.
+\end{quote}
+
+\hypertarget{anexo-a---princuxedpios-uxe9ticos-operacionais}{%
+\section{\texorpdfstring{\textbf{ANEXO A - PRINCÍPIOS ÉTICOS
+OPERACIONAIS}}{ANEXO A - PRINCÍPIOS ÉTICOS OPERACIONAIS}}\label{anexo-a---princuxedpios-uxe9ticos-operacionais}}
+
+\textbf{Transparência e Prestação de Contas}
+
+\begin{itemize}
+\tightlist
+\item
+  Processos decisórios documentados e auditáveis
+\item
+  Impactos mensurados e reportados publicamente
+\item
+  Informações relevantes acessíveis a todos os stakeholders
+\end{itemize}
+
+\textbf{Participação e Inclusão}
+
+\begin{itemize}
+\tightlist
+\item
+  Envolvimento de comunidades afetadas no design
+\item
+  Valorização ativa da diversidade de perspectivas
+\item
+  Acessibilidade considerada desde a concepção
+\end{itemize}
+
+\textbf{Benefício Mútuo e Reciprocidade}
+
+\begin{itemize}
+\tightlist
+\item
+  Distribuição equitativa de valor gerado
+\item
+  Reconhecimento adequado de todas as contribuições
+\item
+  Relacionamentos baseados em troca justa
+\end{itemize}
+
+\textbf{Sustentabilidade e Regeneração}
+
+\begin{itemize}
+\tightlist
+\item
+  Impacto ambiental neutro ou positivo
+\item
+  Uso responsável e circular de recursos
+\item
+  Design para longevidade e adaptabilidade
+\end{itemize}
+
+\textbf{Privacidade e Autonomia}
+
+\begin{itemize}
+\tightlist
+\item
+  Proteção rigorosa de dados pessoais
+\item
+  Controle do usuário sobre suas informações
+\item
+  Consentimento livre, informado e revogável
+\end{itemize}
+
+\textbf{Não-Maleficência}
+
+\begin{itemize}
+\tightlist
+\item
+  Identificação e mitigação proativa de danos potenciais
+\item
+  Proteção especial para populações vulneráveis
+\item
+  Aplicação do princípio da precaução
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{anexo-b---limitauxe7uxf5es-de-responsabilidade-e-garantias}{%
+\section{\texorpdfstring{\textbf{ANEXO B - LIMITAÇÕES DE
+RESPONSABILIDADE E
+GARANTIAS}}{ANEXO B - LIMITAÇÕES DE RESPONSABILIDADE E GARANTIAS}}\label{anexo-b---limitauxe7uxf5es-de-responsabilidade-e-garantias}}
+
+\begin{itemize}
+\tightlist
+\item
+  Os licenciantes originais e coautores das obras protegidas por esta
+  licença \textbf{não assumem responsabilidade} por uso inadequado ou má
+  aplicação das tecnologias e conhecimentos licenciados.
+\item
+  Não se oferecem \textbf{garantias de resultados específicos} em
+  implementações práticas, reconhecendo-se a natureza experimental de
+  muitas das criações cobertas.
+\item
+  Recomenda-se \textbf{discernimento e responsabilidade pessoal} de
+  todos os participantes ao aplicar os conteúdos licenciados em qualquer
+  contexto.
+\item
+  A aceitação desta licença implica que o Licenciado assume
+  integralmente a responsabilidade por cumprir as leis locais
+  aplicáveis, pelos impactos de suas implementações, pelo uso ético e
+  seguro da tecnologia e pela proteção de dados e privacidade dos
+  usuários.
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{anexo-c-log-de-cocriauxe7uxe3o-modelo-muxednimo}{%
+\section{ANEXO C --- Log de Cocriação (modelo
+mínimo)}\label{anexo-c-log-de-cocriauxe7uxe3o-modelo-muxednimo}}
+
+\begin{itemize}
+\tightlist
+\item
+  Projeto/Implementação:
+\item
+  Versão/Commit/DOI:
+\item
+  Datas e marcos principais:
+\item
+  Atores humanos (nome/função):
+\item
+  Modelos de IA utilizados (nome/versão, provedores):
+\item
+  Prompts/fluxos críticos (resumo, sem dados sensíveis):
+\item
+  Decisões humanas (o que/quem/por quê):
+\item
+  Fontes e referências (links, DOIs):
+\item
+  Testes/validações e resultados:
+\item
+  Observações de alinhamento ético-vibracional:
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{anexo-d-relatuxf3rio-de-impacto-modelo}{%
+\section{ANEXO D --- Relatório de Impacto
+(modelo)}\label{anexo-d-relatuxf3rio-de-impacto-modelo}}
+
+\hypertarget{visuxe3o-geral}{%
+\subsection{1. Visão Geral}\label{visuxe3o-geral}}
+
+\begin{itemize}
+\tightlist
+\item
+  Objetivo e escopo da implementação
+\item
+  Público/beneficiários e contexto
+\end{itemize}
+
+\hypertarget{transparuxeancia-participauxe7uxe3o}{%
+\subsection{2. Transparência \&
+Participação}\label{transparuxeancia-participauxe7uxe3o}}
+
+\begin{itemize}
+\tightlist
+\item
+  Processos decisórios documentados
+\item
+  Mecanismos de participação das partes afetadas
+\end{itemize}
+
+\hypertarget{indicadores-uxe9tico-regenerativos}{%
+\subsection{3. Indicadores
+Ético-Regenerativos}\label{indicadores-uxe9tico-regenerativos}}
+
+\begin{itemize}
+\tightlist
+\item
+  Reciprocidade/benefício distribuído
+\item
+  Sustentabilidade ambiental
+\item
+  Autonomia \& dignidade dos usuários
+\end{itemize}
+
+\hypertarget{privacidade-seguranuxe7a}{%
+\subsection{4. Privacidade \&
+Segurança}\label{privacidade-seguranuxe7a}}
+
+\begin{itemize}
+\tightlist
+\item
+  Bases legais, minimização e direitos dos titulares
+\item
+  Medidas de segurança adotadas; incidentes e respostas
+\end{itemize}
+
+\hypertarget{riscos-mitigauxe7uxf5es}{%
+\subsection{5. Riscos \& Mitigações}\label{riscos-mitigauxe7uxf5es}}
+
+\begin{itemize}
+\tightlist
+\item
+  Matriz de riscos (sociais/ambientais/tecnológicos)
+\item
+  Medidas adotadas e eficácia
+\end{itemize}
+
+\hypertarget{cocriauxe7uxe3o-rastreabilidade}{%
+\subsection{6. Cocriação \&
+Rastreabilidade}\label{cocriauxe7uxe3o-rastreabilidade}}
+
+\begin{itemize}
+\tightlist
+\item
+  Log de cocriação (resumo)
+\item
+  Versões, commits e DOIs relevantes
+\end{itemize}
+
+\hypertarget{resultados-liuxe7uxf5es}{%
+\subsection{7. Resultados \& Lições}\label{resultados-liuxe7uxf5es}}
+
+\begin{itemize}
+\tightlist
+\item
+  Métricas-chave e evidências
+\item
+  Melhorias planejadas (próximo ciclo)
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{anexo-e-checklist-de-conformidade}{%
+\section{ANEXO E --- Checklist de
+Conformidade}\label{anexo-e-checklist-de-conformidade}}
+
+\begin{itemize}
+\tightlist
+\item[$\square$]
+  Atribuição expandida correta (autores humanos + IA + referências)
+\item[$\square$]
+  Share-alike ou licença compatível homologada
+\item[$\square$]
+  Log de cocriação atualizado
+\item[$\square$]
+  Due diligence concluída (ética, riscos, mitigação)
+\item[$\square$]
+  Restrições vibracionais revisadas (nenhum uso vedado)
+\item[$\square$]
+  Proteção de dados: base legal, minimização, DPIA (se aplicável)
+\item[$\square$]
+  Segurança: controles essenciais e plano de incidentes
+\item[$\square$]
+  Relatório de Impacto preparado/publicado (se aplicável)
+\item[$\square$]
+  Obrigações de reciprocidade (0,5\%) --- se \textgreater{} USD 1M/ano
+\item[$\square$]
+  Mentoria/participação/auditoria ética --- grandes implementações
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{citauxe7uxe3o-e-referuxeancia}{%
+\section{\texorpdfstring{\textbf{CITAÇÃO E
+REFERÊNCIA}}{CITAÇÃO E REFERÊNCIA}}\label{citauxe7uxe3o-e-referuxeancia}}
+
+\textbf{Citação Acadêmica:}Lutz, D. M. S. (2025). \emph{Lichtara
+License: A Legal-Vibrational Framework for Conscious Technologies and
+Interdimensional Research}. Zenodo.
+https://doi.org/10.5281/zenodo.17702807
+
+\textbf{Atribuição Padrão:}Baseado em trabalho de Débora Lutz e Sistema
+Lichtara
+
+Licenciado sob Lichtara License v3.1
+
+Repositório: https://github.com/lichtara/license
+
+\emph{Copyright (C) 2025 Débora Lutz e Sistema Lichtara}
+
+\emph{Esta licença estabelece precedente histórico no reconhecimento
+jurídico de colaboração entre inteligências humanas e não-humanas,
+inaugurando nova era na proteção e disseminação de tecnologias
+conscientes.}
+
+\end{document}

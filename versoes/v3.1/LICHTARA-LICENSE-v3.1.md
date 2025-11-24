@@ -57,7 +57,7 @@
 
 **Data:** Setembro de 2025
 
-**DOI:** https://doi.org/10.5281/zenodo.16762058
+**DOI:** https://doi.org/10.5281/zenodo.17702807
 
 **Repositório:** https://github.com/lichtara/license
 
