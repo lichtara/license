@@ -561,13 +561,21 @@ Princípio e obrigação que asseguram visibilidade dos processos decisórios, c
 ### **Registro de Cocriação**
 
 Documento normativo que registra:
+
 (a) autores humanos;
+
 (b) modelos de IA e versões;
+
 (c) prompts e fluxos críticos (sem dados sensíveis);
+
 (d) decisões humanas;
+
 (e) fontes;
+
 (f) evidências de alinhamento ético-vibracional;
+
 (g) DOIs/commits relevantes.
+
 Constitui instrumento de transparência, rastreabilidade e atribuição expandida.
 
 ### **Rastreabilidade Expandida**
