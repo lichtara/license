@@ -1,8 +1,4 @@
-# **LICHTARA LICENSE v4.0 — Seção III
-
-Governança e Sustentabilidade (Versão Jurídica Expandida)**
-*(25–40 parágrafos, estilo jurídico formal, registrável, internacionalmente compatível)*
-
+# LICHTARA LICENSE v4.0 — SEÇÃO III
 ---
 
 ## **III. GOVERNANÇA E SUSTENTABILIDADE**
@@ -148,9 +144,5 @@ Governança e Sustentabilidade (Versão Jurídica Expandida)**
 38. O Conselho incentivará cooperação transnacional entre pesquisadores, normatizadores, instituições e comunidades, de forma a fortalecer a interoperabilidade, difusão responsável e convergência ética.
 
 39. Implementações internacionais deverão observar tanto esta licença quanto legislações locais, cabendo ao Conselho emitir orientações sobre conflitos normativos quando necessário.
-
----
-
-**Fim da Seção III — Versão Jurídica Expandida**
 
 ---
