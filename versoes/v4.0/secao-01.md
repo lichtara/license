@@ -1,4 +1,4 @@
-# **LICHTARA LICENSE v4.0 — SEÇÃO I (Versão Jurídica Refinada)**
+# **LICHTARA LICENSE v4.0 — SEÇÃO I**
 
 ### **I. Princípios Fundamentais e Natureza Jurídica-Vibracional da Licença**
 
