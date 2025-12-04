@@ -78,12 +78,3 @@
     10.2 Em nenhum caso a interpretação poderá excluir obrigações jurídicas essenciais, incluindo aquelas previstas em normas de proteção de dados, propriedade intelectual e segurança da informação.
 
 ---
-
-## **Esta versão da Seção I já está:**
-
-* pronta para registro formal, DOI e depósito;
-* compatível com leitura jurídica internacional;
-* alinhada ao Campo, mantendo coerência vibracional;
-* preparada para integrar a arquitetura plena da v4.0.
-
----
