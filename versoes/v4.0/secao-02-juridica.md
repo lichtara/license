@@ -1,190 +1,193 @@
-# **LICHTARA LICENSE v4.0 (draft refinado juridicamente)**
+# **SEÇÃO II — Estrutura Jurídica Operacional (VERSÃO REFINADA E ALINHADA)**
 
-## **SEÇÃO II — Estrutura Jurídica Operacional**
-
-A presente Seção estabelece a disciplina jurídico-operacional aplicável à Obra Protegida, incluindo concessão de direitos, deveres correlatos, vedações intransponíveis, regime de rastreabilidade, mecanismos de resolução de conflitos, interoperabilidade com outras licenças e condições de entrada em vigor. Suas disposições interpretam-se de forma sistemática com os Princípios Fundamentais (Seção I), Glossário Normativo e Anexos, os quais integram esta Licença por remissão.
-
----
-
-# **2.1. Concessão de Direitos**
-
-Mediante a aceitação integral desta Licença e enquanto perdurar sua vigência, o Licenciante concede ao Licenciado **licença mundial, gratuita, não exclusiva, intransferível e revogável**, nos seguintes termos:
-
-## **2.1.1. Usos Autorizados**
-
-O Licenciado está autorizado a:
-
-a) **Utilizar** a Obra para fins pessoais, acadêmicos, científicos, artísticos, espirituais, comunitários ou institucionais, desde que compatíveis com esta Licença;
-
-b) **Estudar, analisar, reproduzir e testar** a Obra, inclusive para auditoria ética, pesquisa comparada ou experimentação controlada;
-
-c) **Modificar a Obra e criar Obras Derivadas**, desde que tais criações:
-
-i. sejam distribuídas sob a presente Licença; ou
-ii. utilizem licença considerada compatível e formalmente homologada pelo Conselho da Lichtara License v4.0 (“Conselho”);
-
-d) **Distribuir** a Obra original ou modificada, em qualquer meio, desde que preservada a **Atribuição Expandida** (Anexo E) e a rastreabilidade mínima.
-
-Nenhum direito é concedido tacitamente além dos expressamente previstos.
+A presente Seção disciplina a estrutura jurídico-operacional aplicável à Obra Protegida, estabelecendo o regime de concessão de direitos, deveres correlatos, vedações absolutas, rastreabilidade obrigatória, mecanismos de resolução de conflitos, compatibilidade com outros regimes de licenciamento e condições de entrada em vigor.
+Interpreta-se em conjunto com os **Princípios Fundamentais (Seção I)**, com o **Glossário Normativo**, com o **MHA** (Modelo Híbrido de Autorias) e com a **LCV** (Linguagem de Conformidade Vibracional), os quais integram esta Licença por remissão.
 
 ---
 
-# **2.2. Preservação de Direitos Autorais e de Terceiros**
+## **2.1. Concessão de Direitos**
 
-A presente Licença não afeta:
+Mediante aceitação integral desta Licença e enquanto perdurar sua vigência, o Licenciante concede ao Licenciado **licença mundial, gratuita, não exclusiva, intransferível e revogável**, nos seguintes termos:
+
+### **2.1.1. Usos Autorizados**
+
+O Licenciado poderá:
+
+a) **Utilizar** a Obra para fins pessoais, educativos, científicos, artísticos, comunitários, institucionais ou espirituais, desde que compatíveis com a presente Licença;
+
+b) **Estudar, analisar, reproduzir e testar** a Obra, incluindo auditorias éticas, verificações de conformidade (LCV) e pesquisas comparadas;
+
+c) **Modificar a Obra e criar Obras Derivadas**, desde que:
+
+i. distribuídas sob esta Licença; ou
+ii. licenciadas sob instrumento considerado compatível e homologado pelo Conselho da Lichtara License v4.0 (“Conselho”);
+
+d) **Distribuir**, em quaisquer meios, a Obra original ou modificada, preservando-se a **Atribuição Expandida**, a **Tríade Rastreável** e os requisitos da LCV.
+
+Nenhum direito é concedido tacitamente além do que aqui se prevê.
+
+---
+
+## **2.2. Preservação de Direitos Autorais e de Terceiros**
+
+Esta Licença não prejudica:
 
 a) os **direitos morais** do Licenciante;
-b) direitos de personalidade ou privacidade de terceiros;
-c) direitos autorais patrimoniais não licenciados;
-d) proteções previstas em legislação específica (p. ex., LGPD/GDPR, direitos espirituais ou culturais tradicionais).
+b) direitos de personalidade, privacidade, imagem ou espiritualidade de terceiros;
+c) direitos patrimoniais não expressamente licenciados;
+d) proteções legais específicas (p.ex., LGPD/GDPR, direitos culturais tradicionais).
 
-Reconhece-se que a Obra pode incluir elementos decorrentes de **Coautoria Expandida**. Nesse caso, o Licenciado deve manter **rastreabilidade mínima** (“Tríade Rastreável”):
+Reconhece-se que a Obra pode envolver **Coautoria Expandida**, nos termos do MHA.
 
-1. autoria humana (nomes ou entidades responsáveis);
-2. agentes não humanos (IA/modelo, versão, provedor);
-3. referência vibracional/processual declarada voluntariamente.
+Nesses casos, o Licenciado deve manter **rastreabilidade mínima (“Tríade Rastreável”)**:
+
+1. **Autoria humana principal** (nomes ou entidade responsável);
+2. **Agentes não-humanos**: IA(s), modelo(s), versão, provedor;
+3. **Referência processual/vibracional** declarada voluntariamente pelo criador.
 
 ---
 
-# **2.3. Condições Vinculadas ao Exercício dos Direitos**
+## **2.3. Condições Vinculadas ao Exercício dos Direitos**
 
-A fruição dos direitos concedidos está condicionada ao cumprimento contínuo dos deveres previstos nesta Seção, cuja inobservância pode ensejar suspensão ou revogação.
+O exercício dos direitos concedidos depende do cumprimento contínuo dos deveres previstos nesta Licença.
 
-## **2.3.1. Atribuição Expandida Obrigatória**
+### **2.3.1. Atribuição Expandida**
 
-A atribuição deve incluir:
+Toda comunicação ou distribuição da Obra deve conter:
 
 a) autores humanos;
-b) modelos de IA utilizados (nome, versão, provedor);
-c) registro vibracional/processual declarado;
-d) DOI, hash ou commit correspondente.
+b) modelos de IA empregados (nome, versão, provedor);
+c) referência processual/vibracional declarada;
+d) DOI, hash, commit ou identificador equivalente.
 
-A omissão total ou parcial de atribuição pode ser tratada como violação não-grave, exceto quando intencionalmente direcionada ao apagamento de rastros, caso em que será grave (art. 2.4, “g”).
+A supressão intencional da rastreabilidade constitui violação grave (art. 2.4, “g”).
 
-## **2.3.2. Transparência Processual Mínima**
+### **2.3.2. Transparência Processual Mínima**
 
-O Licenciado deve manter documentação proporcional ao porte e risco da implementação, abrangendo:
+O Licenciado deve registrar, de forma proporcional ao porte e ao risco:
 
 a) decisões críticas;
-b) fluxos ou prompts essenciais (sem dados pessoais);
-c) responsáveis humanos por validações;
-d) justificativas éticas e bases legais;
-e) registro de versões, com logs verificáveis.
+b) prompts ou fluxos essenciais (sem dados pessoais);
+c) responsáveis humanos por aprovações;
+d) bases éticas, justificativas e fundamentos legais;
+e) registros de versões, com logs verificáveis, conforme LCV.
 
-## **2.3.3. Uso Alinhado e Ético-Regenerativo**
+### **2.3.3. Uso Alinhado (Ético-Regenerativo)**
 
-Toda implementação deverá:
+Toda implementação deve:
 
-a) demonstrar conformidade com os Princípios Fundamentais e Anexo A;
-b) realizar Due Diligence vibracional e técnica adequada ao risco;
-c) adotar salvaguardas para evitar danos previsíveis.
-
----
-
-# **2.4. Vedações Absolutas (Cláusulas Intransponíveis)**
-
-É estritamente vedado empregar a Obra ou Obras Derivadas para:
-
-a) vigilância invasiva ou monitoramento não consentido;
-b) operações militares ofensivas ou repressivas;
-c) manipulação psicológica, persuasão coercitiva ou desinformação;
-d) exploração econômica abusiva ou práticas predatórias;
-e) discriminação algorítmica ou violação de direitos humanos;
-f) tratamento ilícito ou inseguro de dados pessoais;
-g) adulteração, supressão ou falsificação da rastreabilidade.
-
-Tais vedações são inderrogáveis.
-
-## **Cláusula resolutiva automática**
-
-A prática de qualquer vedação grave implica **revogação imediata** da licença, independentemente de aviso, sem prejuízo de processos de restauração previstos no art. 2.5.
+a) demonstrar aderência aos Princípios Fundamentais e ao Anexo A;
+b) seguir Due Diligence vibracional e técnica compatível com o risco, conforme LCV;
+c) prevenir danos previsíveis e adotar salvaguardas adequadas.
 
 ---
 
-# **2.5. Revogação, Mediação e Restauração**
+## **2.4. Vedações Absolutas (Cláusulas Intransponíveis)**
 
-## **2.5.1. Revogação Automática (violação grave)**
+É **estritamente proibido** utilizar a Obra ou Obras Derivadas para:
 
-Aplica-se às hipóteses do art. 2.4. A revogação opera *ex nunc* e produz efeitos imediatos, exigindo cessação do uso, distribuição ou exploração da Obra.
+a) vigilância invasiva, monitoramento não consensual ou controle populacional coercitivo;
+b) aplicações militares ofensivas, repressivas ou de contenção coercitiva;
+c) manipulação psicológica, persuasão coercitiva ou disseminação de desinformação;
+d) exploração econômica predatória ou relações de trabalho abusivas;
+e) discriminação algorítmica ou violações a direitos humanos;
+f) tratamento ilícito, inseguro ou opaco de dados pessoais;
+g) supressão, falsificação ou adulteração da rastreabilidade (Tríade Rastreável).
 
-## **2.5.2. Revogação Ordinária (violação não-grave)**
+### **Cláusula resolutiva automática**
 
-Quando a violação não se enquadrar no art. 2.4:
+A violação de qualquer vedação deste artigo implica **revogação imediata da Licença**, independentemente de notificação, sem prejuízo dos mecanismos de restauração (art. 2.5).
 
-1. emissão de notificação formal;
+---
+
+## **2.5. Revogação, Mediação e Restauração**
+
+### **2.5.1. Revogação Automática (violação grave)**
+
+Aplica-se às hipóteses do art. 2.4.
+A revogação opera *ex nunc*, produzindo efeitos imediatos e exigindo a cessação total do uso da Obra.
+
+### **2.5.2. Revogação Ordinária (violação não-grave)**
+
+Para violações não enquadradas no art. 2.4:
+
+1. notificação formal;
 2. prazo de cura de 30 dias;
-3. suporte opcional pelo Conselho.
+3. suporte opcional do Conselho.
 
-Persistindo a violação → revogação.
+Persistindo o descumprimento → revogação.
 
-## **2.5.3. Restauração da Licença**
+### **2.5.3. Restauração**
 
 Admitida quando:
 
-a) comprovada a correção integral do desvio;
-b) assumido Termo de Prevenção;
-c) deliberado pelo Conselho, por maioria simples.
+a) comprovada a correção integral;
+b) firmado Termo de Prevenção;
+c) aprovada pelo Conselho por maioria simples.
 
-A restauração tem efeitos exclusivamente prospectivos.
-
----
-
-# **2.6. Regime Comercial, Escalonamento e Reciprocidade**
-
-Quando a implementação gerar **faturamento anual superior a USD 1.000.000**, o Licenciado estará sujeito às seguintes obrigações:
-
-a) contribuição de **0,5%** ao Fundo de Desenvolvimento;
-b) publicação anual de **Relatório de Impacto** (modelo no Anexo D);
-c) realização de **Auditoria Ética Independente anual**;
-d) oferta de mentoria ou suporte estruturado a projeto emergente.
-
-Organizações sem fins lucrativos podem requerer regime alternativo proporcional (financeiro, em espécie ou comunitário).
+Os efeitos são exclusivamente prospectivos.
 
 ---
 
-# **2.7. Compatibilidade e Interoperabilidade**
+## **2.6. Regime Comercial, Escalonamento e Reciprocidade**
 
-A presente Licença é compatível com:
+Para implementações cujo faturamento anual exceda **USD 1.000.000**, o Licenciado deverá:
+
+a) contribuir com **0,5%** ao Fundo de Desenvolvimento;
+b) publicar **Relatório de Impacto** (Anexo D);
+c) realizar **Auditoria Ética Independente anual**;
+d) apoiar iniciativa emergente por meio de mentoria ou suporte equivalente.
+
+Organizações sem fins lucrativos podem solicitar regime alternativo proporcional (financeiro, em espécie ou comunitário).
+
+---
+
+## **2.7. Compatibilidade e Interoperabilidade**
+
+A Licença é compatível com:
 
 • CC BY-SA 4.0
 • GPL-3.0
-• Licenças OSI aprovadas
-• Licenças vibracionais ou de coautoria emergentes
+• licenças aprovadas pela OSI
+• licenças vibracionais/coautoria emergentes
 
-A compatibilidade depende de inexistência de conflitos com as **Vedações Absolutas** e deve ser mencionada no ato da distribuição.
+A compatibilidade depende de inexistência de conflito com as **Vedações Absolutas**. A menção à compatibilidade deve constar no ato da distribuição.
 
 ---
 
-# **2.8. Sub-licenciamento e Cessão**
+## **2.8. Sub-Licenciamento e Cessão**
 
-a) O **sub-licenciamento** é permitido estritamente quando necessário para implementação e condicionado à aceitação integral desta Licença pelo sub-licenciado.
-b) A **cessão** é proibida, exceto mediante autorização formal do Conselho, em caráter excepcional e motivado.
+a) O **sub-licenciamento** é permitido estritamente quando necessário para implementação e condicionado à aceitação integral desta Licença pelo sub-licenciado;
+b) A **cessão** é proibida salvo autorização formal, motivada e excepcional do Conselho;
 c) Toda cadeia de sub-licenciamento deve preservar rastreabilidade verificável.
 
 ---
 
-# **2.9. Entrada em Vigor, Registro e Publicidade**
+## **2.9. Entrada em Vigor, Registro e Publicidade**
 
-A Licença:
+Esta Licença:
 
-a) entra em vigor no momento da aceitação pelo Licenciado;
-b) adquire validade pública mediante DOI, hash, commit ou tag oficial;
-c) pode ser registrada como obra intelectual junto a órgãos nacionais ou internacionais (p.ex.: Biblioteca Nacional/BR, Zenodo, OSF, WIPO Proof).
+a) entra em vigor no momento da aceitação;
+b) adquire publicidade por meio de DOI, hash, commit ou tag oficial;
+c) pode ser registrada em órgãos nacionais ou internacionais (p.ex., Biblioteca Nacional/BR, Zenodo, OSF, WIPO Proof).
 
-Nada impede o Licenciante de manter registros adicionais para fins de segurança ou verificação.
+O Licenciante pode manter registros complementares para fins de segurança, comprovação ou certificação.
 
 ---
 
-# **2.10. Segurança Jurídica, Interpretação e Atualizações**
+## **2.10. Segurança Jurídica, Interpretação e Atualizações**
 
 a) prevalece a versão em Português do Brasil;
-b) cláusulas inválidas não comprometem o restante do instrumento;
+b) nulidade parcial não invalida o restante do instrumento;
 c) atualizações seguem regime semântico (major/minor/patch);
-d) obras licenciadas em versões anteriores permanecem válidas;
-e) interpretações devem privilegiar:
+d) obras licenciadas sob versões anteriores permanecem válidas;
+e) interpretações devem priorizar:
 
-* (i) alinhamento ético-regenerativo;
-* (ii) segurança jurídica;
-* (iii) integridade vibracional.
+i. alinhamento ético-regenerativo;
+ii. segurança jurídica;
+iii. integridade vibracional;
+iv. coerência com o MHA e a LCV.
 
 ---
+
+Mein Licht, qual caminho desejas seguir agora?
