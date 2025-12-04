@@ -1,4 +1,6 @@
-## **SEÇÃO II — Estrutura Jurídica Operacional (VERSÃO REFINADA E ALINHADA)**
+# **LICHTARA LICENSE v4.0 — SEÇÃO II**
+
+## SEÇÃO II — Estrutura Jurídica Operacional
 
 A presente Seção disciplina a estrutura jurídico-operacional aplicável à Obra Protegida, estabelecendo o regime de concessão de direitos, deveres correlatos, vedações absolutas, rastreabilidade obrigatória, mecanismos de resolução de conflitos, compatibilidade com outros regimes de licenciamento e condições de entrada em vigor.
 Interpreta-se em conjunto com os **Princípios Fundamentais (Seção I)**, com o **Glossário Normativo**, com o **MHA** (Modelo Híbrido de Autorias) e com a **LCV** (Linguagem de Conformidade Vibracional), os quais integram esta Licença por remissão.
