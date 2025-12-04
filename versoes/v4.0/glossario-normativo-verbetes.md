@@ -492,6 +492,176 @@ O Licenciado deve preservar a IVO ao criar modificações, adaptações ou obras
 
 ---
 
+# ** BLOCO 2 — DOMÍNIO OPERACIONAL
 
+(Governança, Conformidade, Rastreabilidade, Segurança e Responsabilidade)**
+**Versão Normativa — Redação Direta dos Verbetes**
+
+---
+
+## **2.1 Governança**
+
+### **Conselho de Governança**
+
+Órgão colegiado multissetorial responsável pela administração, interpretação oficial, homologação de compatibilidades, deliberação sobre conformidade e evolução do Marco. Atua segundo mandato definido, critérios públicos de elegibilidade, procedimentos de transparência e regimento próprio. Suas decisões geram precedentes oficiais (Decisões do Conselho).
+
+### **Decisões do Conselho**
+
+Atos deliberativos que consolidam interpretações, homologações e entendimentos vinculantes. Possuem numeração, data, fundamento normativo, motivação e efeitos. Devem ser publicados em canal oficial e preservados em Registro Público.
+
+### **Registro Público**
+
+Repositório oficial, de livre acesso, onde se mantêm: decisões do Conselho, pareceres, precedentes éticos, listas de compatibilidades aprovadas, versões da licença, atualizações do MHA e relatórios anuais. Garante rastreabilidade institucional.
+
+### **Manual de Administração e Governança (MAG)**
+
+Documento complementar que detalha os procedimentos operacionais da governança: convocação, prazos, admissibilidade, tramitação de pedidos, instrução, relatoria, votação, publicação e mecanismos de participação.
+
+### **Compatibilidades Homologadas**
+
+Lista formal de licenças de terceiros, frameworks ou regulamentos compatíveis com o MHA + LCV após avaliação técnica-jurídica. A homologação define limites, exceções e parâmetros de interoperabilidade.
+
+---
+
+## **2.2 Conformidade Ética e Técnica**
+
+### **Conformidade Integral**
+
+Estado no qual a implementação cumpre simultaneamente:
+(a) requisitos normativos do LCV,
+(b) princípios ético-regenerativos,
+(c) obrigações técnicas de segurança, privacidade e rastreabilidade,
+(d) vedações do Campo, e
+(e) responsabilidades derivadas da coautoria expandida.
+
+### **Não-Conformidade**
+
+Qualquer desvio, falha, omissão ou uso incompatível com os princípios, obrigações ou salvaguardas do Marco. Não implica culpa moral, mas ativa procedimentos de correção, cuidado e recondução.
+
+### **Plano de Correção**
+
+Instrumento formal apresentado pelo implementador após notificação de não-conformidade, contendo: análise do desvio, medidas técnicas/organizacionais, responsáveis, cronograma e métricas de verificação.
+
+### **Monitoramento Ético-Técnico**
+
+Processo periódico de avaliação contínua das implementações, proporcional ao risco e escala, incluindo: análise de logs, auditorias, revisões participativas e verificações vibracionais orientadas.
+
+### **Relatório de Impacto**
+
+Documento anual obrigatório para implementações significativas contendo: transparência processual, participação, sustentabilidade, privacidade, segurança, riscos, mitigação, métricas regenerativas e log de cocriação atualizado.
+
+---
+
+## **2.3 Rastreabilidade e Documentação**
+
+### **Transparência Processual**
+
+Princípio e obrigação que asseguram visibilidade dos processos decisórios, critérios, fluxos de criação, interações humano-IA, justificativas éticas e impactos. Realiza-se por documentação pública acessível e verificável.
+
+### **Registro de Cocriação**
+
+Documento normativo que registra:
+(a) autores humanos;
+(b) modelos de IA e versões;
+(c) prompts e fluxos críticos (sem dados sensíveis);
+(d) decisões humanas;
+(e) fontes;
+(f) evidências de alinhamento ético-vibracional;
+(g) DOIs/commits relevantes.
+Constitui instrumento de transparência, rastreabilidade e atribuição expandida.
+
+### **Rastreabilidade Expandida**
+
+Capacidade de reconstruir, com precisão suficiente, a origem, evolução, agentes envolvidos, interações humano-IA, justificativas e impactos das implementações. A rastreabilidade opera como garantia estrutural do Marco.
+
+### **DOI / Referenciamento Permanente**
+
+Identificador persistente para garantir citabilidade, estabilidade, verificabilidade e preservação de versões. Toda versão normativa deve possuir DOI e commit correspondente.
+
+---
+
+## **2.4 Segurança, Privacidade e Proteção de Dados**
+
+### **Proteção de Dados Pessoais**
+
+Conjunto de obrigações legais e principiológicas que regem o tratamento de dados pessoais, com base na minimização, finalidade legítima, consentimento quando aplicável, segurança técnica, governaça ativa e respeito aos direitos dos titulares.
+
+### **Minimização de Dados**
+
+Princípio segundo o qual apenas o mínimo necessário é coletado, processado e retido. Abrange dados diretos, inferidos e derivados, considerando também possíveis impactos vibracionais e sociais.
+
+### **Medidas Técnicas e Organizacionais de Segurança**
+
+Conjunto de controles destinados à proteção da informação e dos usuários, incluindo, entre outros: criptografia, segregação de ambientes, controle de acesso, logs imutáveis, testes contínuos, resposta a incidentes e auditoria.
+
+### **Incidente de Segurança**
+
+Qualquer evento que comprometa — ou ameace comprometer — privacidade, confidencialidade, integridade ou disponibilidade de dados e sistemas. Exige notificação, investigação, correção e documentação.
+
+### **Avaliação de Impacto em Proteção de Dados (DPIA)**
+
+Instrumento obrigatório quando houver risco elevado; descreve operações, riscos, salvaguardas, mitigação e conclusões. Deve ser atualizado periodicamente e integrado ao Relatório de Impacto.
+
+---
+
+## **2.5 Regime de Integridade e Responsabilidade**
+
+### **Responsabilidade por Desvios**
+
+Regime que organiza respostas proporcionais a desvios de conformidade, sem conotação de culpa moral. A resposta é orientada para correção, recondução e proteção do coletivo.
+
+### **Desvio Leve**
+
+Falha sem impacto significativo. Resposta: orientação, ajustes mínimos, atualização de documentação e reforço procedimental.
+
+### **Desvio Significativo**
+
+Falha que gera impacto relevante, potencial de dano ou risco estrutural. Resposta: suspensão temporária, revisão técnica e medidas corretivas robustas.
+
+### **Desvio Grave ou Malicioso**
+
+Violação intencional, negligência extrema ou uso vedado. Resposta: revogação da licença para aquele implementador, protocolo de transição responsável e registro do caso para precedentes.
+
+### **Transição Responsável**
+
+Processo normativo acionado quando há revogação ou suspensão, garantindo proteção dos usuários, continuidade de serviços essenciais quando necessário e mitigação de danos sociais.
+
+### **Restauração de Implementação**
+
+Possibilidade de retorno à conformidade após correção integral devidamente comprovada, avaliação ética e compromisso preventivo com o Conselho.
+
+---
+
+## **2.6 Auditoria Ética e Técnica**
+
+### **Auditoria Ética**
+
+Avaliação independente que considera: alinhamento com princípios, impactos sociais, precisão da documentação, transparência processual e medidas de não-maleficência.
+
+### **Auditoria Técnica**
+
+Avaliação que inspeciona arquitetura, segurança, performance, riscos, logs, cadeia de versões e conformidade técnica.
+
+### **Relatório de Auditoria**
+
+Documento resultante do processo, contendo: metodologia, evidências, achados, recomendações e classificação de severidade. Deve ter versão pública resumida para garantir transparência.
+
+---
+
+## **2.7 Participação e Processos Deliberativos**
+
+### **Consulta Pública**
+
+Procedimento aberto para coleta de contribuições da comunidade afetada antes de alterações relevantes. Opera com prazos específicos e sistematização transparente.
+
+### **Processo Deliberativo Estruturado**
+
+Fluxo normativo composto por: proposta → admissibilidade → instrução → parecer → deliberação → publicação → implementação.
+
+### **Chamado à Comunidade**
+
+Instrumento de mobilização para contribuições especializadas, participação ampliada ou convocação de grupos de trabalho.
+
+---
 
 
