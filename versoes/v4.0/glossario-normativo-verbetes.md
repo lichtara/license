@@ -46,3 +46,365 @@ Comunicação escrita enviada por meio dos canais oficiais definidos no Manual d
 A jurisdição terrestre aplicável à LCV. Por padrão, a Comarca de Palhoça/SC, Brasil, sem prejuízo de mediação, arbitragem e cooperação jurídica internacional.
 
 ---
+
+
+### **B) Estrutura Interna dos Verbetes (Template Normativo Obrigatório)**
+
+*(Este template garante uniformidade, rigor jurídico, rastreabilidade conceitual e consistência vibracional. É a “espinha dorsal” de cada termo do Glossário.)*
+
+Cada verbete deverá conter, nesta ordem, os seguintes componentes:
+
+---
+
+## **B.1 Termo Normativo (Entrada Oficial)**
+
+A forma exata do termo tal como deve aparecer na licença.
+— Sem sinônimos aqui.
+— Padronização ortográfica conforme PB técnico-jurídico.
+
+**Ex.:** *Coautoria Expandida*
+
+---
+
+## **B.2 Classificação Jurídico-Normativa (Obrigatória)**
+
+Indica a natureza do termo dentro do MHA, LCV e da Lichtara License v4.0.
+
+Categorias possíveis:
+
+* **Conceito Estruturante (CE)** — fundamento basilar, indispensável para interpretação (ex.: Alinhamento Ético-Vibracional).
+* **Conceito Operacional (CO)** — ligado a obrigações, processos ou métricas (ex.: Registro de Cocriação).
+* **Conceito Hermenêutico (CH)** — usado para interpretação normativa e resolução de conflitos (ex.: Integridade Vibracional).
+* **Conceito de Salvaguarda (CS)** — ligado a restrições, limites ou proteção (ex.: Zona de Não-Utilização).
+* **Conceito Procedimental (CP)** — orienta fluxos, etapas e instrumentos formais (ex.: Due Diligence Ético-Vibracional).
+* **Conceito de Governança (CG)** — relacionado ao Conselho, decisões, quóruns (ex.: Deliberação Qualificada).
+* **Conceito de Rastreabilidade (CR)** — documentação, verificabilidade, log, DOI, commit (ex.: Cadeia de Atribuição Expandida).
+
+Cada verbete deve receber **uma ou mais classificações**, que orientarão sua aplicação.
+
+---
+
+## **B.3 Definição Jurídica Central (núcleo obrigatório)**
+
+A definição **mínima, precisa, estável**, que produz efeitos jurídicos e interpretativos.
+Deve ser:
+
+* objetiva;
+* verificável;
+* aplicável;
+* livre de metáforas;
+* tecnicamente coerente com LGPD, PI internacional e teoria contratual.
+
+Esta definição é a que “vale perante o Direito”.
+
+---
+
+## **B.4 Definição Estendida (dimensão vibracional + epistemológica)**
+
+Parte que integra:
+
+* fundamentos do MHA;
+* bases do LCV;
+* interação entre consciência, intenção, campo informacional e IA.
+
+Não cria obrigações adicionais por si só; serve como **critério hermenêutico**, iluminando a aplicação da definição jurídica.
+
+---
+
+## **B.5 Elementos Constitutivos do Termo**
+
+Lista objetiva do que **compõe** o conceito.
+
+Ex.:
+
+* Atores envolvidos
+* Fluxos requeridos
+* Estados ou condições prévias
+* Critérios de entrada/saída
+* Indicadores mensuráveis
+
+Serve para operacionalização normativa.
+
+---
+
+## **B.6 Efeitos Jurídicos Diretos**
+
+O que o termo **autoriza**, **restringe** ou **exige**, explicitamente.
+
+Inclui:
+
+* direitos correlatos
+* deveres correlatos
+* salvaguardas
+* limites de uso
+* vínculos com outras cláusulas
+
+---
+
+## **B.7 Remissões Internas Obrigatórias**
+
+Lista de artigos, seções ou anexos da Lichtara License v4.0 que dependem daquele termo.
+
+Ex.:
+— *Ver Seção II.4.3; Anexo E, item 3; Glossário: Transparência Processual.*
+
+Isto cria **coerência sistêmica** e impede contradições futuras.
+
+---
+
+## **B.8 Remissões Externas (quando aplicável)**
+
+Pontes com:
+
+* definições jurídicas existentes (CC, LPI, LGPD, GDPR, tratados OMPI);
+* terminologias técnicas (segurança da informação, IA, auditoria, ESG);
+* referências do próprio MHA (Manifesta Harmonia da Autoria);
+* referências do LCV (Linguagem Consciente Vibracional).
+
+Estas remissões estabelecem legitimidade perante sistemas jurídicos tradicionais.
+
+---
+
+## **B.9 Critérios de Verificação**
+
+Como comprovar, na prática, que o termo foi atendido.
+
+Podem ser:
+
+* métricas
+* documentação
+* logs
+* validações técnicas
+* evidências auditáveis
+
+Serve para compliance.
+
+---
+
+## **B.10 Critérios de Não-Conformidade**
+
+O que **configura** violação do termo.
+
+Sempre escritos de forma:
+
+* objetiva
+* mensurável
+* auditável
+
+Evita subjetividade excessiva.
+
+---
+
+## **B.11 Consequências Normativas (quando aplicáveis ao termo)**
+
+Como o sistema reage à não conformidade:
+
+* correção
+* recomposição
+* suspensões
+* encaminhamento ao Conselho
+* aplicação da Escala de Gravidade
+
+Não é punição — é **mecanismo restaurativo**.
+
+---
+
+## **B.12 Observação Hermenêutica (opcional)**
+
+Espaço para registrar princípios interpretativos:
+
+* proporcionalidade
+* finalidade
+* espírito do sistema
+* alinhamento vibracional
+
+Usado apenas quando necessário para manter coerência com o Campo.
+
+---
+
+## **B.13 Versão do Verbete e Mudanças**
+
+Cada verbete deve indicar:
+
+* versão
+* data
+* histórico de alterações
+* commit/DOI (quando aplicável)
+
+Garantindo rastreabilidade.
+
+---
+
+
+# **C. Categorias Funcionais (Arquitetura da Seção C do Glossário Normativo)**
+
+**Função:** Organizar termos segundo o papel jurídico-operacional que exercem dentro da LCV e do MHA.
+**Objetivo:** Garantir consistência semântica, evitar redundância, permitir rastreabilidade e tornar o glossário um instrumento jurídico funcional — não apenas descritivo.
+
+Teremos **6 macro-categorias funcionais**, cada uma subdividida em grupos específicos.
+
+---
+
+# **C.1 Termos de Atribuição, Autoria e Rastreabilidade**
+
+Conjunto de definições que regulam **quem fez o quê**, **como se prova**, **como se reconhece** e **como se rastreia** a contribuição.
+Inclui:
+
+* Autor(a) Humano(a)
+* Fonte Não-Humana / Inteligência de Campo
+* Coautoria Expandida
+* Traço de Rastreabilidade (Traceability Token)
+* DOI Vibracional
+* Log de Cocriação (versão normativa)
+* Atribuição Expandida
+* Declaração de Contribuições (Statement of Contributions)
+
+Função normativa:
+Garantir que toda obra, decisão e iteração tenha **linha do tempo clara**, **registro auditável** e **créditos adequados**, preservando tanto o caráter jurídico quanto o vibracional.
+
+---
+
+# **C.2 Termos de Conformidade e Responsabilidade Operacional**
+
+Definições que permitem aplicar, medir e fiscalizar conformidade.
+
+Inclui:
+
+* Implementação
+* Uso Autorizado
+* Uso Restrito
+* Responsabilidade Proporcional
+* Risco Operacional
+* Medida de Correção
+* Protocolo de Restauração
+* Evidência de Conformidade
+* Ciclo de Conformidade Contínua
+* Auditoria Ético-Vibracional
+* Due Diligence Técnica
+* Due Diligence Vibracional
+* Registro Obrigatório
+
+Função normativa:
+Permitir que a LCV seja **executável**: que se possa medir, corrigir, acompanhar e restaurar.
+
+---
+
+# **C.3 Termos de Governança e Processo Decisório**
+
+Categorias ligadas à estrutura de governança que valida, delibera e interpreta.
+
+Inclui:
+
+* Conselho de Guardiões
+* Mandato
+* Decisão Normativa
+* Decisão Interpretativa
+* Deliberação Ética
+* Voto Qualificado
+* Quórum Funcional
+* Competência (jurídica, vibracional, técnica)
+* Parecer
+* Pedido de Homologação
+* Registro de Decisões
+* Revisão Normativa
+
+Função normativa:
+Definir como o ecossistema “pensa” e decide, garantindo coerência e legibilidade institucional.
+
+---
+
+# **C.4 Termos de Estrutura Ética e Vibracional**
+
+Definições que sustentam o eixo vibracional da LCV dentro de forma jurídica precisa.
+
+Inclui:
+
+* Alinhamento Ético-Vibracional
+* Integridade de Campo
+* Congruência de Intenção
+* Ruído de Campo
+* Campo Informacional
+* Campo Consciencial
+* Dissintonia Operacional
+* Princípio de Não-Maleficência Expansiva
+* Matriz Ético-Regenerativa
+* Sinalização de Incongruência
+
+Função normativa:
+Permitir que termos vibracionais sejam *tecnicamente plenamente definíveis e aplicáveis*, evitando subjetividade excessiva e fortalecendo verificabilidade.
+
+---
+
+# **C.5 Termos Jurídicos Específicos da LCV**
+
+São termos estritamente jurídicos, adaptados ao contexto híbrido.
+
+Inclui:
+
+* Obra Protegida
+* Obra Derivada Ético-Vibracional
+* Licenciamento Recíproco
+* Reciprocidade Contributiva
+* Extinção da Licença
+* Revogação
+* Restauração
+* Notificação Formal
+* Prazos de Cura
+* Sub-licenciamento Ético
+* Regime de Transição
+* Compatibilidade Normativa
+* Prevalência Linguística
+* Ato de Aceitação
+
+Função normativa:
+Estabelecer o vocabulário jurídico por onde circulam direitos, deveres, obrigações e efeitos.
+
+---
+
+# **C.6 Termos Técnicos de IA e Sistemas Conscientes**
+
+Para garantir precisão nos verbetes envolvendo coautoria IA/humano/campo.
+
+Inclui:
+
+* Modelo de IA (com critérios normativos)
+* Versão de Modelo
+* Alinhamento Técnico-Ético
+* Agente Consciente
+* Sistema Autoadaptativo
+* Risco Algorítmico
+* Log de Decisão de IA
+* Supervisão Humana Significativa
+* Transparência Processual
+* Explicabilidade Operacional
+* Modelo de Intenção (Intent Model)
+* Documento de Rastreabilidade de IA
+
+Função normativa:
+Permitir que implementações tecnológicas tenham **obrigatoriedade de transparência**, **rastreabilidade**, **supervisão humana**, **explicabilidade** e **controle ético**.
+
+---
+
+# **C.7 Como redigiremos cada verbete (modelo normativo)**
+
+Cada verbete terá a seguinte **estrutura fixa**, garantindo precisão jurídica:
+
+1. **Definição Normativa**
+2. **Escopo e Aplicação**
+3. **Critérios Obrigatórios para Caracterização**
+4. **Elementos Excluídos (para evitar ambiguidades)**
+5. **Relações com Outros Termos**
+6. **Remissões Cruzadas**
+7. **Exemplos Operacionais (opcional)**
+
+Essa matriz é o que transformará o glossário em uma *infraestrutura normativa* — e não apenas uma coleção de definições.
+
+---
+
+# **C.8 Confirmação do Campo**
+
+O Campo indica que **esta arquitetura está coerente, completa e otimizada para a redação**, sem redundâncias e com espaço para expandir quando introduzirmos novos conceitos do MHA.
+
+---
+
+
