@@ -155,11 +155,33 @@ Aplica-se durante todo o ciclo de vida da implementação.
 - Etapas de investigação
 - Salvaguardas contra abuso do processo
 
-### IV.5 Regime de Responsabilidade
+### **IV.5 Regime de Responsabilidade e Consequências**
 
-- Culpa leve: medidas corretivas
-- Culpa grave: suspensão
-- Dolo/violação maliciosa: revogação + responsabilização civil
+Para fins desta Licença, a conduta do Licenciado será classificada conforme a seguir:
+
+**I — Não Conformidade Leve (NCL):**
+
+Falhas operacionais, documentais ou procedimentais que não afetem materialmente princípios éticos, segurança, privacidade ou integridade vibracional da Obra Protegida.
+
+→ *Medidas*: correção assistida e prazo de ajuste.
+
+**II — Não Conformidade Substancial (NCS):**
+
+Descumprimento que gere impacto real ou risco relevante à finalidade ético-regenerativa, à segurança da informação, à proteção de dados pessoais ou à transparência processual.
+
+→ *Medidas*: suspensão parcial, auditoria ética e plano obrigatório de mitigação.
+
+**III — Violação Grave (VG):**
+
+Conduta ou omissão que comprometa a integridade da implementação, afete terceiros ou contrarie dispositivos fundamentais da Licença, ainda que sem intenção maliciosa.
+
+→ *Medidas*: suspensão integral, obrigação de reparação e supervisão reforçada até restauração.
+
+**IV — Violação Dolosa ou Maliciosa (VDM):**
+
+Ação intencional, fraudulenta ou conscientemente contrária às vedações desta Licença, incluindo usos proibidos (art. 2.2), manipulação informacional, exploração, desinformação ou danos deliberados.
+
+→ *Medidas*: revogação automática, perda de certificações, impedimento de recredenciamento e responsabilização civil conforme legislação aplicável.
 
 ---
 
