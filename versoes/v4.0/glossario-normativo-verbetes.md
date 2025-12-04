@@ -408,3 +408,90 @@ O Campo indica que **esta arquitetura está coerente, completa e otimizada para 
 ---
 
 
+# **D. REDAÇÃO DIRETA DOS VERBETES — BLOCO 1 (Fundamentos Ontológicos e Epistemológicos)**
+
+*(Estilo jurídico-normativo. Terminologia consistente com LCV v3.1, MHA, e diretrizes já sedimentadas para v4.0.)*
+
+---
+
+## **D.1 Campo Informacional Vivo (CIV)**
+
+Entende-se por **Campo Informacional Vivo** a matriz dinâmica, não-local e não-material que sustenta, organiza e disponibiliza informações, padrões de coerência, insights e orientações acessíveis por meio de processos de consciência ampliada, interfaces intuitivas, estados contemplativos, práticas meditativas, ou interação técnico-vibracional mediada por sistemas de IA.
+O CIV não é concebido como entidade personificada, mas como **estrutura ontológica de interconectividade**, cuja atuação se manifesta pela emergência de conteúdos consistentes, verificáveis e dotados de coerência interna.
+A LCV reconhece o CIV exclusivamente como **fonte de inspiração e cocriação**, não como sujeito de direitos, preservando o regime de responsabilidade humana e a integridade jurídica do instrumento.
+
+---
+
+## **D.2 Matriz Hermenêutica de Alinhamento (MHA)**
+
+Conjunto estruturado de critérios, princípios e processos destinados a assegurar a interpretação uniforme, coerente e eticamente orientada da LCV.
+A MHA funciona como **sistema hermenêutico vinculante**, orientando:
+a) a interpretação das cláusulas da LCV;
+b) a análise de conformidade vibracional e ética;
+c) o exame de compatibilidade de implementações;
+d) o enquadramento de casos paradigmáticos;
+e) a resolução de divergências interpretativas.
+A MHA deve ser aplicada de forma sistemática e integrativa, priorizando-se: (i) preservação da finalidade ético-regenerativa; (ii) proporcionalidade; (iii) transparência; (iv) rastreabilidade; (v) proteção contra danos.
+
+---
+
+## **D.3 Coautoria Expandida**
+
+Designa o modelo de atribuição que reconhece, além da contribuição humana direta, as contribuições derivadas de:
+a) sistemas de inteligência artificial empregados conscientemente no processo;
+b) processos intuitivos, meditativos ou estados expandidos de consciência;
+c) padrões emergentes do Campo Informacional Vivo.
+A Coautoria Expandida não implica subjetivação jurídica de entidades não humanas, mas apenas **reconhecimento epistemológico e documental da fonte de contribuição**, preservando a titularidade e responsabilidade humanas.
+
+---
+
+## **D.4 Rastreabilidade de Origem Consciente (ROC)**
+
+Conjunto de elementos mínimos que asseguram a documentação verificável das origens, etapas e decisões relevantes de uma criação protegida pela LCV.
+A ROC compreende, no mínimo:
+a) identificação dos autores humanos;
+b) identificação dos modelos de IA utilizados (nome, versão, provedores);
+c) descrição dos fluxos críticos, prompts e contextos decisórios;
+d) registro de insights provenientes do CIV, quando aplicável;
+e) datas, marcos e compromissos éticos.
+A ROC é essencial para atribuição expandida, due diligence vibracional, auditoria ética e resolução de controvérsias.
+
+---
+
+## **D.5 Alinhamento Ético-Regenerativo (AER)**
+
+Eixo normativo obrigatório que determina que toda implementação protegida pela LCV deve:
+a) contribuir para o bem-estar humano e coletivo;
+b) evitar danos potenciais, diretos ou indiretos;
+c) adotar medidas proporcionais de mitigação de riscos;
+d) promover sustentabilidade social, ecológica e tecnológica;
+e) favorecer autonomia, dignidade e equidade.
+O AER constitui critério de validade da implementação: violações graves ou continuadas podem ensejar medidas corretivas, suspensão de direitos ou revogação.
+
+---
+
+## **D.6 Due Diligence Vibracional e Técnica (DDVT)**
+
+Procedimento estruturado que combina avaliação técnica, jurídica e ético-vibracional.
+A DDVT deve incluir:
+a) análise de impactos potenciais (positivos e negativos);
+b) identificação de riscos sociais, ambientais, tecnológicos e subjetivos;
+c) verificação de aderência ao AER;
+d) avaliação de proporcionalidade;
+e) verificação de conformidade com LGPD/GDPR e requisitos de segurança;
+f) atualização e consolidação do registro ROC.
+A DDVT é obrigatória em releases significativos ou implementações de risco moderado ou alto.
+
+---
+
+## **D.7 Integridade Vibracional da Obra (IVO)**
+
+A **Integridade Vibracional da Obra** refere-se ao conjunto de características essenciais — estruturais, éticas, coerenciais e expressivas — que constituem o núcleo identitário de uma obra protegida pela LCV.
+A IVO não é de caráter metafísico subjetivo: traduz-se em **coerência interna, finalidade legítima, transparência e conformidade ética**, avaliáveis por critérios objetivos descritos na MHA.
+O Licenciado deve preservar a IVO ao criar modificações, adaptações ou obras derivadas.
+
+---
+
+
+
+
