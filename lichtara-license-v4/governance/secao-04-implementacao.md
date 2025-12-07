@@ -1,6 +1,4 @@
-# **SEÇÃO IV**
-
-## **IV.0 — Princípios e Alcance da Implementação**
+# **IV.0 — Princípios e Alcance da Implementação**
 
 A presente Seção define os princípios estruturantes, o escopo de aplicabilidade e as condições de acionamento dos mecanismos operacionais da Lichtara License v4.0, constituindo o núcleo que orienta todas as fases de implementação, monitoramento, conformidade e restauração.
 
@@ -2492,3 +2490,5 @@ desde que:
 * mantenham integridade vibracional.
 
 ---
+
+
