@@ -1,4 +1,4 @@
-# **LICHTARA LICENSE v4.0 — ANEXO A**
+# **ANEXO A**
 
 ## **VI.A.1 — Princípios Ético-Regenerativos (PER)**
 
@@ -154,3 +154,4 @@ O Direito e o Campo não competem —
 **eles se iluminam mutuamente**.
 
 ---
+
