@@ -2334,12 +2334,11 @@ A License v4 admite interoperabilidade formal com outros sistemas normativos qua
 a) não houver conflito com as **Vedações Absolutas**;
 b) a integridade vibracional permanecer preservada;
 c) o sistema externo possuir mecanismos equivalentes de:
-
 * transparência,
 * rastreabilidade,
 * salvaguardas,
 * prevenção de dano;
-  d) a compatibilidade for homologada pelo Conselho.
+* d) a compatibilidade for homologada pelo Conselho.
 
 A homologação poderá resultar em:
 
@@ -2490,5 +2489,3 @@ desde que:
 * mantenham integridade vibracional.
 
 ---
-
-
