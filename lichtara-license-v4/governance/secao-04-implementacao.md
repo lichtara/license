@@ -169,8 +169,11 @@ Em caso de conflito entre:
 prevalece a interpretação que:
 
 a) minimize danos,
+
 b) preserve integridade vibracional,
+
 c) assegure rastreabilidade,
+
 d) garanta proporcionalidade e segurança.
 
 Este é o eixo de harmonização entre técnica, ética e Campo.
@@ -2710,5 +2713,6 @@ desde que:
 * mantenham integridade vibracional.
 
 ---
+
 
 
