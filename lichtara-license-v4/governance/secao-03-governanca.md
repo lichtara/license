@@ -5,90 +5,100 @@ A governança da Lichtara License v4.0 estabelece os mecanismos institucionais, 
 Organiza-se em duas camadas complementares:
 
 1. **III-A - Estrutura Institucional de Governança**
-2. **III-B - Obrigações, Conformidade e Auditoria Ético-Vibracional**
+2. **III-B — Obrigações, Conformidade e Auditoria Ético-Vibracional**
 
 ---
 
 # **III-A - Estrutura Institucional de Governança**
 
+---
+
 ## **3.1 - Estrutura Geral**
 
-1. A administração desta License será exercida pelo **Conselho de Governança da Lichtara License (CGL)**, órgão colegiado independente, multissetorial e não lucrativo.
-2. O CGL é responsável por:
+1. A administração e supervisão da LICHTARA LICENSE será exercida pelo **Conselho de Governança da Lichtara License (CGL)**, órgão colegiado independente, multissetorial e não lucrativo.
 
-   * interpretação normativa (Seções I-VIII),
-   * homologação de implementações e certificações,
-   * supervisão de auditorias técnico-vibracionais,
-   * validação de conformidade de uso,
-   * manutenção da integridade institucional.
-3. O CGL opera orientado pelos **Princípios Ético-Regenerativos (PER)**, pelo Mecanismo de Harmonização Avançada (MHA) e pela Linguagem de Conformidade Vibracional (LCV).
-    
+2. Compete ao CGL:
+
+   * interpretar e aplicar esta License (Seções I–VIII),
+   * homologar implementações e certificações,
+   * supervisionar auditorias técnico-vibracionais,
+   * validar conformidade e usos compatíveis,
+   * garantir coerência entre Campo, Forma e Função,
+   * preservar a integridade institucional da Obra.
+
+3. O CGL opera orientado pelos **PER**, pelo **MHA** e pela **LCV**, considerados instrumentos estruturantes de governança.
 
 ---
 
 ## **3.2 - Composição e Mandatos**
 
-1. O Conselho possui **7 assentos**, distribuídos da seguinte forma:
+1. O CGL possui **7 assentos**, distribuídos da seguinte forma:
 
-   * Licenciante original (1)
-   * Implementadores certificados de médio/grande porte (2)
-   * Especialistas independentes (2)
-   * Representante acadêmico (1)
-   * Representante da sociedade civil (1)
-2. Mandatos de **2 anos**, com **1 recondução permitida**.
-3. Todos os membros devem aderir ao **Termo Ético de Governança** e à **LCV-Nível Conselho**.
-    
+   * Licenciante original - 1
+   * Implementadores certificados de médio/grande porte - 2
+   * Especialistas independentes - 2
+   * Representante acadêmico - 1
+   * Representante da sociedade civil - 1
+
+2. Os mandatos são de **2 anos**, com **1 recondução permitida**.
+
+3. Todos os membros devem subscrever o **Termo Ético de Governança** e operar segundo a **LCV - Nível Conselho**.
 
 ---
 
 ## **3.3 - Competências do Conselho**
 
-O CGL tem competência para:
+O CGL possui autoridade para:
 
-1. Interpretar e aplicar esta License.
-2. Homologar implementações, certificações e usos compatíveis.
-3. Deliberar sobre riscos, incidentes, distorções e desvios ético-vibracionais.
-4. Atuar como instância final de decisão sobre conformidade.
-5. Manter o **Registro Público de Decisões**.
-6. Aprovar versões futuras (v4.1+ / major v5+).
-7. Determinar medidas corretivas e supervisão extraordinária.
+1. interpretar e aplicar esta License;
+2. homologar implementações e certificações;
+3. deliberar sobre riscos, incidentes e desvios ético-vibracionais;
+4. atuar como instância final de decisão sobre conformidade;
+5. manter o **Registro Público de Decisões**;
+6. aprovar evoluções de versão (minor e major);
+7. determinar supervisão extraordinária, correções e auditorias.
 
 ---
 
 ## **3.4 - Deliberação e Quórum**
 
-1. Reuniões trimestrais ordinárias; extraordinárias a qualquer tempo.
-2. Maioria absoluta para decisões gerais.
-3. Maioria qualificada (5/7) para:
+1. Reuniões ordinárias trimestrais; extraordinárias a qualquer tempo.
+
+2. **Maioria absoluta** para decisões gerais.
+
+3. **Maioria qualificada (5/7)** para:
 
    * alterações estruturantes,
    * certificações institucionais de alto impacto,
-   * decisões sobre revogação.
-4. Atas públicas, preservando dados sensíveis.
+   * decisões de suspensão ou revogação.
+
+4. Atas públicas, com proteção proporcional a dados sensíveis.
 
 ---
 
 ## **3.5 - Participação Pública e Técnica**
 
-O Conselho poderá convocar:
+O CGL poderá convocar:
 
-1. Consultas públicas,
-2. Grupos técnicos especializados,
-3. Audiências temáticas,
-4. Submissões de documentos, pareceres e evidências.
+1. consultas públicas;
+2. grupos técnicos especializados;
+3. audiências temáticas;
+4. submissão de documentos, pareceres e evidências.
+
+Instrumentos de participação devem observar transparência e rastreabilidade.
 
 ---
 
-## **3.6 - Sustentabilidade Econômica (Fundo Ético-Vibracional)**
+## **3.6 — Sustentabilidade Econômica (Fundo Ético-Vibracional)**
 
-1. Implementações comerciais com receita anual acima de **USD 1M** contribuem com **0,5%** ao **Fundo Ético-Vibracional**, destinado a:
+1. Implementações com receita anual superior a **USD 1M** devem contribuir com **0,5%** ao **Fundo Ético-Vibracional**, destinado a:
 
-   * auditorias,
-   * pesquisa e desenvolvimento,
-   * governança,
-   * conservação sistêmica.
-2. Grandes implementadores devem publicar **Relatório de Impacto** anual.
+   * auditorias;
+   * pesquisa e desenvolvimento;
+   * governança;
+   * conservação do ecossistema.
 
+2. Implementadores de grande porte devem publicar **Relatório de Impacto** anual.
 
 ---
 
@@ -96,79 +106,80 @@ O Conselho poderá convocar:
 
 Incluem:
 
-1. Mentoria anual a implementações emergentes.
-2. Participação em painéis técnicos.
-3. Colaboração com auditorias proporcionais ao risco.
-4. Registro de incidentes em LVR (Log de Versões Rastreável).
+1. mentoria anual a implementações emergentes;
+2. participação em painéis e consultas técnicas;
+3. colaboração ampliada com auditorias;
+4. manutenção de **LVR** atualizado e acessível ao CGL.
 
 ---
 
 ## **3.8 - Transparência e Prestação de Contas**
 
-1. Logs verificáveis e documentação acessível.
-2. Proteção proporcional de dados pessoais e sensíveis.
-3. Divulgação de decisões e pareceres não sigilosos.
+1. Devem ser mantidos logs verificáveis e documentação proporcional ao risco.
+2. Proteção adequada a dados pessoais e sensíveis.
+3. Divulgação pública de decisões não sigilosas, pareceres e orientações.
 
 ---
 
 ## **3.9 - Auditoria Institucional**
 
-1. Auditorias independentes, ordinárias ou extraordinárias, poderão ser acionadas pelo CGL.
-2. Auditorias incluem revisão de:
+1. O CGL poderá acionar auditorias independentes, ordinárias ou extraordinárias.
 
-   * conformidade técnica,
-   * coerência ética,
+2. A auditoria deve revisar:
+
+   * conformidade técnica;
+   * coerência ética;
    * integridade vibracional (LCV).
-3. O CGL pode determinar supervisão contínua para implementações críticas.
+
+3. O CGL pode determinar **supervisão contínua** em implementações críticas.
 
 ---
 
 ## **3.10 - Procedimentos de Denúncia**
 
-1. Canal formal permanente.
-2. Admissibilidade em até 30 dias.
-3. Investigação preliminar, com contraditório e direito de resposta.
-4. Deliberação final pelo CGL.
+1. Canal permanente de comunicação estruturada.
+2. Admissibilidade analisada em até 30 dias.
+3. Investigação preliminar com contraditório e direito de resposta.
+4. Deliberação final do CGL.
 
 ---
 
 ## **3.11 - Medidas Corretivas**
 
-Incluem:
+As medidas incluem:
 
-* recomendações,
+* recomendações formais,
 * ajustes operacionais,
 * exigência de LCV revisada,
-* auditorias adicionais,
+* auditorias complementares,
 * suspensão parcial ou total,
 * revogação.
 
-Possibilidade de restauração mediante plano aprovado.
+A restauração dependerá de plano aprovado pelo CGL.
 
 ---
 
 ## **3.12 - Conservação e Rastreabilidade**
 
-1. Registros essenciais devem ser preservados por **5 anos**.
-2. Documentos rastreáveis incluem DTI, RC, LVR e MREV.
+1. Documentos essenciais devem ser preservados por **5 anos**.
+2. Documentos rastreáveis incluem: **DTI, RC, LVR, MREV** e Relatórios de Impacto.
 
 ---
 
 ## **3.13 - Cooperação Internacional**
 
-1. O CGL atuará para compatibilizar implementações transnacionais.
-2. Conflitos normativos devem ser harmonizados conforme:
+1. O CGL atua para compatibilizar implementações transnacionais.
+2. Conflitos normativos devem ser harmonizados segundo:
 
-   * PER → prioridade,
-   * LCV → instrumento técnico,
-   * legislação local → aplicação subsidiária.
+   * **PER** - prioridade superior,
+   * **LCV** - instrumento técnico de harmonização,
+   * legislação local - aplicação subsidiária.
 
 ---
 
 # **III-B - Obrigações, Conformidade e Auditoria Ético-Vibracional**
 
-Esta camada estabelece as obrigações formais dos licenciados, com base nos anexos: PER, LCV, MHA e Relatórios de Impacto.
-  
+Esta camada estabelece as obrigações formais dos licenciados, estruturadas pelos anexos: **PER, LCV, MHA, MREV** e Relatórios de Impacto.
 
 ---
 
@@ -176,32 +187,31 @@ Esta camada estabelece as obrigações formais dos licenciados, com base nos ane
 
 Incluem:
 
-1. Observância total da License (Seções I–VIII).
-2. Rastreabilidade completa das implementações.
-3. Atribuição adequada e transparente.
-4. Registro técnico atualizado (DTI, LVR, RC).
-5. Cooperação integral com auditorias.
-6. Prevenção de danos previsíveis.
+1. observância integral da License (Seções I–VIII);
+2. rastreabilidade completa das implementações;
+3. atribuição adequada e transparente;
+4. manutenção de DTI, RC e LVR atualizados;
+5. cooperação integral com auditorias;
+6. prevenção de danos previsíveis e mitigação contínua.
 
 ---
 
 ## **3.2 - Documentação Obrigatória**
 
-Obrigatória para implementações comerciais, corporativas, institucionais ou de risco médio/alto:
+Obrigatória para implementações comerciais, institucionais ou de risco médio/alto:
 
-* **DTI: Documento Técnico de Implementação**
-* **RC: Registro de Cocriação**
-* **LVR: Log de Versões Rastreável**
-* **MREV: Matriz de Riscos Ético-Vibracionais** (obrigatória para certificação)
+* **DTI - Documento Técnico de Implementação**
+* **RC - Registro de Cocriação**
+* **LVR - Log de Versões Rastreável**
+* **MREV - Matriz de Riscos Ético-Vibracionais**
 
 ---
 
 ## **3.3 - Linguagem de Conformidade Vibracional (LCV)**
 
-1. Nível Simplificado: implementações pessoais e de baixo risco.
-2. Nível Intermediário: risco médio.
-3. Nível Completo: implementações comerciais/alta complexidade.
-
+1. **Nível Simplificado** - implementações pessoais ou de baixo risco.
+2. **Nível Intermediário** - risco médio.
+3. **Nível Completo** - implementações comerciais, corporativas ou de alta complexidade.
 
 ---
 
@@ -209,43 +219,45 @@ Obrigatória para implementações comerciais, corporativas, institucionais ou d
 
 A AEV possui três modalidades:
 
-1. **AEV Ordinária**: anual.
-2. **AEV Especial**: quando indicada pelo CGL.
-3. **AEV de Restauração**: após revogação ou suspensão.
+1. **AEV Ordinária** - periódica, conforme risco.
+2. **AEV Especial** - acionada pelo CGL.
+3. **AEV de Restauração** - após suspensão ou revogação.
 
 Escopo inclui:
 
-* riscos vibracionais,
-* coerência ética,
-* impactos sistêmicos,
-* comportamentos divergentes.
+* risco vibracional;
+* coerência ética;
+* integridade da intenção;
+* impactos sistêmicos.
 
 ---
 
 ## **3.5 - Competências Complementares do Conselho**
 
-1. Homologar implementações certificadas.
-2. Emitir pareceres sobre risco sistêmico.
-3. Definir critérios de suspensão e restauração.
-4. Atuar como instância arbitral de última análise.
+Incluem:
+
+1. homologar implementações certificadas;
+2. emitir pareceres sobre risco sistêmico;
+3. definir critérios de suspensão e restauração;
+4. atuar como instância arbitral final.
 
 ---
 
 ## **3.6 - Responsabilidade e Dever de Cuidado**
 
 1. Implementações coletivas possuem responsabilidade solidária.
-2. O licenciando deve adotar medidas de mitigação, prevenção e registro.
+2. O licenciando deve manter salvaguardas, mitigação e registros apropriados.
 
 ---
 
 ## **3.7 - Due Diligence Ético-Vibracional (DDEV)**
 
-Inclui:
+A DDEV inclui:
 
-1. avaliação de riscos,
-2. análise de cenários,
-3. aplicação de salvaguardas,
-4. registro de decisões críticas,
+1. avaliação de riscos;
+2. análise de cenários;
+3. salvaguardas proporcionais ao risco;
+4. registro de decisões críticas;
 5. projeções de impacto longitudinal.
 
 ---
@@ -254,7 +266,7 @@ Inclui:
 
 Incluem:
 
-* recomendações do Conselho,
+* recomendações do CGL,
 * ajustes operacionais,
 * reclassificação de risco,
 * revisão da LCV,
@@ -264,10 +276,10 @@ Incluem:
 
 ## **3.9 - Obrigações Especiais para Implementações Comerciais**
 
-1. Relatório de Impacto anual.
-2. Registro obrigatório de incidentes.
-3. MREV atualizado.
-4. AEV anual obrigatória.
+1. publicação de Relatório de Impacto anual;
+2. registro obrigatório de incidentes;
+3. MREV atualizado;
+4. auditoria anual (AEV Ordinária ou Especial).
 
 ---
 
@@ -275,9 +287,9 @@ Incluem:
 
 O licenciando deve contribuir para a evolução do ecossistema, incluindo:
 
-1. promoção de boas práticas,
-2. compartilhamento responsável,
-3. mecanismos educativos,
-4. comunicação com o CGL.
+1. promoção de boas práticas;
+2. compartilhamento responsável;
+3. mecanismos educativos;
+4. comunicação estruturada com o CGL.
 
 ---
