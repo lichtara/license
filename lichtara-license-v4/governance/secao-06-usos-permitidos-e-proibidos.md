@@ -52,9 +52,13 @@ Os usos permitidos organizam-se em três grupos.
 Permitido sem necessidade de certificação, desde que:
 
 a) não haja impacto público ou coletivo;
+
 b) não haja uso sensível ou decisório envolvendo IA;
+
 c) não haja coleta de dados pessoais sensíveis;
+
 d) seja mantida a Atribuição Expandida;
+
 e) sejam respeitadas integralmente as Vedações Absolutas.
 
 Esse uso inclui:
@@ -72,9 +76,13 @@ Esse uso inclui:
 Permitido quando:
 
 a) houver RCI simplificado (IV.1.2);
+
 b) houver Ficha Pública de Implementação, quando aplicável;
+
 c) não houver monetização direta ou indireta;
+
 d) a obra derivada ou implementação preserve integridade e rastreabilidade;
+
 e) forem adotadas salvaguardas proporcionais ao risco.
 
 Inclui:
@@ -91,10 +99,15 @@ Inclui:
 Permitido quando:
 
 a) houver plena conformidade com toda a Seção IV;
+
 b) houver RCI completo;
+
 c) houver política de mitigação de riscos;
+
 d) houver Relatório de Impacto anual;
+
 e) implementações de alto impacto estejam certificadas (IV.8);
+
 f) seja observado o Fundo Ético-Vibracional quando aplicável (III-A.6).
 
 Inclui:
@@ -119,9 +132,13 @@ Algumas modalidades de uso são autorizadas apenas sob condições específicas,
 Permitido somente com:
 
 a) LCV Completa (IV.1.5),
+
 b) MREV obrigatória,
+
 c) auditoria anual,
+
 d) salvaguardas reforçadas,
+
 e) validação vibracional documentada.
 
 Ambientes sensíveis incluem:
@@ -139,9 +156,13 @@ Ambientes sensíveis incluem:
 Permitido somente quando:
 
 a) houver checkpoints humanos obrigatórios;
+
 b) houver logs completos de entradas e saídas;
+
 c) houver auditoria periódica de deriva comportamental;
+
 d) forem observadas as Vedações Absolutas para IA;
+
 e) houver limites claros de autonomia.
 
 Modelos treinados ou finetunados com a Obra devem:
@@ -168,8 +189,11 @@ Permitido somente nos termos de IV.9 (Interoperabilidade):
 Permitido, desde que:
 
 a) não viole cláusulas pétreas;
+
 b) mantenha transparência proporcional;
+
 c) preserve rastreabilidade e não capture normativamente a License;
+
 d) haja parecer vibracional quando o uso for sensível.
 
 ---
@@ -179,10 +203,15 @@ d) haja parecer vibracional quando o uso for sensível.
 Mesmo quando permitido, nenhum uso pode:
 
 a) deturpar autores, intenções ou origem da Obra;
+
 b) ocultar contribuições de IA (violação do MHA);
+
 c) fragmentar rastreabilidade;
+
 d) omitir riscos conhecidos;
+
 e) induzir usuários a conclusões enganosas;
+
 f) comprometer a integridade vibracional.
 
 Essas restrições se aplicam universalmente.
@@ -194,12 +223,19 @@ Essas restrições se aplicam universalmente.
 São proibidos todos os usos que:
 
 a) violem qualquer requisito operacional da Seção IV;
+
 b) não mantenham Documentação ou RCI quando obrigatórios;
+
 c) criem risco significativo não mitigado;
+
 d) usem a Obra para benefício próprio mediante ocultação de autoria;
+
 e) violem direitos de terceiros;
+
 f) produzam desinformação, manipulação ou persuasão indevida;
+
 g) envolvam coleta oculta ou inadequada de dados pessoais;
+
 h) constituam prática enganosa ou abuso de vulnerabilidade.
 
 Violação reiterada resulta em:
@@ -235,10 +271,15 @@ Nenhuma certificação, exceção ou autorização pode derrogar essas proibiç�
 A violação desta Seção pode acarretar:
 
 a) solicitação imediata de correção;
+
 b) monitoramento extraordinário;
+
 c) auditoria ético-vibracional;
+
 d) suspensão do Selo Lichtara;
+
 e) revogação da licença em casos graves;
+
 f) encaminhamento ao Conselho para parecer vinculante.
 
 Em violações das Vedações Absolutas, opera-se automaticamente o **Procedimento de Restauração** (II.5).
@@ -250,8 +291,11 @@ Em violações das Vedações Absolutas, opera-se automaticamente o **Procedimen
 Usos inovadores ou inéditos podem ser autorizados, desde que:
 
 a) preservem princípios fundamentais;
+
 b) adotem salvaguardas adequadas;
+
 c) solicitem orientação ao Conselho quando houver dúvida interpretativa;
+
 d) mantenham rastreabilidade e intenção declarada.
 
 A inovação é bem-vinda.
