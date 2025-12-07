@@ -140,24 +140,3 @@ e) exame de incidentes, ajustes e registros;
 f) verificação de aderência às Vedações Absolutas.
 
 ---
-
-# **IV.2.8. Fechamento do Ciclo e Abertura do Próximo**
-
-Cada ciclo se encerra quando:
-
-a) a validação periódica é concluída;
-b) a implementação encontra-se documentada e rastreável;
-c) não há incidentes pendentes;
-d) o estado vibracional está coerente;
-e) as salvaguardas permanecem adequadas.
-
-O fechamento do ciclo deve gerar um registro de:
-
-* estado final,
-* versão,
-* riscos mitigados,
-* aprendizados adquiridos,
-* próximos passos.
-
-Esse registro abre automaticamente o **próximo ciclo**.
-
