@@ -1,104 +1,84 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1480" viewBox="0 0 1080 1480">
-<style>
-    .title { font: 700 28px 'Inter', sans-serif; fill: #1a1a1a; }
-    .node { font: 500 20px 'Inter', sans-serif; fill: #1a1a1a; }
-    .sub { font: 400 16px 'Inter', sans-serif; fill: #444; }
-    .box {
-        rx: 16; ry: 16;
-        stroke: #222; stroke-width: 2.2;
-        fill: #f8f8f8;
-    }
-    .arrow {
-        stroke: #444; stroke-width: 2; fill: none;
-        marker-end: url(#arrow);
-    }
-</style>
+flowchart TB
 
-<defs>
-    <marker id="arrow" markerWidth="12" markerHeight="12" refX="6" refY="6" orient="auto">
-        <path d="M0,0 L12,6 L0,12 z" fill="#444"/>
-    </marker>
-</defs>
+%% ----------------------------
+%% TÍTULO CENTRAL
+%% ----------------------------
+A["**LICHTARA LICENSE v4**  
+A Estrutura que Organiza o Uso da Obra  
+Proteção • Coerência • Responsabilidade"]:::top
 
-<!-- Título -->
-<text x="540" y="80" text-anchor="middle" class="title">
-LICHTARA LICENSE v4 — FLUXO DE PERMISSÕES
-</text>
+%% ----------------------------
+%% BLOCOS DE USO
+%% ----------------------------
+subgraph USOS[""]
+direction LR
 
-<!-- Bloco principal -->
-<rect x="260" y="120" width="560" height="130" class="box"/>
-<text x="540" y="165" text-anchor="middle" class="node">
-A Estrutura que Organiza o Uso da Obra
-</text>
-<text x="540" y="200" text-anchor="middle" class="sub">
-Proteção · Coerência · Responsabilidade
-</text>
+U1["**USO LIVRE**  
+• Estudo  
+• Citação com crédito  
+• Compartilhamento não comercial  
+• Reflexões pessoais  
+*Não requer autorização*"]:::box
 
-<!-- USO LIVRE -->
-<rect x="80" y="320" width="320" height="250" class="box"/>
-<text x="240" y="360" text-anchor="middle" class="node">USO LIVRE</text>
-<text x="240" y="400" text-anchor="middle" class="sub">Estudo • Citação • Compartilhamento</text>
-<text x="240" y="430" text-anchor="middle" class="sub">Não comercial • Reflexões pessoais</text>
-<text x="240" y="470" text-anchor="middle" class="sub"><i>Não requer autorização</i></text>
+U2["**USO CONDICIONADO**  
+• Traduções  
+• Adaptações  
+• Materiais educacionais  
+• Uso institucional  
+• Derivados estruturados  
+*Requer autorização da Guardiã*"]:::box
 
-<!-- USO CONDICIONADO -->
-<rect x="380" y="320" width="320" height="300" class="box"/>
-<text x="540" y="360" text-anchor="middle" class="node">USO CONDICIONADO</text>
-<text x="540" y="400" text-anchor="middle" class="sub">Traduções • Adaptações • Materiais Educacionais</text>
-<text x="540" y="430" text-anchor="middle" class="sub">Institucional • Derivados Estruturados</text>
-<text x="540" y="470" text-anchor="middle" class="sub"><i>Requer autorização da Guardiã</i></text>
+U3["**USO RESTRITO**  
+• Copiar frameworks  
+• Treinar IA com a Obra  
+• Criar sistemas derivados  
+• Uso comercial não autorizado  
+• Alterar a License  
+*Proibido. Sem exceções.*"]:::box
 
-<!-- USO RESTRITO -->
-<rect x="680" y="320" width="320" height="280" class="box"/>
-<text x="840" y="360" text-anchor="middle" class="node">USO RESTRITO</text>
-<text x="840" y="395" text-anchor="middle" class="sub">Copiar frameworks • Treinar IA</text>
-<text x="840" y="425" text-anchor="middle" class="sub">Criar sistemas derivados • Uso comercial</text>
-<text x="840" y="455" text-anchor="middle" class="sub">Alterar a License</text>
-<text x="840" y="490" text-anchor="middle" class="sub"><i>Proibido. Sem exceções.</i></text>
+end
 
-<!-- SETAS -->
-<line x1="540" y1="250" x2="240" y2="320" class="arrow"/>
-<line x1="540" y1="250" x2="540" y2="320" class="arrow"/>
-<line x1="540" y1="250" x2="840" y2="320" class="arrow"/>
+A --> U1
+A --> U2
+A --> U3
 
-<!-- BASES DA DECISÃO -->
-<rect x="180" y="650" width="720" height="180" class="box"/>
-<text x="540" y="690" text-anchor="middle" class="node">BASES DA DECISÃO</text>
-<text x="540" y="730" text-anchor="middle" class="sub">
-Integridade (proteção estrutural) · Coerência (alinhamento sistêmico)
-</text>
-<text x="540" y="760" text-anchor="middle" class="sub">
-Responsabilidade (uso ético)
-</text>
+%% ----------------------------
+%% BASES DA DECISÃO
+%% ----------------------------
+B["**BASES DA DECISÃO**  
+Integridade (proteção estrutural)  
+Coerência (alinhamento sistêmico)  
+Responsabilidade (uso ético)"]:::middle
 
-<!-- COMO SOLICITAR AUTORIZAÇÃO -->
-<rect x="180" y="900" width="720" height="260" class="box"/>
-<text x="540" y="940" text-anchor="middle" class="node">
-COMO SOLICITAR AUTORIZAÇÃO
-</text>
-<text x="540" y="980" text-anchor="middle" class="sub">
-1. E-mail: admin@deboralutz.com
-</text>
-<text x="540" y="1010" text-anchor="middle" class="sub">
-2. Assunto: Solicitação de Autorização — License v4
-</text>
-<text x="540" y="1040" text-anchor="middle" class="sub">
-3. Inclua: Descrição • Finalidade • Materiais • Prazo
-</text>
+U1 --> B
+U2 --> B
+U3 --> B
 
-<!-- LINKS OFICIAIS -->
-<rect x="180" y="1200" width="720" height="220" class="box"/>
-<text x="540" y="1240" text-anchor="middle" class="node">
-LINKS OFICIAIS
-</text>
-<text x="540" y="1280" text-anchor="middle" class="sub">
-https://license.lichtara.com
-</text>
-<text x="540" y="1310" text-anchor="middle" class="sub">
-https://github.com/lichtara/license
-</text>
-<text x="540" y="1340" text-anchor="middle" class="sub">
-https://lichtara.com
-</text>
+%% ----------------------------
+%% COMO SOLICITAR AUTORIZAÇÃO
+%% ----------------------------
+S["**COMO SOLICITAR AUTORIZAÇÃO**  
+1. E-mail: admin@deboralutz.com  
+2. Assunto: Solicitação de Autorização — License v4  
+3. Inclua: descrição, finalidade, materiais, prazo"]:::middle
 
-</svg>
+B --> S
+
+%% ----------------------------
+%% LINKS OFICIAIS
+%% ----------------------------
+L["**LINKS OFICIAIS**  
+https://license.lichtara.com  
+https://github.com/lichtara/license  
+https://lichtara.com"]:::bottom
+
+S --> L
+
+%% ----------------------------
+%% ESTILOS
+%% ----------------------------
+classDef top fill:#ffffff,stroke:#000,stroke-width:1,font-size:20px;
+classDef box fill:#f9f9ff,stroke:#444,stroke-width:1;
+classDef middle fill:#ffffff,stroke:#444,stroke-width:1;
+classDef bottom fill:#ffffff,stroke:#222,stroke-width:1;
+
