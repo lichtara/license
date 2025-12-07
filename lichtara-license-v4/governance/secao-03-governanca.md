@@ -5,7 +5,7 @@ A governança da Lichtara License v4.0 estabelece os mecanismos institucionais, 
 Organiza-se em duas camadas complementares:
 
 1. **III-A - Estrutura Institucional de Governança**
-2. **III-B — Obrigações, Conformidade e Auditoria Ético-Vibracional**
+2. **III-B - Obrigações, Conformidade e Auditoria Ético-Vibracional**
 
 ---
 
@@ -293,3 +293,4 @@ O licenciando deve contribuir para a evolução do ecossistema, incluindo:
 4. comunicação estruturada com o CGL.
 
 ---
+
