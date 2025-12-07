@@ -1,8 +1,8 @@
-# **SEÇÃO V — ATUALIZAÇÕES, VERSIONAMENTO E AUTORIDADE NORMATIVA**
+# **SEÇÃO V - ATUALIZAÇÕES, VERSIONAMENTO E AUTORIDADE NORMATIVA**
 
 ---
 
-# **V.0 — Finalidade e Alcance**
+# **V.0 - Finalidade e Alcance**
 
 Esta Seção estabelece:
 
@@ -18,7 +18,7 @@ A Seção V garante **estabilidade, continuidade e previsibilidade** do sistema 
 
 ---
 
-# **V.1 — Princípios de Evolução da Licença**
+# **V.1 - Princípios de Evolução da Licença**
 
 Toda atualização deve observar:
 
@@ -36,7 +36,7 @@ Evolução é permitida.
 
 ---
 
-# **V.2 — Taxonomia de Versionamento**
+# **V.2 - Taxonomia de Versionamento**
 
 A License adota sistema **semantic-symbolic**, composto por:
 
@@ -92,7 +92,7 @@ Ex.: **v4.1 → v4.1.2**
 
 ---
 
-# **V.3 — Autoridade Competente para Atualizações**
+# **V.3 - Autoridade Competente para Atualizações**
 
 A autoridade normativa sobre esta License pertence exclusivamente ao:
 
@@ -112,13 +112,13 @@ Nenhuma outra entidade pode alterar esta License de forma válida.
 
 ---
 
-# **V.4 — Matriz de Mutabilidade**
+# **V.4 - Matriz de Mutabilidade**
 
 A License possui três níveis de mutabilidade:
 
 ---
 
-## **V.4.1 — Cláusulas Imutáveis (Nível 1)**
+## **V.4.1 - Cláusulas Imutáveis (Nível 1)**
 
 Nunca podem ser alteradas ou suprimidas.
 
@@ -134,7 +134,7 @@ Qualquer tentativa de alteração é **nula de pleno direito**.
 
 ---
 
-## **V.4.2 — Cláusulas Estruturais (Nível 2)**
+## **V.4.2 - Cláusulas Estruturais (Nível 2)**
 
 Podem ser alteradas apenas mediante **versão Major**, com maioria qualificada.
 
@@ -148,7 +148,7 @@ e) anexos estratégicos do sistema.
 
 ---
 
-## **V.4.3 — Cláusulas Operacionais (Nível 3)**
+## **V.4.3 - Cláusulas Operacionais (Nível 3)**
 
 Podem ser ajustadas em versões **Minor**, desde que:
 
@@ -165,7 +165,7 @@ Incluem:
 
 ---
 
-# **V.5 — Processo de Atualização Normativa**
+# **V.5 - Processo de Atualização Normativa**
 
 O processo ocorre em seis etapas:
 
@@ -229,7 +229,7 @@ Imediata, salvo disposição expressa.
 
 ---
 
-# **V.6 — Regras de Compatibilidade Retroativa**
+# **V.6 - Regras de Compatibilidade Retroativa**
 
 A evolução da License segue os princípios:
 
@@ -241,7 +241,7 @@ e) Ajustes vibracionais que aumentem proteção também podem ter efeito retroat
 
 ---
 
-# **V.7 — Salvaguarda Contra Captura Normativa**
+# **V.7 - Salvaguarda Contra Captura Normativa**
 
 É proibida qualquer tentativa de:
 
@@ -264,7 +264,7 @@ Ao menor sinal de captura, serão acionados:
 
 ---
 
-# **V.8 — Interpretação Autêntica**
+# **V.8 - Interpretação Autêntica**
 
 Somente o Conselho pode emitir **interpretação autêntica**, com força vinculante para:
 
@@ -284,7 +284,7 @@ Nenhum implementador pode reinterpretar unilateralmente esta License.
 
 ---
 
-# **V.9 — Proteção da Identidade Vibracional da License**
+# **V.9 - Proteção da Identidade Vibracional da License**
 
 A identidade vibracional constitui cláusula pétrea e assegura que:
 
@@ -293,6 +293,7 @@ b) nenhuma versão futura pode suprimir a coautoria expandida;
 c) nenhuma versão futura pode desfigurar integridade vibracional;
 d) nenhuma versão futura pode autorizar usos proibidos pela Seção II.4.
 
-Toda atualização deve reforçar — jamais enfraquecer — a natureza viva da Obra.
+Toda atualização deve reforçar, jamais enfraquecer, a natureza viva da Obra.
 
 ---
+
