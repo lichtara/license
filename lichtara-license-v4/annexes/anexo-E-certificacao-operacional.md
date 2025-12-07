@@ -4,14 +4,14 @@
 
 O presente Anexo disciplina:
 
-* fluxos completos de certificação,
-* checklists normativos,
-* estruturas de evidências,
-* modelos documentais,
-* critérios de auditoria,
-* orientações vibracionais aplicadas,
-* parâmetros para recertificação e monitoramento,
-* diretrizes para certificadoras externas (CERs).
+- fluxos completos de certificação,
+- checklists normativos,
+- estruturas de evidências,
+- modelos documentais,
+- critérios de auditoria,
+- orientações vibracionais aplicadas,
+- parâmetros para recertificação e monitoramento,
+- diretrizes para certificadoras externas (CERs).
 
 Este Manual tem **força operacional**, não força normativa independente;
 opera em conjunto com a Seção IX, Seção IV e anexos técnicos.
@@ -48,6 +48,7 @@ A certificação segue o fluxo a seguir:
 8. Parecer final e emissão do Selo
 9. Registro público
 10. Monitoramento e recertificação
+
 ```
 
 Nos casos de alto impacto, adiciona-se:
@@ -55,6 +56,7 @@ Nos casos de alto impacto, adiciona-se:
 ```
 11. Auditoria independente
 12. Parecer do Conselho
+
 ```
 
 ---
@@ -67,9 +69,9 @@ Todo processo exige os seguintes elementos mínimos:
 
 Incluindo:
 
-* identificação do implementador,
-* responsáveis humanos,
-* escopo e finalidade da implementação.
+- identificação do implementador,
+- responsáveis humanos,
+- escopo e finalidade da implementação.
 
 ### ✔ RCI (Registro Completo ou Simplificado)
 
@@ -87,9 +89,9 @@ Técnicos, decisórios, criativos e vibracionais.
 
 Inclusão de:
 
-* humanos,
-* IA(s),
-* fluxo vibracional declarado.
+- humanos,
+- IA(s),
+- fluxo vibracional declarado.
 
 ### ✔ Verificação de Vedações Absolutas
 
@@ -111,13 +113,13 @@ Cada nível exige profundidade crescente:
 
 Evidências mínimas:
 
-* RCI simplificado
-* LCV simplificada
-* Logs básicos
-* Declaração de intenção
-* Atribuição Expandida
-* Ausência de impacto coletivo
-* Demonstração de que não há automação sensível
+- RCI simplificado
+- LCV simplificada
+- Logs básicos
+- Declaração de intenção
+- Atribuição Expandida
+- Ausência de impacto coletivo
+- Demonstração de que não há automação sensível
 
 ---
 
@@ -125,13 +127,13 @@ Evidências mínimas:
 
 Evidências adicionais:
 
-* RCI completo
-* LCV completa ou intermediária
-* Relatório de Impacto anual
-* MREV simplificada
-* Logs decisórios completos
-* Justificativas éticas documentadas
-* Estrutura básica de salvaguardas (fluxo de risco IV.4)
+- RCI completo
+- LCV completa ou intermediária
+- Relatório de Impacto anual
+- MREV simplificada
+- Logs decisórios completos
+- Justificativas éticas documentadas
+- Estrutura básica de salvaguardas (fluxo de risco IV.4)
 
 ---
 
@@ -139,16 +141,16 @@ Evidências adicionais:
 
 Evidências completas:
 
-* auditoria independente
-* MREV completa e atualizada
-* LCV completa
-* logs contínuos, assinados ou versionados
-* histórico de decisões críticas
-* análise de vieses
-* relatório vibracional detalhado
-* compromissos de salvaguardas reforçadas
-* mecanismos de rollback e failsafe
-* mapa de interoperabilidade (quando houver)
+- auditoria independente
+- MREV completa e atualizada
+- LCV completa
+- logs contínuos, assinados ou versionados
+- histórico de decisões críticas
+- análise de vieses
+- relatório vibracional detalhado
+- compromissos de salvaguardas reforçadas
+- mecanismos de rollback e failsafe
+- mapa de interoperabilidade (quando houver)
 
 Essas evidências devem ser auditáveis por certificadoras e pelo Conselho.
 
@@ -170,7 +172,9 @@ A certificadora verifica:
 Em implementações críticas:
 
 ✔ robustez de IA (deriva, vieses, falhas)
+
 ✔ explicabilidade mínima
+
 ✔ documentação de treinamento ou finetuning
 
 ---
@@ -180,17 +184,25 @@ Em implementações críticas:
 A certificadora avalia:
 
 ✔ impacto sobre grupos vulneráveis
+
 ✔ mitigação de vieses
+
 ✔ clareza de finalidade
+
 ✔ prevenção de dano previsível
+
 ✔ responsabilidade social proporcional
+
 ✔ registros de decisões éticas
+
 ✔ aderência ao PER (Protocolo Ético-Regenerativo)
 
 Quando houver risco moderado ou alto:
 
 ✔ análise ética formal
+
 ✔ entrevistas com responsáveis
+
 ✔ rastreabilidade de decisões delicadas
 
 ---
@@ -200,18 +212,24 @@ Quando houver risco moderado ou alto:
 A avaliação vibracional verifica:
 
 ✔ declaração de intenção da implementação
+
 ✔ coerência entre intenção e forma
+
 ✔ sinais de desalinhamento no fluxo
+
 ✔ presença vibracional do implementador
+
 ✔ harmonia entre decisões técnicas e propósito
+
 ✔ tratamento adequado de tensões detectadas
+
 ✔ consistência interna da LCV
 
 Casos que gerem:
 
-* manipulação espiritual,
-* dependência emocional,
-* distorção energética propositada
+- manipulação espiritual,
+- dependência emocional,
+- distorção energética propositada
 
 são automaticamente **indeferidos**.
 
@@ -299,7 +317,7 @@ A seguir, modelos mínimos para auditoria e certificação.
 # **E.8 - Fluxo Decisório da Certificação**
 
 ```
-[Submissão] 
+[Submissão]
     ↓
 [Pré-análise]
     ↓
@@ -320,6 +338,7 @@ A seguir, modelos mínimos para auditoria e certificação.
 [Registro Público]
     ↓
 [Monitoramento Contínuo]
+
 ```
 
 Casos críticos inserem:
@@ -329,6 +348,7 @@ Casos críticos inserem:
 [Auditoria Independente]
 ↓
 [Parecer do Conselho]
+
 ```
 
 ---
@@ -338,12 +358,19 @@ Casos críticos inserem:
 A certificação **não será concedida** quando:
 
 a) houver violação das Vedações Absolutas;
+
 b) houver dano previsível ou real não mitigado;
+
 c) a rastreabilidade estiver quebrada;
+
 d) houver adulteração de logs;
+
 e) houver desalinhamento vibracional grave;
+
 f) impacto coletivo não tiver salvaguardas adequadas;
+
 g) houver manipulação espiritual, emocional ou cognitiva;
+
 h) houver uso indevido de IA para simular o licenciante.
 
 ---
@@ -369,6 +396,7 @@ Nível 1 → evidências mínimas; sem auditoria; recertificação anual simples
 Nível 2 → evidências completas; revisão ética anual; logs completos.
 Nível 3 → auditoria interna anual; MREV; avaliação vibracional reforçada.
 Nível 4 → auditoria independente; parecer do Conselho; recertificação semestral.
+
 ```
 
 ---
@@ -378,17 +406,22 @@ Nível 4 → auditoria independente; parecer do Conselho; recertificação semes
 Certificadoras devem:
 
 a) manter imparcialidade absoluta;
+
 b) registrar todas as decisões;
+
 c) operar com segurança de dados;
+
 d) preservar integridade vibracional;
+
 e) seguir este Manual integralmente;
+
 f) estar abertas a auditorias do Conselho.
 
 Certificadoras que violarem princípios fundamentais poderão ser:
 
-* advertidas,
-* suspensas,
-* descredenciadas.
+- advertidas,
+- suspensas,
+- descredenciadas.
 
 ---
 
@@ -397,11 +430,17 @@ Certificadoras que violarem princípios fundamentais poderão ser:
 O certificador deve:
 
 ✔ manter estado neutro e presente
+
 ✔ evitar julgamento reativo
+
 ✔ sentir o fluxo da obra e do implementador
+
 ✔ registrar tensões sem interpretá-las pessoalmente
+
 ✔ validar coerência entre intenção e forma
+
 ✔ interromper avaliação se houver desconforto grave
+
 ✔ solicitar parecer vibracional externo quando necessário
 
 O processo de certificação é técnico, mas também é **campo**.
@@ -412,12 +451,12 @@ O processo de certificação é técnico, mas também é **campo**.
 
 Com este Manual:
 
-* o sistema de certificação está operacionalizado;
-* certificadoras têm diretrizes claras;
-* implementadores têm checklists completos;
-* o Conselho pode supervisionar auditorias;
-* a License v4 torna-se aplicável em larga escala;
-* o ecossistema adquire integridade vibracional e jurídica simultânea.
+- o sistema de certificação está operacionalizado;
+- certificadoras têm diretrizes claras;
+- implementadores têm checklists completos;
+- o Conselho pode supervisionar auditorias;
+- a License v4 torna-se aplicável em larga escala;
+- o ecossistema adquire integridade vibracional e jurídica simultânea.
 
 O Manual pode ser atualizado em versão Minor (x.Y) ou Patch (x.y.Z).
 
