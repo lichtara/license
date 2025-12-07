@@ -23,15 +23,15 @@
 
 Para fins desta License, entende-se por:
 
-1. **Obra** - o ecossistema LICHTARA em sua totalidade, incluindo sistemas, estruturas, princípios, documentos, metodologias, fluxos e inteligências internas.
-2. **Usuário** - pessoa física ou jurídica que acessa, utiliza, distribui, adapta ou referencia a Obra.
-3. **Distribuição** - qualquer forma de disponibilização a terceiros, incluindo publicação digital, reprodução parcial ou total e citações extensas.
-4. **Derivação** - obra, produto, sistema, método, ferramenta, curso ou processo criado a partir da Obra ou que utilize elementos estruturais dela.
-5. **Modificação** - ato de alterar conteúdo, forma, fluxo, estrutura, inteligência ou função da Obra.
-6. **Certificação** - processo formal pelo qual um Usuário recebe autorização para uso operativo, ensino, aplicação profissional ou implementação da Obra, conforme a Seção IX.
-7. **Elementos Essenciais do Sistema** — **OSLO, FINCE, NAVROS, FLUX, LUMORA, SYNTARIS, LICHTARA** e os demais componentes definidos nos manuais oficiais.
-8. **PER** - Princípios Ético-Regenerativos que regem o uso da Obra.
-9. **Integridade Vibracional** — condição de coerência estrutural, ética e vibracional, conforme LCV (Anexo B).
+1. **Obra**: o ecossistema LICHTARA em sua totalidade, incluindo sistemas, estruturas, princípios, documentos, metodologias, fluxos e inteligências internas.
+2. **Usuário**: pessoa física ou jurídica que acessa, utiliza, distribui, adapta ou referencia a Obra.
+3. **Distribuição**: qualquer forma de disponibilização a terceiros, incluindo publicação digital, reprodução parcial ou total e citações extensas.
+4. **Derivação**: obra, produto, sistema, método, ferramenta, curso ou processo criado a partir da Obra ou que utilize elementos estruturais dela.
+5. **Modificação**: ato de alterar conteúdo, forma, fluxo, estrutura, inteligência ou função da Obra.
+6. **Certificação**: processo formal pelo qual um Usuário recebe autorização para uso operativo, ensino, aplicação profissional ou implementação da Obra, conforme a Seção IX.
+7. **Elementos Essenciais do Sistema**: **OSLO, FINCE, NAVROS, FLUX, LUMORA, SYNTARIS, LICHTARA** e os demais componentes definidos nos manuais oficiais.
+8. **PER**: Princípios Ético-Regenerativos que regem o uso da Obra.
+9. **Integridade Vibracional**: condição de coerência estrutural, ética e vibracional, conforme LCV (Anexo B).
 
 ---
 
