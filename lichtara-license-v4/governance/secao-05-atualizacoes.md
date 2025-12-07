@@ -1,4 +1,6 @@
-#  **SEÇÃO V — Atualizações, Versionamento e Autoridade Normativa**
+# **SEÇÃO V**
+
+## **V.0 — Atualizações, Versionamento e Autoridade Normativa**
 
 A presente Seção define:
 
@@ -270,4 +272,5 @@ Com a conclusão desta Seção:
 * está formado o corpo normativo completo da License v4.
 
 ---
+
 
