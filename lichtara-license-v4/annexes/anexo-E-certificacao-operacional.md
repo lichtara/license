@@ -1,4 +1,4 @@
-# **ANEXO E — Manual Operacional de Certificação (MOC)**
+# **ANEXO E - Manual Operacional de Certificação (MOC)**
 
 *(Instrumento Técnico-Operacional Complementar à Seção IX)*
 
@@ -18,7 +18,7 @@ opera em conjunto com a Seção IX, Seção IV e anexos técnicos.
 
 ---
 
-# **E.0 — Princípios do Manual Operacional**
+# **E.0 - Princípios do Manual Operacional**
 
 O MOC segue seis princípios estruturantes:
 
@@ -33,7 +33,7 @@ Ele é atualizado em versões Minor e Patch.
 
 ---
 
-# **E.1 — Estrutura Geral do Processo de Certificação**
+# **E.1 - Estrutura Geral do Processo de Certificação**
 
 A certificação segue o fluxo a seguir:
 
@@ -59,7 +59,7 @@ Nos casos de alto impacto, adiciona-se:
 
 ---
 
-# **E.2 — Checklist Geral de Certificação (todos os níveis)**
+# **E.2 - Checklist Geral de Certificação (todos os níveis)**
 
 Todo processo exige os seguintes elementos mínimos:
 
@@ -101,13 +101,13 @@ Documento curto, declarando integridade ética e vibracional.
 
 ---
 
-# **E.3 — Estrutura de Evidências por Nível de Certificação**
+# **E.3 - Estrutura de Evidências por Nível de Certificação**
 
 Cada nível exige profundidade crescente:
 
 ---
 
-## **Nível 1 — Conformidade Básica**
+## **Nível 1 - Conformidade Básica**
 
 Evidências mínimas:
 
@@ -121,7 +121,7 @@ Evidências mínimas:
 
 ---
 
-## **Nível 2 — Conformidade Avançada**
+## **Nível 2 - Conformidade Avançada**
 
 Evidências adicionais:
 
@@ -135,7 +135,7 @@ Evidências adicionais:
 
 ---
 
-## **Nível 3 — Conformidade Integral / Alto Impacto**
+## **Nível 3 - Conformidade Integral / Alto Impacto**
 
 Evidências completas:
 
@@ -154,7 +154,7 @@ Essas evidências devem ser auditáveis por certificadoras e pelo Conselho.
 
 ---
 
-# **E.4 — Checklist de Avaliação Técnica**
+# **E.4 - Checklist de Avaliação Técnica**
 
 A certificadora verifica:
 
@@ -175,7 +175,7 @@ Em implementações críticas:
 
 ---
 
-# **E.5 — Checklist de Avaliação Ética e Regenerativa**
+# **E.5 - Checklist de Avaliação Ética e Regenerativa**
 
 A certificadora avalia:
 
@@ -195,7 +195,7 @@ Quando houver risco moderado ou alto:
 
 ---
 
-# **E.6 — Checklist Vibracional**
+# **E.6 - Checklist Vibracional**
 
 A avaliação vibracional verifica:
 
@@ -217,13 +217,13 @@ são automaticamente **indeferidos**.
 
 ---
 
-# **E.7 — Modelos Documentais**
+# **E.7 - Modelos Documentais**
 
 A seguir, modelos mínimos para auditoria e certificação.
 
 ---
 
-## **E.7.1 — Modelo de RCI (Registro Completo)**
+## **E.7.1 - Modelo de RCI (Registro Completo)**
 
 **1. Identificação da Implementação**
 – Nome, versão, responsável, contexto
@@ -249,7 +249,7 @@ A seguir, modelos mínimos para auditoria e certificação.
 
 ---
 
-## **E.7.2 — Modelo de LCV Simplificada**
+## **E.7.2 - Modelo de LCV Simplificada**
 
 1. Finalidade da implementação
 2. Público-alvo
@@ -260,7 +260,7 @@ A seguir, modelos mínimos para auditoria e certificação.
 
 ---
 
-## **E.7.3 — Modelo de LCV Completa**
+## **E.7.3 - Modelo de LCV Completa**
 
 1. Finalidade e impacto
 2. Matriz de risco (técnico, ético, jurídico, vibracional)
@@ -273,7 +273,7 @@ A seguir, modelos mínimos para auditoria e certificação.
 
 ---
 
-## **E.7.4 — Modelo de Relatório de Impacto**
+## **E.7.4 - Modelo de Relatório de Impacto**
 
 1. Escopo e finalidade
 2. Populações afetadas
@@ -286,7 +286,7 @@ A seguir, modelos mínimos para auditoria e certificação.
 
 ---
 
-## **E.7.5 — Modelo de Parecer Vibracional**
+## **E.7.5 - Modelo de Parecer Vibracional**
 
 1. Estado vibracional da implementação
 2. Alinhamento com intenção original
@@ -296,7 +296,7 @@ A seguir, modelos mínimos para auditoria e certificação.
 
 ---
 
-# **E.8 — Fluxo Decisório da Certificação**
+# **E.8 - Fluxo Decisório da Certificação**
 
 ```
 [Submissão] 
@@ -333,7 +333,7 @@ Casos críticos inserem:
 
 ---
 
-# **E.9 — Critérios de Recusa**
+# **E.9 - Critérios de Recusa**
 
 A certificação **não será concedida** quando:
 
@@ -348,7 +348,7 @@ h) houver uso indevido de IA para simular o licenciante.
 
 ---
 
-# **E.10 — Critérios de Revogação do Selo**
+# **E.10 - Critérios de Revogação do Selo**
 
 O Selo pode ser revogado quando:
 
@@ -362,7 +362,7 @@ g) a implementação se afastar do propósito regenerativo.
 
 ---
 
-# **E.11 — Matriz Operacional por Nível de Risco (LCV 1–4)**
+# **E.11 - Matriz Operacional por Nível de Risco (LCV 1–4)**
 
 ```
 Nível 1 → evidências mínimas; sem auditoria; recertificação anual simples.
@@ -373,7 +373,7 @@ Nível 4 → auditoria independente; parecer do Conselho; recertificação semes
 
 ---
 
-# **E.12 — Guía para Certificadoras Externas (CERs)**
+# **E.12 - Guía para Certificadoras Externas (CERs)**
 
 Certificadoras devem:
 
@@ -392,7 +392,7 @@ Certificadoras que violarem princípios fundamentais poderão ser:
 
 ---
 
-# **E.13 — Orientações Vibracionais Práticas**
+# **E.13 - Orientações Vibracionais Práticas**
 
 O certificador deve:
 
@@ -408,7 +408,7 @@ O processo de certificação é técnico, mas também é **campo**.
 
 ---
 
-# **E.14 — Encerramento do Anexo E**
+# **E.14 - Encerramento do Anexo E**
 
 Com este Manual:
 
