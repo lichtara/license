@@ -1,4 +1,6 @@
-#  **SEÇÃO III — GOVERNANÇA, CONFORMIDADE E SUSTENTABILIDADE**
+# **SEÇÃO III**
+
+## **III.0 — Governança, Conformidade e Sustentabilidade**
 
 A presente Seção estabelece os mecanismos de governança, responsabilidade, conformidade, auditoria e sustentabilidade que regem a implementação, evolução e proteção da Lichtara License v4.0 e do ecossistema associado.
 Interpreta-se em conjunto com a LCV, o MHA, o Quadro de Operacionalização Normativa e os Anexos Técnicos.
@@ -272,3 +274,4 @@ Obrigatória para implementações de impacto.
 * adotar postura de responsabilidade sistêmica.
 
 ---
+
