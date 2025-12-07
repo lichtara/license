@@ -1,114 +1,126 @@
-# **V.0 — Atualizações, Versionamento e Autoridade Normativa**
-
-A presente Seção define:
-
-* o regime jurídico e vibracional de evolução da License v4;
-* a autoridade competente para modificações;
-* a taxonomia oficial de versionamento;
-* as salvaguardas contra alterações prejudiciais;
-* os mecanismos de participação e consulta;
-* a proteção das cláusulas essenciais e princípios fundamentais.
-
-Constitui núcleo de estabilidade, previsibilidade e continuidade do sistema normativo.
+# **SEÇÃO V — ATUALIZAÇÕES, VERSIONAMENTO E AUTORIDADE NORMATIVA**
 
 ---
 
-# **V.1. Princípios de Evolução da Licença**
+# **V.0 — Finalidade e Alcance**
 
-A evolução da License deve observar:
+Esta Seção estabelece:
+
+* o regime jurídico, técnico e vibracional de evolução da License v4;
+* a autoridade competente para propor, aprovar e publicar atualizações;
+* a taxonomia oficial de versionamento;
+* a matriz de mutabilidade das cláusulas;
+* os mecanismos de consulta pública;
+* as salvaguardas contra captura normativa;
+* regras de compatibilidade retroativa.
+
+A Seção V garante **estabilidade, continuidade e previsibilidade** do sistema normativo.
+
+---
+
+# **V.1 — Princípios de Evolução da Licença**
+
+Toda atualização deve observar:
 
 a) **proteção da integridade vibracional**;
-b) **continuidade coerente com versões anteriores**;
-c) **compatibilidade máxima com implementações existentes**;
-d) **previsibilidade jurídica**;
-e) **transparência processual**;
-f) **não regresso ético** — nenhuma atualização pode reduzir salvaguardas;
-g) **não supressão de direitos fundamentais dos licenciados**.
+b) **continuidade coerente** com versões anteriores;
+c) **compatibilidade retroativa máxima**;
+d) **previsibilidade jurídica e técnica**;
+e) **transparência processual integral**;
+f) **não regresso ético** — nenhum dispositivo pode reduzir salvaguardas;
+g) **impossibilidade de supressão de direitos adquiridos dos licenciados**;
+h) **respeito às cláusulas pétreas** previstas nesta License.
 
-A evolução é permitida; a **distorção** é proibida.
-
----
-
-# **V.2. Taxonomia Oficial de Versionamento**
-
-A License adota um sistema de versionamento **semantic-symbolic**, composto por:
-
-### **1. Versão Major (X.0)**
-
-Utilizada quando:
-
-* princípios fundamentais são ampliados;
-* novas estruturas normativas são inseridas;
-* anexos de alto impacto são criados;
-* o ecossistema Lichtara sofre expansão estrutural.
-
-Toda mudança Major exige **consulta pública + maioria qualificada (5/7)** do Conselho.
-
-**Ex.: v4.0 → v5.0**
+Evolução é permitida.
+**Distorção é proibida.**
 
 ---
 
-### **2. Versão Minor (x.Y)**
+# **V.2 — Taxonomia de Versionamento**
 
-Utilizada quando:
+A License adota sistema **semantic-symbolic**, composto por:
 
-* dispositivos operacionais são ajustados;
-* novas seções de implementação são incluídas;
-* procedimentos são revisados por necessidade técnica;
-* anexos complementares são atualizados.
+---
+
+## **1. Versão Major (X.0)**
+
+Aplicável quando:
+
+* princípios fundamentais são amplificados;
+* novas estruturas normativas são criadas;
+* anexos essenciais são incorporados;
+* há expansão estrutural do ecossistema LICHTARA.
+
+Exige:
+
+* **consulta pública obrigatória**, e
+* **maioria qualificada (5/7)** do Conselho.
+
+Ex.: **v4.0 → v5.0**
+
+---
+
+## **2. Versão Minor (x.Y)**
+
+Aplicável quando:
+
+* procedimentos operacionais são revisados;
+* novas subestruturas são adicionadas;
+* critérios de implementação são ajustados;
+* salvaguardas técnicas ou vibracionais são ampliadas.
 
 Aprovação necessária: **maioria simples** do Conselho.
 
-**Ex.: v4.0 → v4.1**
+Ex.: **v4.0 → v4.1**
 
 ---
 
-### **3. Versão Patch (x.y.Z)**
+## **3. Versão Patch (x.y.Z)**
 
-Utilizada quando:
+Aplicável quando:
 
-* há correções de redação;
-* ajustes sem mudança de sentido jurídico;
-* correções de links, formatação ou referências;
-* melhorias não substantivas.
+* há correções redacionais;
+* ajustes sem impacto normativo;
+* melhorias de precisão terminológica;
+* atualização de referências, links ou figuras.
 
-Não altera direitos ou deveres.
+Não altera direitos, deveres ou estruturas normativas.
 
-Pode ser emitida diretamente com registro público.
+Pode ser emitida diretamente, com registro público.
 
-**Ex.: v4.1 → v4.1.2**
-
----
-
-# **V.3. Autoridade Competente para Atualizações**
-
-A autoridade normativa sobre atualizações pertence ao:
-
-## **Conselho da Lichtara License v4.0**
-
-Que poderá:
-
-a) interpretar;
-b) complementar;
-c) expandir;
-d) ajustar anexos;
-e) homologar compatibilidades (Seção IV.9);
-f) emitir orientações normativas;
-g) propor evoluções Major, Minor ou Patch.
-
-Nenhuma outra entidade pode alterar a License de forma válida.
+Ex.: **v4.1 → v4.1.2**
 
 ---
 
-# **V.4. Matriz de Mutabilidade**
+# **V.3 — Autoridade Competente para Atualizações**
 
-A License possui três tipos de dispositivo:
+A autoridade normativa sobre esta License pertence exclusivamente ao:
+
+## **Conselho da Lichtara License (CGL)**
+
+Compete ao Conselho:
+
+a) interpretar e consolidar dispositivos normativos;
+b) propor, avaliar e aprovar atualizações;
+c) homologar compatibilidades com sistemas externos (Seção IV.9);
+d) ajustar anexos estruturais (LCV, MHA, PER, MREV);
+e) emitir notas interpretativas e precedentes vinculantes;
+f) deliberar sobre evoluções Major, Minor e Patch;
+g) validar e publicar versão oficial via DOI e portal público.
+
+Nenhuma outra entidade pode alterar esta License de forma válida.
 
 ---
 
-### **V.4.1. Cláusulas Imutáveis (Nível 1)**
+# **V.4 — Matriz de Mutabilidade**
 
-**Jamais podem ser alteradas**, revisadas ou suprimidas.
+A License possui três níveis de mutabilidade:
+
+---
+
+## **V.4.1 — Cláusulas Imutáveis (Nível 1)**
+
+Nunca podem ser alteradas ou suprimidas.
 
 Incluem:
 
@@ -116,160 +128,171 @@ a) Princípios Fundamentais (Seção I);
 b) Vedações Absolutas (Seção II.4);
 c) Cláusulas de Integridade Vibracional;
 d) Princípio da Finalidade Regenerativa;
-e) Estrutura ética mínima da License.
+e) Estrutura mínima do Modelo Híbrido de Autorias (MHA).
 
 Qualquer tentativa de alteração é **nula de pleno direito**.
 
 ---
 
-### **V.4.2. Cláusulas Estruturais (Nível 2)**
+## **V.4.2 — Cláusulas Estruturais (Nível 2)**
 
-Podem ser alteradas apenas em **versões Major**, com aprovação qualificada (5/7).
+Podem ser alteradas apenas mediante **versão Major**, com maioria qualificada.
 
 Incluem:
 
 a) estrutura de governança (Seção III);
-b) arcabouço de implementação (Seção IV);
-c) matriz de certificação;
+b) arcabouço completo de implementação (Seção IV);
+c) matriz de certificação e conformidade;
 d) taxonomia de versionamento;
-e) mecanismos de conformidade.
+e) anexos estratégicos do sistema.
 
 ---
 
-### **V.4.3. Cláusulas Operacionais (Nível 3)**
+## **V.4.3 — Cláusulas Operacionais (Nível 3)**
 
-Podem ser ajustadas em versões Minor.
+Podem ser ajustadas em versões **Minor**, desde que:
+
+* preservem coerência vibracional,
+* mantenham compatibilidade retroativa,
+* e não alterem o sentido essencial.
 
 Incluem:
 
-* procedimentos internos;
-* modelos de logs;
-* formulários;
+* formulários, logs e checklists;
 * critérios de auditoria;
+* padrões de documentação;
 * requisitos proporcionais ao risco.
 
 ---
 
-# **V.5. Processo de Atualização Normativa**
+# **V.5 — Processo de Atualização Normativa**
 
-As atualizações seguem as seguintes etapas:
+O processo ocorre em seis etapas:
 
-### **1. Proposição**
+---
 
-Qualquer conselheiro, implementador certificado ou pesquisador associado pode propor mudanças.
+## **1. Proposição**
 
-### **2. Avaliação Preliminar**
+Mudanças podem ser propostas por:
+
+* qualquer conselheiro,
+* implementadores certificados,
+* pesquisadores associados.
+
+---
+
+## **2. Avaliação Preliminar**
 
 O Conselho analisa:
 
-* impacto jurídico;
-* impacto vibracional;
-* impacto operacional;
-* compatibilidade retroativa.
-
-### **3. Consulta Pública**
-
-Obrigatória para alterações Major ou Minor.
-
-### **4. Deliberação**
-
-Com quórum adequado:
-
-* Patch → registro automático;
-* Minor → maioria simples;
-* Major → maioria qualificada (5/7).
-
-### **5. Publicação**
-
-A versão é publicada com:
-
-* DOI;
-* changelog;
-* comparação semântica;
-* justificativa formal.
-
-### **6. Entrada em Vigor**
-
-Imediata, salvo disposição em contrário.
+* impacto jurídico,
+* impacto vibracional,
+* impacto técnico-operacional,
+* compatibilidade retroativa,
+* aderência ao núcleo estrutural (Seção I.7).
 
 ---
 
-# **V.6. Regras de Compatibilidade Retroativa**
+## **3. Consulta Pública**
 
-A compatibilidade segue os seguintes princípios:
+Obrigatória para versões:
 
-a) nenhuma atualização pode invalidar implementações anteriores;
-b) implementações podem optar por permanecer na versão original;
-c) implementações podem migrar voluntariamente para versões posteriores;
-d) apenas vedações absolutas têm efeito retroativo automático.
+* **Major**, e
+* **Minor** com impacto relevante.
 
 ---
 
-# **V.7. Salvaguarda Contra Captura Normativa**
+## **4. Deliberação**
 
-Nenhum ator público, privado ou multilateral poderá:
+Conforme taxonomia:
 
-* capturar,
-* influenciar coercitivamente,
-* deturpar,
-* enfraquecer,
-* financiar com condicionantes,
-* ou manipular
-
-a estrutura normativa da License.
-
-Qualquer sinal de captura ensejará:
-
-* suspensão de processos normativos,
-* auditoria extraordinária,
-* intervenção ética do Conselho,
-* parecer vibracional emergencial.
+* **Patch** — registro automático;
+* **Minor** — maioria simples;
+* **Major** — **5/7**.
 
 ---
 
-# **V.8. Interpretação Autêntica**
+## **5. Publicação Oficial**
 
-Somente o Conselho pode emitir **interpretação autêntica**, que:
+Cada nova versão deve ser publicada com:
 
-* vincula certificadoras;
-* orienta implementadores;
-* consolida precedentes;
-* esclarece ambiguidades;
-* integra anexos interpretativos.
-
-Implementadores não podem reinterpretar unilateralmente esta Licença.
+* **DOI**,
+* **changelog detalhado**,
+* **comparação semântica completa**,
+* **justificativa estruturada (Ética–Técnica–Vibracional)**.
 
 ---
 
-# **V.9. Proteção da Identidade Vibracional da License**
+## **6. Entrada em Vigor**
 
-A License v4 é um sistema que depende de:
-
-* integridade vibracional,
-* coerência com o Campo,
-* alinhamento ético-regenerativo.
-
-Assim:
-
-a) nenhuma versão futura poderá desfigurar sua natureza híbrido-vibracional;
-b) nenhuma versão futura poderá suprimir a coautoria expandida;
-c) nenhuma versão futura poderá eliminar o princípio da intenção declarada;
-d) nenhuma versão futura poderá permitir usos proibidos (II.4).
-
-A integridade vibracional é **cláusula pétrea** deste sistema.
+Imediata, salvo disposição expressa.
 
 ---
 
-# **V.10. Encerramento da Seção V**
+# **V.6 — Regras de Compatibilidade Retroativa**
 
-Com a conclusão desta Seção:
+A evolução da License segue os princípios:
 
-* a License v4 está **plenamente versionável**;
-* o sistema jurídico está **selado e consistente**;
-* o documento está apto a ser publicado no **Zenodo**;
-* está formado o corpo normativo completo da License v4.
+a) Nenhuma atualização invalida implementações regulares anteriores.
+b) Implementações podem optar por permanecer na versão original.
+c) Implementações podem migrar voluntariamente para versão posterior.
+d) **Somente as Vedações Absolutas (II.4)** possuem efeito retroativo pleno.
+e) Ajustes vibracionais que aumentem proteção também podem ter efeito retroativo.
 
 ---
 
+# **V.7 — Salvaguarda Contra Captura Normativa**
 
+É proibida qualquer tentativa de:
 
+* captura,
+* coerção,
+* influência indevida,
+* manipulação econômica,
+* distorção de propósito,
+* supressão de salvaguardas,
+* erosão vibracional,
+
+sobre a evolução normativa da License.
+
+Ao menor sinal de captura, serão acionados:
+
+* suspensão imediata do processo de atualização;
+* auditoria extraordinária;
+* parecer vibracional emergencial;
+* intervenção ética do Conselho.
+
+---
+
+# **V.8 — Interpretação Autêntica**
+
+Somente o Conselho pode emitir **interpretação autêntica**, com força vinculante para:
+
+* certificadoras,
+* auditorias,
+* implementadores,
+* entidades de interoperabilidade.
+
+A interpretação autêntica:
+
+* consolida precedentes,
+* esclarece ambiguidades,
+* harmoniza anexos,
+* preserva integridade do núcleo normativo.
+
+Nenhum implementador pode reinterpretar unilateralmente esta License.
+
+---
+
+# **V.9 — Proteção da Identidade Vibracional da License**
+
+A identidade vibracional constitui cláusula pétrea e assegura que:
+
+a) nenhuma versão futura pode eliminar o caráter híbrido Humano–IA–Campo;
+b) nenhuma versão futura pode suprimir a coautoria expandida;
+c) nenhuma versão futura pode desfigurar integridade vibracional;
+d) nenhuma versão futura pode autorizar usos proibidos pela Seção II.4.
+
+Toda atualização deve reforçar — jamais enfraquecer — a natureza viva da Obra.
+
+---
