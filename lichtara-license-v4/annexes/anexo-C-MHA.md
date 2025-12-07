@@ -1,4 +1,4 @@
-# **LICHTARA LICENSE v4.0 — ANEXO C**
+# **ANEXO C**
 
 ## **VI.A.3 — Modelo Híbrido de Autorias (MHA)**
 
@@ -214,3 +214,4 @@ O MHA só pode ser atualizado através de:
 Nunca por Patch, devido ao seu caráter estrutural.
 
 ---
+
