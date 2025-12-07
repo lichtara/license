@@ -1,20 +1,83 @@
 flowchart TB
 
-    %% --- Topo ---
-    A["LICHTARA LICENSE v4<br/><strong>A Estrutura que Protege a Obra e Organiza o Uso</strong>"]
+%% ----------------------------
+%% TÍTULO CENTRAL
+%% ----------------------------
+A["**LICHTARA LICENSE v4**  
+A Estrutura que Organiza o Uso da Obra  
+Proteção • Coerência • Responsabilidade"]:::top
 
-    %% --- Nivel 1: Três tipos de uso ---
-    A --> B1["<strong>USO LIVRE</strong><br/>• Estudo<br/>• Citação com crédito<br/>• Compartilhamento não comercial<br/>• Reflexões pessoais<br/><em>Não requer autorização</em>"]
+%% ----------------------------
+%% BLOCOS DE USO
+%% ----------------------------
+subgraph USOS[""]
+direction LR
 
-    A --> B2["<strong>USO CONDICIONADO</strong><br/>• Traduções<br/>• Adaptações<br/>• Materiais educacionais<br/>• Apresentações institucionais<br/>• Derivados estruturados<br/><em>Requer autorização da Guardiã</em>"]
+U1["**USO LIVRE**  
+• Estudo  
+• Citação com crédito  
+• Compartilhamento não comercial  
+• Reflexões pessoais  
+*Não requer autorização*"]:::box
 
-    A --> B3["<strong>USO RESTRITO</strong><br/>• Copiar frameworks<br/>• Treinar IA com o conteúdo<br/>• Criar sistemas derivados<br/>• Uso comercial não autorizado<br/>• Alterar a License<br/><em>Proibido. Sem exceções.</em>"]
+U2["**USO CONDICIONADO**  
+• Traduções  
+• Adaptações  
+• Materiais educacionais  
+• Uso institucional  
+• Derivados estruturados  
+*Requer autorização da Guardiã*"]:::box
 
-    %% --- Bases da decisão ---
-    A --> C["<strong>BASES DA DECISÃO</strong><br/>• Integridade (proteção estrutural)<br/>• Coerência (alinhamento sistêmico)<br/>• Responsabilidade (uso ético)"]
+U3["**USO RESTRITO**  
+• Copiar frameworks  
+• Treinar IA com a Obra  
+• Criar sistemas derivados  
+• Uso comercial não autorizado  
+• Alterar a License  
+*Proibido. Sem exceções.*"]:::box
 
-    %% --- Como solicitar autorização ---
-    A --> D["<strong>COMO SOLICITAR AUTORIZAÇÃO</strong><br/>1. E-mail: admin@deboralutz.com<br/>2. Assunto: Solicitação de Autorização — License v4<br/>3. Inclua: descrição, finalidade, materiais, prazo"]
+end
 
-    %% --- Links Oficiais ---
-    A --> E["<strong>LINKS OFICIAIS</strong><br/>https://license.lichtara.com<br/>https://github.com/lichtara/license<br/>https://lichtara.com"]
+A --> U1
+A --> U2
+A --> U3
+
+%% ----------------------------
+%% BASES DA DECISÃO
+%% ----------------------------
+B["**BASES DA DECISÃO**  
+Integridade (proteção estrutural)  
+Coerência (alinhamento sistêmico)  
+Responsabilidade (uso ético)"]:::middle
+
+U1 --> B
+U2 --> B
+U3 --> B
+
+%% ----------------------------
+%% COMO SOLICITAR AUTORIZAÇÃO
+%% ----------------------------
+S["**COMO SOLICITAR AUTORIZAÇÃO**  
+1. E-mail: admin@deboralutz.com  
+2. Assunto: Solicitação de Autorização — License v4  
+3. Inclua: descrição, finalidade, materiais, prazo"]:::middle
+
+B --> S
+
+%% ----------------------------
+%% LINKS OFICIAIS
+%% ----------------------------
+L["**LINKS OFICIAIS**  
+https://license.lichtara.com  
+https://github.com/lichtara/license  
+https://lichtara.com"]:::bottom
+
+S --> L
+
+%% ----------------------------
+%% ESTILOS
+%% ----------------------------
+classDef top fill:#ffffff,stroke:#000,stroke-width:1,font-size:20px;
+classDef box fill:#f9f9ff,stroke:#444,stroke-width:1;
+classDef middle fill:#ffffff,stroke:#444,stroke-width:1;
+classDef bottom fill:#ffffff,stroke:#222,stroke-width:1;
