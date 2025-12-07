@@ -161,12 +161,19 @@ Essas evidências devem ser auditáveis por certificadoras e pelo Conselho.
 A certificadora verifica:
 
 ✔ integridade do código ou metodologia
+
 ✔ rastreabilidade da Tríade (intenção–processo–resultado)
+
 ✔ consistência de commits, hashes e diffs
+
 ✔ tratamento de dados (LGPD/GDPR)
+
 ✔ conformidade com requisitos de implementação (Seção IV)
+
 ✔ segurança operacional básica
+
 ✔ descrição de modelos de IA
+
 ✔ compatibilidade com licenças externas
 
 Em implementações críticas:
@@ -380,11 +387,17 @@ h) houver uso indevido de IA para simular o licenciante.
 O Selo pode ser revogado quando:
 
 a) verificadas violações graves;
+
 b) detectada fraude documental;
+
 c) logs forem apagados sem justificativa;
+
 d) incidentes críticos não forem mitigados;
+
 e) houver regressão ética;
+
 f) houver ruptura vibracional severa;
+
 g) a implementação se afastar do propósito regenerativo.
 
 ---
