@@ -40,26 +40,19 @@ A certificação é instrumento de:
 
 Toda certificação deve observar:
 
-1. **Neutralidade e independência**
-   Avaliações devem ser conduzidas por entidades imparciais, credenciadas ou reconhecidas.
+1. **Neutralidade e independência**: Avaliações devem ser conduzidas por entidades imparciais, credenciadas ou reconhecidas.
 
-2. **Proporcionalidade ao risco**
-   Quanto maior o risco (LCV), maior o rigor e profundidade da certificação.
+2. **Proporcionalidade ao risco**: Quanto maior o risco (LCV), maior o rigor e profundidade da certificação.
 
-3. **Transparência verificável**
-   Evidências, logs, decisões e fluxos devem ser auditáveis.
+3. **Transparência verificável**: Evidências, logs, decisões e fluxos devem ser auditáveis.
 
-4. **Integridade vibracional**
-   Toda implementação deve demonstrar coerência com intenção, presença e princípios da Seção I.
+4. **Integridade vibracional**: Toda implementação deve demonstrar coerência com intenção, presença e princípios da Seção I.
 
-5. **Não regressão ética**
-   Nenhuma certificação pode reduzir salvaguardas ou flexibilizar vedações.
+5. **Não regressão ética**: Nenhuma certificação pode reduzir salvaguardas ou flexibilizar vedações.
 
-6. **Rastreabilidade integral**
-   Aplicação da Tríade Rastreável: intenção, processo e resultado.
+6. **Rastreabilidade integral**: Aplicação da Tríade Rastreável: intenção, processo e resultado.
 
-7. **Proteção da autoria e do MHA**
-   Cocriação híbrida deve ser preservada com clareza e honestidade.
+7. **Proteção da autoria e do MHA**: Cocriação híbrida deve ser preservada com clareza e honestidade.
 
 ---
 
