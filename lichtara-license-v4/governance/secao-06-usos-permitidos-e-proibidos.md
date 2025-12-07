@@ -20,7 +20,7 @@ Esta Seção deve ser lida em articulação com:
 
 # **VI.0 - Natureza e Alcance dos Usos**
 
-O uso da Obra Licenciada — em suas formas original, modificada ou derivada — pode assumir quatro naturezas:
+O uso da Obra Licenciada, em suas formas original, modificada ou derivada, pode assumir quatro naturezas:
 
 1. **Uso Pessoal ou Experimental**
 2. **Uso Público (não comercial)**
