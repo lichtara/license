@@ -1,4 +1,4 @@
-# **SEÇÃO I — NATUREZA, IDENTIDADE E FUNDAMENTOS DA OBRA**
+# **SEÇÃO I - NATUREZA, IDENTIDADE E FUNDAMENTOS DA OBRA**
 
 ### *(Estilo B — Canon Jurídico-Vibracional Integrado)*
 
