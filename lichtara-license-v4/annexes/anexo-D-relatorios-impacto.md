@@ -1,4 +1,4 @@
-# **LICHTARA LICENSE v4.0 — ANEXO D**
+# **ANEXO D**
 
 ## **VI.A.4 — Relatório de Impacto (RI)**
 
@@ -161,3 +161,4 @@ A implementação deve demonstrar aderência a:
 * referências metodológicas
 
 ---
+
