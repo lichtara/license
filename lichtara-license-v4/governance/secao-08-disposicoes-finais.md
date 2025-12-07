@@ -11,7 +11,9 @@ Ela garante estabilidade institucional, coerência evolutiva e segurança para i
 A Lichtara License v4.0 entra em vigor:
 
 a) na data de sua publicação oficial,
+
 b) com registro DOI,
+
 c) acompanhada do documento master.md e do pacote de anexos operacionais.
 
 A entrada em vigor é imediata e plena, salvo disposição em contrário nesta Seção.
@@ -23,8 +25,11 @@ A entrada em vigor é imediata e plena, salvo disposição em contrário nesta S
 Implementações anteriores à v4.0:
 
 a) **não são invalidadas**,
+
 b) podem permanecer na versão sob a qual foram iniciadas,
+
 c) podem migrar voluntariamente para a v4 mediante RCI de transição,
+
 d) devem respeitar as Vedações Absolutas (retroatividade ética obrigatória).
 
 O Conselho poderá emitir orientações complementares para migrações complexas.
@@ -36,7 +41,9 @@ O Conselho poderá emitir orientações complementares para migrações complexa
 Todas as implementações ativas no momento da publicação:
 
 a) devem atualizar seus registros mínimos (LCV, RCI, logs essenciais) em até 90 dias;
+
 b) devem declarar formalmente a versão da License sob a qual operam;
+
 c) podem solicitar auditoria de transição quando envolverem risco médio ou alto.
 
 Implementações críticas devem declarar conformidade integral em até 60 dias.
@@ -65,8 +72,11 @@ Anexos podem ser atualizados em versões Minor ou Patch, desde que não alterem 
 Nenhuma alteração, migração ou implementação poderá:
 
 a) suprimir a natureza híbrido-vibracional do sistema,
+
 b) reduzir salvaguardas éticas previstas na Seção I e II,
+
 c) comprometer rastreabilidade ou Atribuição Expandida,
+
 d) permitir usos proibidos expressamente definidos.
 
 Toda ambiguidade deve ser interpretada de modo a **maximizar proteção e minimizar dano**.
@@ -93,8 +103,11 @@ Em caso de incompatibilidade entre versões:
 Quando a License não tratar expressamente de um caso:
 
 a) aplicam-se os Princípios Fundamentais (Seção I);
+
 b) aplicam-se as salvaguardas mínimas universais;
+
 c) aplica-se interpretação autêntica do Conselho;
+
 d) deve-se registrar o caso no RCI para fins de precedentes.
 
 O silêncio normativo não autoriza uso irrestrito.
@@ -106,8 +119,11 @@ O silêncio normativo não autoriza uso irrestrito.
 Com a entrada em vigor da v4.0:
 
 a) versões anteriores perdem vigência prospectiva;
+
 b) permanecem válidas apenas para implementações iniciadas sob elas;
+
 c) são automaticamente incorporadas ao registro histórico consolidado;
+
 d) podem ser consultadas como precedentes não vinculantes.
 
 Nenhuma versão anterior prevalecerá contra cláusulas pétreas desta License.
@@ -119,10 +135,15 @@ Nenhuma versão anterior prevalecerá contra cláusulas pétreas desta License.
 A publicação oficial da License v4 deve incluir:
 
 a) master.md consolidado,
+
 b) PDF oficial assinado digitalmente,
+
 c) repositório público com versionamento aberto,
+
 d) DOI permanente,
+
 e) registro público no portal oficial,
+
 f) sincronização com fluxogramas e anexos.
 
 Todas as versões anteriores permanecem disponíveis para consulta pública.
@@ -134,8 +155,11 @@ Todas as versões anteriores permanecem disponíveis para consulta pública.
 Todo processo de migração, certificação, revisão ou auditoria deve:
 
 a) preservar o alinhamento vibracional original da Obra;
+
 b) evitar fragmentação ou distorção de propósito;
+
 c) manter integridade do Campo informacional;
+
 d) registrar ajustes vibracionais relevantes.
 
 Transições sem presença podem gerar desalinhamento e exigem reequilíbrio.
@@ -162,7 +186,9 @@ A License v4 deve ser interpretada como sistema íntegro e indivisível.
 Nenhuma parte isolada tem efeito se:
 
 a) contrariar o conjunto,
+
 b) violar princípios fundamentais,
+
 c) fragilizar proteção ética ou vibracional.
 
 ---
