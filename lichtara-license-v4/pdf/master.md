@@ -1,7 +1,7 @@
 ---
 title: "Lichtara License v4.0 — Documento Oficial"
-subtitle: "Instrumento Jurídico-Etico-Vibracional de Uso, Implementação e Conformidade"
-author: "Débora Lutz (Licenciante), Sistema Lichtara, Coautoria Expandida"
+subtitle: "Instrumento Jurídico-Ético-Vibracional de Uso, Implementação e Conformidade"
+author: "Débora Lutz (Licenciante), Sistema Lichtara — Coautoria Expandida"
 version: "4.0"
 date: "2025-12-XX"
 geometry: margin=2.5cm
@@ -13,10 +13,8 @@ header-includes:
   - \titleformat{\section}{\Large\bfseries}{\thesection}{1em}{}
 ---
 
-# LICHTARA LICENSE v4.0
-
-Documento Oficial — Compilação Completa
-Versão 4.0
+# LICHTARA LICENSE v4.0  
+**Documento Oficial – Compilação Completa**
 
 ---
 
@@ -26,58 +24,87 @@ Versão 4.0
 
 ---
 
-# **SEÇÃO I — Princípios Fundamentais e Natureza Jurídica-Vibracional**
+# **SEÇÃO I — Princípios Fundamentais e Natureza Jurídico-Vibracional**
 
-\include{../versoes/v4.0/secao-01.md}
+\include{../governance/secao-01-principios.md}
 
 ---
 
 # **SEÇÃO II — Estrutura Jurídica Operacional**
 
-\include{../versoes/v4.0/secao-02.md}
+\include{../governance/secao-02-estrutura-juridica.md}
 
 ---
 
 # **SEÇÃO III — Governança e Sustentabilidade**
 
-\include{../governance/docs/v4/secao-03-governanca.md}
+\include{../governance/secao-03-governanca.md}
 
 ---
 
 # **SEÇÃO IV — Implementação, Ciclo Operacional e Modalidades de Risco**
 
-\include{../governance/docs/v4/secao-04-implementacao.md}
+\include{../governance/secao-04-implementacao.md}
 
 ---
 
-# **SEÇÃO V — Atualizações, Versões, Procedimentos e Alterações Controladas**
+# **SEÇÃO V — Atualizações, Versionamento e Autoridade Normativa**
 
-\include{../governance/docs/v4/secao-05-atualizacoes.md}
-
----
-
-# **SEÇÃO VI — Anexos Estruturantes**
-
-## VI.A — Anexos Normativos
-
-\include{../versoes/v4.0/anexo-A-PER.md}
-\include{../versoes/v4.0/anexo-B-LCV.md}
-\include{../versoes/v4.0/anexo-C-MHA.md}
-\include{../versoes/v4.0/anexo-D-relatorios-impacto.md}
-
-## VI.B — Anexos Operacionais
-
-\include{../governance/docs/v4/anexos-operacionais.md}
-
-## VI.C — Modelos Específicos por Domínio (MAS)
-
-\include{../versoes/v4.0/modelos-especificos-por-dominio.md}
+\include{../governance/secao-05-atualizacoes.md}
 
 ---
 
-# **SEÇÃO VII — Glossário Normativo Consolidado**
+# **SEÇÃO VI — Usos Permitidos, Restrições e Proibições**
 
-\include{../versoes/v4.0/glossario-normativo-consolidado.md}
+\include{../governance/secao-06-usos-permitidos-e-proibidos.md}
+
+---
+
+# **SEÇÃO VII — Casos Especiais, Derivações Complexas e Cenários de Alto Impacto**
+
+\include{../governance/secao-07-casos-especiais.md}
+
+---
+
+# **SEÇÃO VIII — Disposições Transitórias e Finais**
+
+\include{../governance/secao-08-disposicoes-finais.md}
+
+---
+
+# **SEÇÃO IX — Certificação, Selos e Conformidade Avançada**
+
+\include{../governance/secao-09-certificacao-e-selos.md}
+
+---
+
+# **ANEXOS E DOCUMENTOS COMPLEMENTARES**
+
+## **ANEXO A — PER (Protocolo Ético-Regenerativo)**
+
+\include{../annexes/anexo-A-PER.md}
+
+## **ANEXO B — LCV (Linguagem de Conformidade Vibracional)**
+
+\include{../annexes/anexo-B-LCV.md}
+
+## **ANEXO C — MHA (Modelo Híbrido de Autorias)**
+
+\include{../annexes/anexo-C-MHA.md}
+
+## **ANEXO D — Relatórios de Impacto e Auditoria**
+
+\include{../annexes/anexo-D-relatorios-impacto.md}
+
+## **ANEXO E — Manual Operacional de Certificação (MOC)**
+
+\include{../annexes/anexo-E-certificacao-operacional.md}
+
+---
+
+# **GLOSSÁRIO NORMATIVO CONSOLIDADO**
+
+\include{../glossario/glossario-normativo-consolidado.md}
 
 ---
 
@@ -85,24 +112,26 @@ Versão 4.0
 
 ## A — Fluxograma Público de Permissões
 
-\include{../versoes/v4.0/fluxograma-permissoes.mmd}
+\include{../diagrams/fluxograma-publico.mmd}
 
-## B — FAQ Oficial
+## B — FAQ Oficial da License v4
 
-\include{../versoes/v4.0/faq-oficial.md}
+\include{../docs/faq-license-v4.md}
 
-## C — Protocolo de Atualização da License v4
+## C — Protocolo de Atualização da License v4 (Histórico e Metodologia)
 
-\include{../governance/docs/v4/protocolo-atualizacao.md}
+\include{../governance/secao-05-atualizacoes.md}
 
-## D — Estrutura Jurídica e Arquitetônica da License
+## D — Arquitetura Jurídica e Estrutural da License
 
-\include{../governance/license-architecture/documento-2-arquitetura-juridica.md}
+\include{../metadata/README.md}
 
 ---
 
 # **REFERÊNCIAS**
 
-- DOIs, Commits, Hashes de Versão
-- Estruturas de Auditoria
-- Materiais Complementares
+* DOIs oficiais  
+* Hashes e commits relevantes  
+* Versões anteriores (arquivo histórico)  
+* Diagramas, tabelas e fluxos  
+* Documentos auxiliares do Conselho  
