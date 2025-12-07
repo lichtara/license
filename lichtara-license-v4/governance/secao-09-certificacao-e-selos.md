@@ -74,10 +74,15 @@ Aplicável a:
 Requisitos mínimos:
 
 a) Atribuição Expandida correta;
+
 b) RCI simplificado;
+
 c) logs essenciais;
+
 d) conformidade com Seção II (Vedações Absolutas);
+
 e) LCV simplificada;
+
 f) ausência de impacto coletivo significativo.
 
 ---
@@ -94,11 +99,17 @@ Aplicável a:
 Requisitos:
 
 a) RCI completo;
+
 b) LCV compatível com risco real;
+
 c) Relatório de Impacto anual;
+
 d) documentação vibracional estruturada;
+
 e) verificação cruzada de logs;
+
 f) salvaguardas técnicas e éticas proporcionais;
+
 g) MREV simplificada ou completa, conforme o caso.
 
 ---
@@ -116,12 +127,19 @@ Obrigatório para:
 Requisitos:
 
 a) auditoria independente anual;
+
 b) MREV completa e viva;
+
 c) LCV completa;
+
 d) logs contínuos;
+
 e) salvaguardas reforçadas;
+
 f) validação vibracional oficial;
+
 g) entrevistas técnicas;
+
 h) parecer do Conselho (quando aplicável).
 
 Este é o nível máximo de reconhecimento do ecossistema.
@@ -139,8 +157,11 @@ O processo de certificação compreende seis etapas:
 O implementador submete:
 
 a) documentação mínima (RCI, LCV, logs, MREV);
+
 b) Relatório de Impacto, quando aplicável;
+
 c) declaração de intenção responsável;
+
 d) identificação de responsáveis humanos.
 
 ---
@@ -178,9 +199,13 @@ Analisa-se:
 A certificadora (ou o Conselho, quando aplicável) verifica:
 
 a) alinhamento da intenção;
+
 b) coerência da obra com propósito declarado;
+
 c) presença e integridade do fluxo;
+
 d) ausência de distorção vibracional;
+
 e) registros vibracionais do implementador.
 
 É proibida a emissão de selos para implementações com desalinhamento crítico.
@@ -192,9 +217,13 @@ e) registros vibracionais do implementador.
 O processo pode resultar em:
 
 a) aprovação plena,
+
 b) aprovação com recomendações,
+
 c) aprovação condicional (pendente de ajustes),
+
 d) indeferimento com justificativa,
+
 e) indeferimento por violação ética ou vibracional.
 
 Implementações críticas exigem parecer colegiado.
@@ -223,9 +252,13 @@ O Selo deve:
 Implementações certificadas devem manter:
 
 a) logs vivos e atualizados;
+
 b) LCV revisada;
+
 c) MREV viva (quando aplicável);
+
 d) transparência proporcional ao risco;
+
 e) comunicação de incidentes conforme Seção IV.5.
 
 A recertificação exige:
@@ -248,10 +281,15 @@ Implementações críticas operam sob **Continuous Compliance**, com:
 O Conselho pode credenciar entidades como **Certificadoras Externas Reconhecidas**, desde que cumpram:
 
 a) independência institucional;
+
 b) corpo técnico ético e qualificado;
+
 c) compromisso com princípios da Seção I;
+
 d) ausência de conflito de interesse;
+
 e) treinamento no MHA, LCV e MREV;
+
 f) adesão formal ao regime vibracional.
 
 A certificadora pode ser descredenciada por:
@@ -270,21 +308,29 @@ Um Selo pode ser:
 ### **Suspenso**, quando:
 
 a) houver indício de violação;
+
 b) faltar documentação obrigatória;
+
 c) houver incidente não mitigado;
+
 d) houver desalinhamento vibracional significativo.
 
 ### **Condicionado**, quando:
 
 a) ajustes forem necessários;
+
 b) salvaguardas estiverem incompletas;
+
 c) houver risco moderado em evolução.
 
 ### **Revogado**, quando:
 
 a) houver violação grave ou crítica;
+
 b) Vedações Absolutas forem infringidas;
+
 c) houver adulteração de registros;
+
 d) a implementação causar dano relevante.
 
 A revogação exige parecer formal.
@@ -296,10 +342,15 @@ A revogação exige parecer formal.
 O portal oficial manterá registro público contendo:
 
 a) implementações certificadas;
+
 b) nível do selo;
+
 c) validade;
+
 d) certificadora responsável;
+
 e) histórico de recertificações;
+
 f) suspensões e revogações (quando aplicável).
 
 Informações sensíveis podem ser anonimizadas.
@@ -311,8 +362,11 @@ Informações sensíveis podem ser anonimizadas.
 Selos podem ser reconhecidos por instituições externas quando:
 
 a) as salvaguardas forem equivalentes;
+
 b) houver acordo de interoperabilidade (IV.9);
+
 c) não houver risco vibracional;
+
 d) houver auditoria de compatibilidade.
 
 Padrões mais protetivos podem ser adotados cumulativamente.
