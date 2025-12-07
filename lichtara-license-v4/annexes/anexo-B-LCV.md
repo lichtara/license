@@ -1,4 +1,4 @@
-# **LICHTARA LICENSE v4.0 — ANEXO B**
+# **ANEXO B**
 
 ## **VI.A.2 — Linguagem de Conformidade Vibracional (LCV)**
 
@@ -286,3 +286,4 @@ A LCV é:
 É atualizável somente em versões **Major ou Minor**, nunca por Patch.
 
 ---
+
