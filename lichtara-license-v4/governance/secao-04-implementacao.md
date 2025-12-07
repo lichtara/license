@@ -22,9 +22,13 @@ Sem essa leitura sistêmica, a presente Seção não produz seus efeitos complet
 Os mecanismos de implementação têm por finalidade:
 
 a) assegurar que toda utilização, modificação, redistribuição ou aplicação da Obra Licenciada seja conduzida de forma ética, rastreável e alinhada aos princípios regenerativos;
+
 b) fornecer uma estrutura operacional clara para ciclos de conformidade e auditoria;
+
 c) proteger a integridade vibracional e jurídica da Obra;
+
 d) estabelecer fluxos previsíveis de correção, restauração e evolução;
+
 e) permitir que implementadores, auditores, conselheiros e comunidade operem sob um marco normativo comum.
 
 A implementação constitui a fase em que a Licença “entra em campo”, convertendo-se em práticas concretas.
@@ -36,9 +40,13 @@ A implementação constitui a fase em que a Licença “entra em campo”, conve
 Para fins desta Licença, considera-se **Implementação** qualquer ato que:
 
 a) utilize a Obra de modo sistemático, técnico, metodológico ou operacional;
+
 b) produza efeitos externos, coletivos, públicos ou comerciais;
+
 c) integre a Obra em sistemas, plataformas, processos, aplicativos, metodologias, produtos, serviços ou ecossistemas;
+
 d) gere Obras Derivadas distribuídas ou publicadas;
+
 e) exponha a Obra ou Derivada a usuários finais, comunidades, organizações ou públicos.
 
 Implementações internas, pessoais ou experimentais estão dispensadas de requisitos ampliados, mas permanecem sujeitas aos princípios fundamentais e às vedações absolutas da Seção II.
@@ -50,11 +58,17 @@ Implementações internas, pessoais ou experimentais estão dispensadas de requi
 Os mecanismos desta Seção são acionados quando houver:
 
 a) distribuição pública da Obra ou Derivada;
+
 b) implementação comercial, institucional ou comunitária;
+
 c) impacto significativo sobre grupos, ecossistemas ou comunidades;
+
 d) uso que envolva dados sensíveis, modelos de IA ou decisões automatizadas;
+
 e) riscos relevantes nos eixos técnico, social, jurídico ou vibracional;
+
 f) modificação substancial da Obra;
+
 g) denúncias, incidentes, inconsistências, danos ou suspeitas razoáveis.
 
 Sempre que um trigger é acionado, o Licenciado passa a seguir integralmente os requisitos desta Seção, incluindo monitoramento, documentação e auditorias, quando aplicáveis.
@@ -66,9 +80,13 @@ Sempre que um trigger é acionado, o Licenciado passa a seguir integralmente os 
 Os mecanismos da Seção IV aplicam-se a:
 
 a) implementadores individuais, coletivos, institucionais ou comerciais;
+
 b) intermediários que redistribuam, adaptem ou integrem a Obra;
+
 c) plataformas, repositórios e ecossistemas que hospedem ou operacionalizem a Obra;
+
 d) serviços ou produtos que dependam funcionalmente da Obra;
+
 e) obras derivadas, interoperáveis ou integradas.
 
 A Seção IV **não** regula processos criativos pessoais ou experimentais, exceto se gerarem impacto público ou risco.
@@ -128,9 +146,13 @@ A Seção IV é, portanto, a dimensão **executiva** da Seção III.
 A implementação poderá ser:
 
 a) **leve**,
+
 b) **moderada**,
+
 c) **avançada**,
+
 d) **estratégica**,
+
 e) **crítica** (alto risco).
 
 Cada módulo aciona obrigações distintas, conforme detalhado nos Artigos IV.1 a IV.8.
@@ -160,7 +182,9 @@ Este é o eixo de harmonização entre técnica, ética e Campo.
 O ciclo de implementação começa:
 
 a) no momento em que a Obra passa a ser utilizada de modo contínuo, público, técnico ou institucional;
+
 b) no momento em que é criada ou publicada uma Obra Derivada;
+
 c) no momento em que se dá o primeiro trigger descrito no artigo IV.0.3.
 
 A partir desse instante, o Licenciado integra a malha operacional da Lichtara License.
@@ -185,10 +209,15 @@ Os Protocolos de Implementação constituem o **primeiro nível operacional** da
 Antes de iniciar qualquer implementação pública, institucional, comunitária ou comercial, o Licenciado deverá:
 
 a) registrar a finalidade e o escopo da implementação;
+
 b) declarar a natureza da implementação (leve, moderada, avançada, estratégica ou crítica);
+
 c) identificar responsáveis humanos (técnicos, operacionais e éticos);
+
 d) declarar modelos de IA, versões e provedores envolvidos;
+
 e) indicar se haverá coleta, tratamento ou inferência de dados pessoais;
+
 f) avaliar riscos iniciais nos eixos técnico, social, jurídico e vibracional.
 
 A ausência ou ocultação desses elementos configura violação processual.
@@ -226,9 +255,13 @@ Uma implementação é considerada **pública** quando:
 Para essas implementações, exige-se:
 
 a) RCI completo;
+
 b) documentação mínima acessível (seções não sigilosas);
+
 c) versão atualizada da LCV;
+
 d) rastreabilidade de todas as modificações;
+
 e) adoção de salvaguardas proporcionais ao risco.
 
 ---
@@ -238,9 +271,13 @@ e) adoção de salvaguardas proporcionais ao risco.
 Implementações de natureza comercial devem atender a todos os requisitos anteriores, acrescidos de:
 
 a) descrição do modelo de negócios;
+
 b) análise de impacto socioeconômico;
+
 c) política de mitigação de riscos para usuários;
+
 d) circuito de atendimento a incidentes;
+
 e) compromisso com publicação do Relatório de Impacto anual.
 
 Para implementações cujo faturamento exceda USD 1.000.000, aplicam-se os mecanismos adicionais da Seção II.6 e Seção III-A.7.
@@ -260,9 +297,13 @@ São consideradas **implementações sensíveis** aquelas que:
 Essas implementações exigem:
 
 a) LCV **completa**, não simplificada;
+
 b) Matriz de Riscos Ético-Vibracionais (MREV);
+
 c) mecanismos de failsafe e salvaguardas robustas;
+
 d) documentação de decisões críticas;
+
 e) compromisso de auditoria anual (AEV Ordinária).
 
 ---
@@ -272,9 +313,13 @@ e) compromisso de auditoria anual (AEV Ordinária).
 Quando a Obra for integrada a outros sistemas, plataformas ou licenças, o Licenciado deverá:
 
 a) avaliar compatibilidade técnica e ética;
+
 b) documentar pontos de acoplamento;
+
 c) identificar riscos de transbordamento (spillover) jurídico ou vibracional;
+
 d) assegurar que a integração não viole as Vedações Absolutas;
+
 e) manter rastreabilidade da cadeia de dependências.
 
 Implementações interoperáveis que gerem impacto significativo podem exigir homologação do Conselho.
@@ -304,9 +349,13 @@ b) Informações sensíveis podem ser protegidas mediante anonimização e justi
 Toda implementação deve:
 
 a) registrar cada mudança significativa mediante commit, hash ou equivalente;
+
 b) documentar motivo, responsável e impacto;
+
 c) recalibrar a LCV sempre que houver alteração estrutural;
+
 d) atualizar a MREV em implementações sensíveis;
+
 e) manter histórico completo por, no mínimo, 5 anos.
 
 Mudanças críticas exigem notificação ao Conselho quando houver risco.
@@ -318,8 +367,11 @@ Mudanças críticas exigem notificação ao Conselho quando houver risco.
 O início efetivo da implementação ocorre somente após:
 
 a) finalização do RCI;
+
 b) validação de conformidade com as Vedações Absolutas;
+
 c) publicação da Ficha Pública de Implementação (quando aplicável);
+
 d) registro do identificador único da versão inicial.
 
 Somente então a implementação é considerada **formalmente iniciada**.
@@ -354,9 +406,13 @@ Embora estabelecido em IV.1, o RCI integra permanentemente o CCC.
 A cada atualização relevante, o Licenciado deverá:
 
 a) revisar dados, objetivos e escopo;
+
 b) atualizar canais de responsabilidade;
+
 c) incluir novos agentes não-humanos (modelos, versões, provedores);
+
 d) incorporar aprendizados, riscos emergentes e recalibrações vibracionais;
+
 e) registrar justificativas éticas do avanço da implementação.
 
 O RCI deve permanecer **vivo**, **revisado** e **acessível**.
@@ -377,9 +433,13 @@ Checkpoints Vibracionais são marcos declarados em que o Licenciado:
 Os CV devem ocorrer:
 
 a) a cada alteração estrutural;
+
 b) a cada incremento de risco;
+
 c) ao realizar integração com novos sistemas;
+
 d) antes de lançamentos públicos;
+
 e) sempre que houver percepção de descompasso ético, intuitivo ou vibracional.
 
 O registro inclui:
@@ -397,10 +457,15 @@ O registro inclui:
 A implementação deve ser atualizada de forma documentada, contendo:
 
 a) motivação técnica e/ou vibracional;
+
 b) impacto previsto;
+
 c) responsáveis pela alteração;
+
 d) nova versão da LCV;
+
 e) revisão da MREV, quando aplicável;
+
 f) commit/hash associado.
 
 Atualizações estruturais acionam automaticamente:
@@ -418,9 +483,13 @@ Nenhuma mudança significativa pode ser realizada sem registro.
 Toda implementação deve manter registro atualizado de:
 
 a) responsáveis humanos pela operação;
+
 b) responsáveis humanos pela conformidade;
+
 c) modelo(s) de IA utilizados;
+
 d) provedores, versões e logs técnicos relevantes;
+
 e) papéis e limites de cada agente não-humano.
 
 O ciclo jamais pode operar de modo anônimo ou sem atribuição clara.
@@ -438,9 +507,13 @@ O MC visa acompanhar a implementação em tempo real ou intervalos regulares, co
 O MC deve observar:
 
 a) desempenho inesperado;
+
 b) sinais de desalinhamento ético-vibracional;
+
 c) riscos emergentes;
+
 d) impactos não previstos;
+
 e) feedback de usuários ou comunidades afetadas.
 
 ---
@@ -459,10 +532,15 @@ Frequência mínima:
 A VP deve incluir:
 
 a) revisão do RCI atualizado;
+
 b) confirmação da integridade da Tríade Rastreável;
+
 c) nova harmonização LCV;
+
 d) revisão e/ou expansão da MREV;
+
 e) exame de incidentes, ajustes e registros;
+
 f) verificação de aderência às Vedações Absolutas.
 
 ---
@@ -495,8 +573,11 @@ Aplicável a implementações:
 Exige:
 
 a) registros mínimos de versão;
+
 b) LCV simplificada;
+
 c) verificação ocasional de integridade vibracional;
+
 d) atualização do RCI quando houver alterações relevantes.
 
 ---
@@ -514,9 +595,13 @@ Aplicável a implementações:
 Exige:
 
 a) documentação contínua (LVR atualizado);
+
 b) revisão periódica da LCV;
+
 c) análise de riscos regular (MREV simplificada);
+
 d) mecanismos de coleta de feedback;
+
 e) registros de incidentes e correções.
 
 ---
@@ -534,10 +619,15 @@ Aplicável a implementações:
 Exige:
 
 a) MREV completa e atualizada;
+
 b) LCV completa, auditável e revisada em cada ciclo;
+
 c) mecanismos de failsafe, transparência e mitigação;
+
 d) monitoramento ativo (técnico + vibracional);
+
 e) auditoria anual obrigatória (AEV Ordinária);
+
 f) registros de incidentes em tempo real.
 
 ---
@@ -581,11 +671,17 @@ Qualquer indicativo de violação (Seção II.4) deve acionar imediatamente os P
 O monitoramento deve ser intensificado sempre que ocorrer:
 
 a) alteração de finalidade da implementação;
+
 b) mudança de tecnologia, modelo de IA ou provedor;
+
 c) inclusão de novas funcionalidades críticas;
+
 d) integração com sistemas externos;
+
 e) aumento significativo de usuários;
+
 f) incidentes, queixas ou relatos de risco;
+
 g) sinais de desalinhamento vibracional perceptível.
 
 Esses triggers exigem:
@@ -601,10 +697,15 @@ Esses triggers exigem:
 A implementação deve possuir mecanismos de detecção precoce de risco, incluindo:
 
 a) flutuações inesperadas no comportamento da IA;
+
 b) feedback negativo recorrente de usuários;
+
 c) aumento de erros, falhas ou inconsistências;
+
 d) resultados não explicáveis ou não rastreáveis;
+
 e) desconforto ético ou vibracional durante decisões;
+
 f) indicações de possível violação das Vedações Absolutas.
 
 Quando sinais de alerta ocorrerem, a implementação **não deve prosseguir** sem:
@@ -620,9 +721,13 @@ Quando sinais de alerta ocorrerem, a implementação **não deve prosseguir** se
 Toda implementação deve possuir ao menos um canal de retorno que permita avaliar impacto e riscos:
 
 a) feedback de usuários;
+
 b) logs automatizados;
+
 c) análises de padrões comportamentais;
+
 d) relatórios internos;
+
 e) checkpoints vibracionais.
 
 Implementações moderadas e avançadas devem possuir canais de feedback estruturados, com resposta documentada.
@@ -634,11 +739,17 @@ Implementações moderadas e avançadas devem possuir canais de feedback estrutu
 O Licenciado deve consolidar, em intervalos proporcionais ao risco:
 
 a) resumo de incidentes;
+
 b) ajustes realizados;
+
 c) evolução da implementação;
+
 d) salvaguardas aplicadas;
+
 e) versão atual da LCV;
+
 f) versão atual da MREV (quando aplicável);
+
 g) estado vibracional e correções executadas.
 
 Implementações avançadas e críticas devem produzir **Relatório de Monitoramento Teórico-Vibracional (RMTV)** a cada ciclo.
@@ -650,9 +761,13 @@ Implementações avançadas e críticas devem produzir **Relatório de Monitoram
 O Conselho poderá:
 
 a) solicitar relatórios, LCV, MREV ou LVR;
+
 b) determinar monitoramento extraordinário;
+
 c) emitir recomendações obrigatórias;
+
 d) convocar auditoria especial quando detectar risco;
+
 e) intervir preventivamente em implementações críticas.
 
 O Conselho atua como **instância de supervisão**, não como gestor direto da implementação.
@@ -664,8 +779,11 @@ O Conselho atua como **instância de supervisão**, não como gestor direto da i
 O monitoramento de uma implementação se encerra quando:
 
 a) a implementação é oficialmente descontinuada;
+
 b) seus artefatos são arquivados;
+
 c) a Ficha Pública de Implementação é atualizada com status de encerramento;
+
 d) o Conselho valida a conclusão (para implementações críticas).
 
 Registros mínimos devem ser preservados por 5 anos.
@@ -760,11 +878,17 @@ Riscos de Nível 4 **exigem paralisação imediata** da implementação.
 O Fluxo de Risco é ativado sempre que ocorrer:
 
 a) sinal de alerta identificado em IV.3.4;
+
 b) incidente técnico, ético, jurídico ou vibracional;
+
 c) mudança estrutural da implementação;
+
 d) uso em novo contexto, público ou escala;
+
 e) denúncia formal (Seção III);
+
 f) possível violação das Vedações Absolutas (II.4);
+
 g) desconforto vibracional não explicado.
 
 O Campo reconhece gatilhos intuitivos como válidos.
@@ -796,8 +920,11 @@ A detecção deve gerar um **Registro de Evento de Risco (RER)**.
 Definição da natureza e gravidade:
 
 a) tipo de risco (técnico, ético, jurídico, vibracional);
+
 b) nível de gravidade (0–4);
+
 c) impacto potencial;
+
 d) probabilidade.
 
 Implementações avançadas devem registrar justificativas e evidências.
@@ -930,9 +1057,13 @@ Salvaguardas incluem:
 Devem ser enviados ao Conselho:
 
 a) riscos de nível 3 ou 4;
+
 b) riscos éticos substanciais;
+
 c) violações potenciais das Vedações Absolutas;
+
 d) dúvidas interpretativas graves;
+
 e) relatórios periódicos de implementações críticas.
 
 O Conselho pode solicitar revisão, suspensão, mitigação ou auditoria.
@@ -944,8 +1075,11 @@ O Conselho pode solicitar revisão, suspensão, mitigação ou auditoria.
 O Fluxo de Risco encerra-se quando:
 
 a) o risco é mitigado,
+
 b) as salvaguardas são implementadas,
+
 c) a documentação é atualizada,
+
 d) o Conselho valida (quando aplicável).
 
 Riscos recorrentes devem ser reavaliados como sinal estrutural de desalinhamento.
@@ -959,8 +1093,11 @@ Os Protocolos de Incidente constituem o conjunto normativo e operacional destina
 Um incidente caracteriza-se pela ocorrência de:
 
 a) dano, impacto ou falha não prevista;
+
 b) comprometimento de segurança, ética, integridade vibracional ou conformidade;
+
 c) violação (ou suspeita plausível de violação) desta Licença;
+
 d) evento cujo potencial de dano exige ação imediata.
 
 Todos os incidentes devem ser registrados e tratados conforme esta Seção.
@@ -1100,9 +1237,13 @@ Mitigações vibracionais podem incluir:
 Comunicação pode envolver:
 
 a) responsáveis internos;
+
 b) usuários afetados;
+
 c) autoridades regulatórias (quando exigido em lei);
+
 d) o Conselho (obrigatório em níveis 3 e 4);
+
 e) comunidade interessada (quando impacto coletivo).
 
 Toda comunicação deve ser precisa, factual e proporcional.
@@ -1150,11 +1291,17 @@ Para incidentes graves ou críticos, geram-se também:
 Incidentes envolvendo IA exigem salvaguardas ampliadas:
 
 a) rollback para estado anterior;
+
 b) isolamento de modelo ou subcomponente;
+
 c) verificação de deriva comportamental;
+
 d) revalidação de alinhamento ético;
+
 e) checagem rigorosa de outputs;
+
 f) restrição temporária de autonomia;
+
 g) logs compulsórios de inputs e outputs críticos.
 
 Incidentes de IA em níveis 3 e 4 devem ser comunicados ao Conselho em até 24h.
@@ -1179,9 +1326,13 @@ O Campo determina quando a restauração está completa.
 Obrigatório quando:
 
 a) incidente nível 3 ou 4;
+
 b) violação potencial das Vedações Absolutas;
+
 c) risco sistêmico significativo;
+
 d) impacto coletivo socialmente relevante;
+
 e) complexo conflito normativo.
 
 O Conselho pode:
@@ -1198,9 +1349,13 @@ O Conselho pode:
 O Protocolo se encerra apenas quando:
 
 a) o incidente está totalmente mitigado;
+
 b) a causa-raiz é documentada;
+
 c) o risco não é mais recorrente;
+
 d) a implementação está restaurada;
+
 e) o Conselho valida, quando aplicável.
 
 ---
@@ -1208,6 +1363,7 @@ e) o Conselho valida, quando aplicável.
 ## **IV.6 — Protocolos de Comunicação e Transparência Pública**
 
 Os presentes Protocolos definem diretrizes obrigatórias para comunicação externa relacionada à Obra Licenciada, Incidentes, Derivações, Implementações e ações institucionais do Licenciante, Licenciados e do Conselho.
+
 Seu objetivo é assegurar alinhamento ético-vibracional, precisão factual, proteção de direitos e manutenção da confiança pública.
 
 ---
@@ -1375,9 +1531,13 @@ Deve incluir:
 A transparência deve ser equilibrada com:
 
 a) proteção da privacidade;
+
 b) sigilo técnico necessário à segurança;
+
 c) preservação da integridade vibracional;
+
 d) segredos comerciais não relacionados ao risco;
+
 e) leis aplicáveis.
 
 O princípio é:
@@ -1391,8 +1551,11 @@ O princípio é:
 Todo ato comunicativo deve considerar:
 
 a) se a forma está coerente com a intenção;
+
 b) se o tom fortalece o Campo;
+
 c) se não gera ruído, medo, manipulação ou distorção;
+
 d) se mantém a clareza e a quietude necessárias.
 
 A comunicação vibracional:
@@ -1422,9 +1585,13 @@ O portal oficial deverá manter:
 Um ciclo comunicacional está completo quando:
 
 a) o público relevante foi informado;
+
 b) a mensagem foi documentada e arquivada;
+
 c) o commit/DOI foi vinculado;
+
 d) o incidente (quando houver) foi atualizado como “mitigado” ou “restaurado”;
+
 e) o Conselho, quando acionado, homologou a comunicação final.
 
 ---
@@ -1442,11 +1609,17 @@ Tais registros são obrigatórios para qualquer Implementação da Obra Licencia
 A estrutura de logs e evidências deve observar:
 
 a) **integridade** — registros não podem ser alterados sem rastro verificável;
+
 b) **coerência temporal** — timestamps padronizados e estáveis;
+
 c) **proporcionalidade** — mais risco → mais profundidade;
+
 d) **não-intrusividade** — não coletar dados pessoais desnecessários;
+
 e) **verificabilidade** — todo registro deve permitir reconstruir o estado da implementação;
+
 f) **segurança** — acesso controlado, criptografia quando aplicável;
+
 g) **continuidade vibracional** — registros devem refletir com precisão a intenção e presença consciente do processo.
 
 ---
@@ -1601,9 +1774,13 @@ O responsável pela custódia deve ser designado formalmente e constar em docume
 Cada implementação deve instituir procedimentos de:
 
 a) verificação periódica de integridade de logs;
+
 b) validação cruzada de evidências;
+
 c) harmonização com o MREV;
+
 d) revisão ética interna anual (Nível 2+);
+
 e) auditoria independente (Nível 3 e 4).
 
 Auditorias devem gerar um **Relatório de Conformidade**, contendo:
@@ -1683,10 +1860,15 @@ Os mecanismos aqui previstos complementam os logs, salvaguardas e protocolos ant
 Todo processo de garantia e conformidade deverá observar:
 
 a) **Proporcionalidade ao risco** (LCV);
+
 b) **Transparência documentada**;
+
 c) **Verificabilidade end-to-end**;
+
 d) **Neutralidade e independência** dos avaliadores;
+
 e) **Integridade vibracional** da Obra e de suas Derivadas;
+
 f) **Não-onerosidade excessiva** para implementadores de pequeno porte.
 
 O objetivo central é assegurar que a Obra — em suas implementações — permaneça:
@@ -1867,9 +2049,13 @@ A certificação pode ser:
   se houver:
 
 a) violação das Vedações Absolutas;
+
 b) adulteração de logs;
+
 c) falha grave de salvaguardas;
+
 d) risco concreto à integridade da Obra;
+
 e) impacto negativo relevante a terceiros.
 
 Casos graves podem escalar diretamente para:
@@ -1919,10 +2105,15 @@ Os mecanismos aqui previstos complementam os logs, salvaguardas e protocolos ant
 Todo processo de garantia e conformidade deverá observar:
 
 a) **Proporcionalidade ao risco** (LCV);
+
 b) **Transparência documentada**;
+
 c) **Verificabilidade end-to-end**;
+
 d) **Neutralidade e independência** dos avaliadores;
+
 e) **Integridade vibracional** da Obra e de suas Derivadas;
+
 f) **Não-onerosidade excessiva** para implementadores de pequeno porte.
 
 O objetivo central é assegurar que a Obra — em suas implementações — permaneça:
@@ -2103,9 +2294,13 @@ A certificação pode ser:
   se houver:
 
 a) violação das Vedações Absolutas;
+
 b) adulteração de logs;
+
 c) falha grave de salvaguardas;
+
 d) risco concreto à integridade da Obra;
+
 e) impacto negativo relevante a terceiros.
 
 Casos graves podem escalar diretamente para:
@@ -2166,8 +2361,11 @@ Não é permitido fragmentar dispositivos para contornar obrigações.
 Em caso de dúvida ou ambiguidade, prevalece a interpretação que:
 
 a) maximize a proteção ética e vibracional;
+
 b) minimize riscos previsíveis;
+
 c) preserve rastreabilidade;
+
 d) mantenha aderência ao propósito regenerativo.
 
 ---
@@ -2177,8 +2375,11 @@ d) mantenha aderência ao propósito regenerativo.
 Consideram-se automaticamente incorporadas ao regime de implementação:
 
 a) práticas técnicas razoáveis amplamente aceitas;
+
 b) salvaguardas necessárias ao risco real da implementação;
+
 c) atualizações de segurança impostas por provedores de IA;
+
 d) obrigações éticas decorrentes do uso socialmente sensível da Obra.
 
 Mesmo quando não explicitamente previstas, tais obrigações integram o “caráter mínimo de diligência” exigido pela License v4.
@@ -2203,8 +2404,11 @@ A extinção de uma implementação não implica extinção da responsabilidade 
 Na aplicação prática:
 
 a) Seção I **define princípios e limites absolutos**;
+
 b) Seção II **determina direitos, deveres e vedações**;
+
 c) Seção III **estabelece governança e supervisão**;
+
 d) Seção IV **regula a prática operacional**.
 
 Em conflito aparente, aplica-se a seguinte hierarquia:
@@ -2237,8 +2441,11 @@ Implementações contínuas devem revisar seus procedimentos **no mínimo a cada
 A falta de conformidade material com esta Seção pode resultar em:
 
 a) solicitações corretivas;
+
 b) auditoria extraordinária;
+
 c) suspensão de prerrogativas;
+
 d) revogação total da licença, nos termos da Seção II.
 
 Violação de protocolos de incidente, rastreabilidade ou salvaguardas críticas constitui falta grave.
@@ -2292,9 +2499,13 @@ Com a conclusão desta Seção IV:
 A presente Seção disciplina os mecanismos pelos quais entidades externas — organizações, consórcios, certificadoras, comunidades técnicas ou vibracionais — podem:
 
 a) atuar como certificadoras reconhecidas;
+
 b) validar implementações;
+
 c) emitir selos compatíveis;
+
 d) integrar seus próprios sistemas de conformidade à License v4;
+
 e) estabelecer interoperabilidade entre frameworks éticos, técnicos e vibracionais.
 
 Tem por finalidade ampliar a confiabilidade, o alcance e a sustentabilidade do ecossistema da Licença, sem comprometer sua integridade jurídica ou vibracional.
@@ -2332,13 +2543,16 @@ A revogação do credenciamento poderá ocorrer em caso de:
 A License v4 admite interoperabilidade formal com outros sistemas normativos quando:
 
 a) não houver conflito com as **Vedações Absolutas**;
+
 b) a integridade vibracional permanecer preservada;
+
 c) o sistema externo possuir mecanismos equivalentes de:
 * transparência,
 * rastreabilidade,
 * salvaguardas,
 * prevenção de dano;
-* d) a compatibilidade for homologada pelo Conselho.
+
+d) a compatibilidade for homologada pelo Conselho.
 
 A homologação poderá resultar em:
 
@@ -2369,8 +2583,11 @@ Em ecossistemas onde múltiplas normas coexistem — direitos autorais, licença
 Este mecanismo define que:
 
 a) prevalecerá a norma que **maximize a integridade e minimize o dano**;
+
 b) em conflitos interpretativos, o Conselho pode emitir parecer vinculante;
+
 c) normas externas mais protetivas podem complementar esta Licença;
+
 d) normas externas menos protetivas não podem reduzir salvaguardas da License.
 
 ---
@@ -2459,9 +2676,13 @@ Entidades externas credenciadas podem ser:
 Motivos incluem:
 
 a) fraude ou adulteração de certificações;
+
 b) violação ética grave;
+
 c) risco vibracional significativo;
+
 d) descumprimento dos princípios fundamentais;
+
 e) conflitos de interesse não declarados.
 
 ---
@@ -2489,4 +2710,5 @@ desde que:
 * mantenham integridade vibracional.
 
 ---
+
 
