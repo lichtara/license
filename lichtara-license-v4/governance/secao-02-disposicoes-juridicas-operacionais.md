@@ -1,5 +1,7 @@
 # **SEÇÃO II - DISPOSIÇÕES JURÍDICAS E OPERACIONAIS**
 
+### *(Estilo A — Estrutura Jurídico-Sistêmica Formal)*
+
 ---
 
 ## **II.0 - Objeto e Âmbito de Aplicação**
