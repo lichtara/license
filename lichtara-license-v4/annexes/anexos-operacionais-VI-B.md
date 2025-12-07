@@ -1,4 +1,4 @@
-# **VI.B — ANEXOS PROCEDIMENTAIS**
+# **ANEXOS PROCEDIMENTAIS**
 
 ## **VI.B — Modelos Operacionais, Checklists e Formulários Oficiais**
 
@@ -251,3 +251,4 @@ Eu, ___________________, declaro que a obra:
 * [ ] Portal atualizado
 
 ---
+
