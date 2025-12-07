@@ -168,4 +168,3 @@ c) no momento em que se dá o primeiro trigger descrito no artigo IV.0.3.
 A partir desse instante, o Licenciado integra a malha operacional da Lichtara License.
 
 ---
-Ou preferes revisar, ajustar ou expandir algum trecho antes?
