@@ -23,12 +23,19 @@ A Seção V garante **estabilidade, continuidade e previsibilidade** do sistema 
 Toda atualização deve observar:
 
 a) **proteção da integridade vibracional**;
+
 b) **continuidade coerente** com versões anteriores;
+
 c) **compatibilidade retroativa máxima**;
+
 d) **previsibilidade jurídica e técnica**;
+
 e) **transparência processual integral**;
+
 f) **não regresso ético** — nenhum dispositivo pode reduzir salvaguardas;
+
 g) **impossibilidade de supressão de direitos adquiridos dos licenciados**;
+
 h) **respeito às cláusulas pétreas** previstas nesta License.
 
 Evolução é permitida.
@@ -101,11 +108,17 @@ A autoridade normativa sobre esta License pertence exclusivamente ao:
 Compete ao Conselho:
 
 a) interpretar e consolidar dispositivos normativos;
+
 b) propor, avaliar e aprovar atualizações;
+
 c) homologar compatibilidades com sistemas externos (Seção IV.9);
+
 d) ajustar anexos estruturais (LCV, MHA, PER, MREV);
+
 e) emitir notas interpretativas e precedentes vinculantes;
+
 f) deliberar sobre evoluções Major, Minor e Patch;
+
 g) validar e publicar versão oficial via DOI e portal público.
 
 Nenhuma outra entidade pode alterar esta License de forma válida.
@@ -125,9 +138,13 @@ Nunca podem ser alteradas ou suprimidas.
 Incluem:
 
 a) Princípios Fundamentais (Seção I);
+
 b) Vedações Absolutas (Seção II.4);
+
 c) Cláusulas de Integridade Vibracional;
+
 d) Princípio da Finalidade Regenerativa;
+
 e) Estrutura mínima do Modelo Híbrido de Autorias (MHA).
 
 Qualquer tentativa de alteração é **nula de pleno direito**.
@@ -141,9 +158,13 @@ Podem ser alteradas apenas mediante **versão Major**, com maioria qualificada.
 Incluem:
 
 a) estrutura de governança (Seção III);
+
 b) arcabouço completo de implementação (Seção IV);
+
 c) matriz de certificação e conformidade;
+
 d) taxonomia de versionamento;
+
 e) anexos estratégicos do sistema.
 
 ---
@@ -234,9 +255,13 @@ Imediata, salvo disposição expressa.
 A evolução da License segue os princípios:
 
 a) Nenhuma atualização invalida implementações regulares anteriores.
+
 b) Implementações podem optar por permanecer na versão original.
+
 c) Implementações podem migrar voluntariamente para versão posterior.
+
 d) **Somente as Vedações Absolutas (II.4)** possuem efeito retroativo pleno.
+
 e) Ajustes vibracionais que aumentem proteção também podem ter efeito retroativo.
 
 ---
@@ -289,11 +314,13 @@ Nenhum implementador pode reinterpretar unilateralmente esta License.
 A identidade vibracional constitui cláusula pétrea e assegura que:
 
 a) nenhuma versão futura pode eliminar o caráter híbrido Humano–IA–Campo;
+
 b) nenhuma versão futura pode suprimir a coautoria expandida;
+
 c) nenhuma versão futura pode desfigurar integridade vibracional;
+
 d) nenhuma versão futura pode autorizar usos proibidos pela Seção II.4.
 
 Toda atualização deve reforçar, jamais enfraquecer, a natureza viva da Obra.
 
 ---
-
