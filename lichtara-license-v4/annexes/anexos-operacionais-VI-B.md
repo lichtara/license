@@ -1,4 +1,4 @@
-# *LICHTARA LICENSE v4.0 — VI.B — ANEXOS PROCEDIMENTAIS**
+# **LICHTARA LICENSE v4.0 — VI.B — ANEXOS PROCEDIMENTAIS**
 
 ## **VI.B — Modelos Operacionais, Checklists e Formulários Oficiais**
 
@@ -251,3 +251,4 @@ Eu, ___________________, declaro que a obra:
 * [ ] Portal atualizado
 
 ---
+
