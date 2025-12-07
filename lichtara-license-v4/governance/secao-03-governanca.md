@@ -1,5 +1,3 @@
----
-
 # III. Governança e Sustentabilidade
 
 A governança da Lichtara License v4.0 estabelece a estrutura institucional, ética e operacional que garante a integridade da Obra, a coerência de suas implementações e a sustentabilidade vibracional do ecossistema. Divide-se em duas camadas complementares:
@@ -102,3 +100,4 @@ Relatório de Impacto anual, registro de incidentes e mitigação de vieses.
 Promoção de boas práticas, apoio comunitário e evolução contínua do ecossistema.
 
 ---
+
