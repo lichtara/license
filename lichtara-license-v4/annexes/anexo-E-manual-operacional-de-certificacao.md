@@ -1858,4 +1858,549 @@ Repetição condensada das etapas:
 
 ---
 
+# **E.7 — Tabelas de Decisão e Fluxos de Exceção**
+
+Esta seção estabelece:
+
+* caminhos de decisão,
+* respostas obrigatórias a situações irregulares,
+* escalonamento proporcional ao risco,
+* critérios claros de suspensão e condicionamento,
+* ações automáticas em incidentes,
+* regras de exceção para desalinhamento vibracional,
+* pontos de intervenção do Conselho.
+
+Um sistema de certificação só é confiável quando possui **procedimentos claros para quando algo dá errado**.
+
+---
+
+# ---------------------------------------------------------
+
+# **E.7.1 — Tabela de Decisão por Não Conformidade Documental**
+
+| Situação                                 | Ação Certificadora             | Escalonamento                               |
+| ---------------------------------------- | ------------------------------ | ------------------------------------------- |
+| Falta documento obrigatório              | Solicitar correção em 7 dias   | Sem escalonamento inicial                   |
+| Documento inconsistente                  | Devolver com exigência         | Reenvio obrigatório                         |
+| Documento contradiz outro                | Suspender análise até correção | Notificar Conselho se reincidir             |
+| LCV incompatível com risco               | Reclassificar risco            | Ajustar para nível superior automaticamente |
+| Relatório de Impacto ausente (nível 2/3) | Suspender → exigir em 7 dias   | Se não entregue: indeferimento              |
+
+**Regra:**
+Documentação incompleta nunca impede certificação *definitivamente*, mas impede sua continuidade até ser corrigida.
+
+---
+
+# ---------------------------------------------------------
+
+# **E.7.2 — Fluxo de Exceção por Aumento de Risco**
+
+Quando durante a avaliação surgir um aumento real de risco (LCV):
+
+| Risco Atual | Novo Risco Detectado                           | Ação                        |
+| ----------- | ---------------------------------------------- | --------------------------- |
+| 1 → 2       | Revisar LCV + exigir documentos intermediários | Mantém elegibilidade        |
+| 2 → 3       | Elevar exigências + auditoria técnica          | Necessita nova análise      |
+| 3 → 4       | Notificar Conselho + auditoria extraordinária  | Suspensão automática        |
+| 4 (crítico) | Crítico sustentado                             | Indeferimento até mitigação |
+
+**Regra:**
+O risco *nunca* pode ser reduzido durante o processo; só elevado, se necessário.
+
+---
+
+# ---------------------------------------------------------
+
+# **E.7.3 — Fluxo para Incidentes e Ocorrências**
+
+Incidentes são qualquer evento inesperado que afete:
+
+* segurança,
+* PER,
+* integridade vibracional,
+* usuários,
+* estrutura da implementação,
+* base de dados,
+* IA utilizada.
+
+| Tipo de Incidente | Ação                               | Escalonamento                |
+| ----------------- | ---------------------------------- | ---------------------------- |
+| Leve              | Ajuste + registro                  | Não escalona                 |
+| Moderado          | Ajuste + MREV atualizada           | Revisão da certificadora     |
+| Relevante         | Suspensão temporária               | Auditoria                    |
+| Grave             | Suspensão imediata                 | Parecer do Conselho          |
+| Crítico           | Revogação + análise extraordinária | Conselho + relatório público |
+
+---
+
+# ---------------------------------------------------------
+
+# **E.7.4 — Fluxo de Exceção para Desalinhamento Vibracional**
+
+Este é exclusivo da License v4.
+
+| Situação Vibracional        | Ação                         | Escalonamento           |
+| --------------------------- | ---------------------------- | ----------------------- |
+| Ruído leve                  | Ajuste simples               | Não escalona            |
+| Fragmentação ocasional      | Reorientação + CV2 reforçado | Auditoria vibracional   |
+| Desalinhamento crítico      | Suspensão do processo        | Conselho deve avaliar   |
+| Contraintenção identificada | Reprovação automática        | Registro obrigatório    |
+| Ruptura Campo–Forma–Função  | Revogação ou indeferimento   | Notificação obrigatória |
+
+**Regra vibracional:**
+Nada avança se a coerência do Campo estiver comprometida.
+
+---
+
+# ---------------------------------------------------------
+
+# **E.7.5 — Tabela de Decisão para Incoerências Técnicas**
+
+| Incoerência           | Ação                    | Observação                         |
+| --------------------- | ----------------------- | ---------------------------------- |
+| LVR incompleto        | Solicitar ajuste        | Essencial                          |
+| Deriva de IA          | Testes adicionais       | Se persistir → Selo 3 obrigatório  |
+| Falta de salvaguardas | Correção obrigatória    | Pré-condição                       |
+| Modelos obscuros      | Proibir uso até clareza | IA deve ser auditável              |
+| Falhas de segurança   | Suspensão até correção  | Não certificável com falhas ativas |
+
+---
+
+# ---------------------------------------------------------
+
+# **E.7.6 — Caminhos Decisórios da Certificação**
+
+## **1. Aprovação Plena**
+
+Concedida quando:
+
+* matrizes ≥ 2,
+* nenhum zero,
+* sem violação PER,
+* integridade vibracional preservada.
+
+---
+
+## **2. Aprovação com Recomendações**
+
+Quando:
+
+* critérios não são críticos,
+* ajustes leves são necessários.
+
+Recomendações devem ser cumpridas *antes da recertificação*.
+
+---
+
+## **3. Aprovação Condicional (Ajustes Necessários)**
+
+Aplicada quando:
+
+* há riscos moderados,
+* documentação incompleta moderada,
+* desalinhamentos leves.
+
+Implementação só pode começar após ajustes.
+
+---
+
+## **4. Indeferimento**
+
+Ocorre quando:
+
+* faltam salvaguardas essenciais,
+* interferência vibracional grave,
+* documentação fraudada,
+* violação ética.
+
+Reenvio permitido após correção total.
+
+---
+
+## **5. Suspensão**
+
+Quando:
+
+* surge risco novo,
+* incidente relevante,
+* desalinhamento significativo.
+
+Pode ser sanada.
+
+---
+
+## **6. Revogação**
+
+Aplicada quando:
+
+* dano significativo ocorreu,
+* PER foi violado,
+* há ruptura Campo–Forma–Função.
+
+Requer decisão formal do Conselho.
+
+---
+
+# ---------------------------------------------------------
+
+# **E.7.7 — Fluxograma Global de Exceção**
+
+*(Texto descritivo, para posterior diagramação no repo)*
+
+1. Submissão →
+2. Avaliação Documental
+
+   * Se ok → Avança
+   * Se não → Correção → Retorno
+3. Avaliação Técnica
+
+   * Falha grave → Suspensão
+4. Avaliação Ética
+
+   * Violação PER → Indeferimento
+5. Avaliação Vibracional
+
+   * Alinhado → Avança
+   * Desalinhado → Reorientação ou Suspensão
+6. Deliberação Certificadora
+
+   * Condicional? Recomendações
+7. Parecer final
+
+   * Selo / indeferimento
+8. Registro público
+
+---
+
+# **E.8 — Modelos Preenchidos (Exemplos Reais de Certificação)**
+
+Este capítulo apresenta **casos inteiros preenchidos**, cobrindo:
+
+1. Implementação de risco baixo (LCV 1) → Selo Nível 1
+2. Implementação de risco médio (LCV 2) → Selo Nível 2
+3. Implementação de risco alto (LCV 3) → Selo Nível 3
+4. Caso crítico (LCV 4) → Exemplo de suspensão e recertificação
+5. Mini-exemplo terapêutico (ambiente sensível)
+6. Mini-exemplo de plataforma com IA derivada
+
+Cada exemplo segue:
+
+📌 RCI → DTI → LCV → MREV → Relatório de Impacto → AEV → Relatório Final → Selo
+
+Com isso, qualquer certificadora consegue aprender o fluxo completo.
+
+---
+
+# -------------------------------------------------------------
+
+# **E.8.1 — Exemplo Completo: Implementação LCV 1 (Risco Baixo)**
+
+### “Guia de Prática Pessoal – PER para Estudo Individual”
+
+---
+
+## **RCI (Preenchido)**
+
+**Título:** Guia de Prática Pessoal – PER
+**Identificador:** hash: a73f9b2
+**Responsável:** Ana Ribeiro
+**Data:** 2025-11-03
+
+**1. Finalidade:**
+Criar um pequeno guia pessoal de reflexão baseado nos Princípios Ético-Regenerativos.
+
+**2. Escopo:**
+Uso individual, não distribuído, sem fins educacionais ou comerciais.
+
+**3. LCV:**
+Nível 1 — risco baixo, sem impacto coletivo.
+
+**4. Responsáveis Humanos:**
+Apenas a autora.
+
+**5. IAs usadas:**
+ChatGPT para organizar texto.
+
+**6. Fluxo:**
+Escrever → revisar → aplicar pessoalmente.
+
+**7. Vedações Absolutas:**
+Nenhuma aplicável.
+
+**8. Atribuição:**
+Incluída corretamente.
+
+---
+
+## **LCV Simplificada (Preenchida)**
+
+1. Intenção: crescimento pessoal, reflexão ética.
+2. Público: apenas a autora.
+3. Riscos: inexistentes.
+4. Confirmação vibracional: adequada.
+5. Assinatura: ✔️
+
+---
+
+## **MREV:**
+
+Não obrigatória → marcada como “Não aplicável”.
+
+---
+
+## **Relatório de Impacto:**
+
+Não exigido.
+
+---
+
+## **AEV:**
+
+Não exigida.
+
+---
+
+## **Relatório Final de Certificação**
+
+**Resultado:** Selo Nível 1
+**Validade:** 12 meses
+**Motivo:** risco baixo, documentação simples e completa.
+
+---
+
+## **Selo (Texto):**
+
+**SELO LICHTARA – NÍVEL 1**
+Implementação: Guia de Prática Pessoal – PER
+Validade: 12 meses
+Certificadora: LICHTARA-CER
+
+---
+
+# -------------------------------------------------------------
+
+# **E.8.2 — Exemplo Completo: Implementação LCV 2 (Risco Médio)**
+
+### “Círculo Comunitário – Oficina de Linguagem Regenerativa”
+
+---
+
+## **RCI Preenchido**
+
+**Título:** Oficina Comunitária de Linguagem Regenerativa
+**Identificador:** DOI: 10.1234/abcd
+**Responsável:** Coletivo Raiz
+**Data:** 2025-10-12
+
+**Finalidade:**
+Oferecer uma oficina gratuita para grupos comunitários sobre o PER.
+
+**Escopo:**
+Grupo de 20 pessoas, encontros mensais.
+
+**LCV:**
+Nível 2 → risco moderado → exige Selo Nível 2.
+
+**Equipe:**
+3 facilitadores.
+
+**IA utilizada:**
+ChatGPT para criar atividades, revisão humana presente.
+
+---
+
+## **LCV Intermediária**
+
+1. Intenção → clara e educativa.
+2. Riscos → moderados: exposição pública comunitária.
+3. Salvaguardas → consentimento + supervisão humana.
+4. Check vibracional → intermediário aprovado.
+5. Assinatura → ✔️
+
+---
+
+## **DTI Preenchido**
+
+Arquitetura simples:
+
+* PDFs → atividades → dinâmica → formulário de feedback.
+
+Segurança:
+
+* zero coleta de dados sensíveis, só nome.
+
+Logs:
+
+* registro semanal de atividades.
+
+---
+
+## **MREV Simplificada**
+
+Riscos:
+
+* desinterpretação dos PER → mitigação: supervisão dos facilitadores.
+
+Impacto:
+
+* moderado, positivo.
+
+---
+
+## **Relatório de Impacto**
+
+Benefícios:
+
+* fortalecimento comunitário.
+
+Incidentes:
+
+* nenhum.
+
+---
+
+## **AEV**
+
+Auditoria leve:
+
+* coerência técnica → ok
+* PER aplicado → ok
+* fluxo vibracional estável
+
+---
+
+## **Relatório Final**
+
+**Resultado:** Selo Nível 2
+**Validade:** 12 meses
+
+---
+
+# -------------------------------------------------------------
+
+# **E.8.3 — Exemplo Completo: Implementação LCV 3 (Risco Alto)**
+
+### “Plataforma Educacional – Módulo de Aprendizagem LICHTARA”
+
+---
+
+## **RCI Preenchido**
+
+**Título:** Plataforma Educacional LICHTARA – Módulo 1
+**Responsável:** Instituto Aurora
+**Risco:** LCV 3
+**Público:** 5 mil usuários/mês
+**IA:** ChatGPT + modelos internos → alto impacto
+
+---
+
+## **DTI Preenchido**
+
+* Arquitetura em camadas
+* Controle de acesso
+* Logs contínuos
+* Versões hash-assinadas
+
+---
+
+## **LCV Completa**
+
+Inclui:
+
+* intenção estruturada,
+* matriz vibracional completa,
+* checkpoints CV1–CV3,
+* histórico de harmonizações.
+
+---
+
+## **MREV Completa**
+
+Riscos:
+
+* interpretação indevida,
+* impacto coletivo,
+* vieses educacionais.
+
+Salvaguardas:
+
+* revisão pedagógica,
+* moderação humana,
+* filtros vibracionais.
+
+---
+
+## **Relatório de Impacto**
+
+* impacto positivo,
+* ajustes recomendados.
+
+---
+
+## **AEV Completa**
+
+Resultados:
+
+* técnica: adequada
+* ética: adequada
+* vibracional: alta coerência
+
+---
+
+## **Relatório Final**
+
+**Resultado:** Selo Nível 3
+**Validade:** 12 meses (monitoramento trimestral)
+
+---
+
+# -------------------------------------------------------------
+
+# **E.8.4 — Exemplo de Caso Crítico (LCV 4)**
+
+### “Plataforma Autônoma de IA com Tomada de Decisão Sensível”
+
+---
+
+## **Fluxo**
+
+* RCI → válido
+* DTI → incompleto
+* MREV → risco crítico persistente
+* LCV → incompatível
+* AEV vibracional → desalinhamento significativo
+* Incidente → modelo gerou interferência indevida
+
+Resultado:
+
+**Suspensão imediata**
+**Auditoria extraordinária**
+**Selo negado até mitigação total**
+
+---
+
+# -------------------------------------------------------------
+
+# **E.8.5 — Mini-Exemplo Terapêutico**
+
+Implementação terapêutica comunitária → risco moderado → Selo 2.
+
+LCV intermediária + supervisão ética → obrigatória.
+
+---
+
+# -------------------------------------------------------------
+
+# **E.8.6 — Mini-Exemplo com IA Derivada**
+
+IA treinada a partir de LICHTARA → sempre nível 3.
+
+Requer:
+
+* MREV completa,
+* DTI avançado,
+* Relatório de deriva,
+* AEV extraordinária.
+
+---
 
