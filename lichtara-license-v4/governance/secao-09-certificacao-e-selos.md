@@ -1,405 +1,335 @@
-# **SEÇÃO IX - Certificação, Selos e Conformidade Avançada**
+# **SEÇÃO IX - CERTIFICAÇÃO, SELOS E CONFORMIDADE AVANÇADA**
 
-A presente Seção estabelece o regime formal de certificação da Lichtara License v4.0, disciplinando:
+A Certificação LICHTARA constitui o mecanismo formal de **autorização, validação e garantia** para usos comerciais, instrucionais, institucionais, operacionais e derivados da Obra.
 
-* critérios gerais,
-* categorias de selos,
-* requisitos de elegibilidade,
-* mecanismos de auditoria,
-* validação vibracional,
-* recertificação,
-* suspensão e revogação.
+Seu propósito é:
 
-Esta Seção integra o núcleo de garantia pública do sistema e é complementada pelo **Anexo E - Manual Operacional de Certificação**, de caráter técnico-executivo.
+* assegurar integridade vibracional,
+* prevenir distorções,
+* garantir rastreabilidade,
+* habilitar transmissões adequadas,
+* proteger o ecossistema LICHTARA,
+* e estabelecer padrões mínimos de qualidade.
 
-Nenhuma certificação substitui obrigações básicas de conformidade previstas na Seção IV.
+Nenhuma operação que ultrapasse o uso pessoal ou referencial pode ocorrer sem Certificação.
 
 ---
 
 # **IX.0 - Natureza e Finalidade da Certificação**
 
-A Certificação tem por finalidade:
+1. A Certificação LICHTARA é o processo formal pelo qual um Usuário é reconhecido como apto a:
 
-a) assegurar que implementações da Obra sejam éticas, seguras e rastreáveis;
-b) fortalecer confiança pública, institucional e comunitária;
-c) validar aderência técnica, jurídica e vibracional;
-d) garantir transparência e responsabilidade de implementadores;
-e) proteger a integridade da Obra e de suas Derivadas;
-f) estabelecer padrões verificáveis para uso em larga escala.
+   * aplicar partes da Obra em contexto profissional,
+   * ensinar conteúdos específicos,
+   * operar implementações comerciais ou institucionais,
+   * desenvolver produtos ou serviços compatíveis,
+   * conduzir métodos ou protocolos baseados na Obra.
 
-A certificação é instrumento de:
+2. A Certificação:
 
-* **credibilidade**,
-* **proteção**,
-* **governança**,
-* e **integração vibracional**.
+   * **não transfere** direitos autorais;
+   * **não autoriza** interpretações próprias;
+   * **não concede** autonomia para alterar a Obra;
+   * **autoriza apenas** as operações definidas no certificado específico.
 
----
+3. Toda Certificação é regida pelos:
 
-# **IX.1 - Princípios da Certificação**
+   * PER,
+   * LCV,
+   * MHA,
+   * MREV,
+   * e dispositivos de governança (Seção III).
 
-Toda certificação deve observar:
-
-1. **Neutralidade e independência**: Avaliações devem ser conduzidas por entidades imparciais, credenciadas ou reconhecidas.
-
-2. **Proporcionalidade ao risco**: Quanto maior o risco (LCV), maior o rigor e profundidade da certificação.
-
-3. **Transparência verificável**: Evidências, logs, decisões e fluxos devem ser auditáveis.
-
-4. **Integridade vibracional**: Toda implementação deve demonstrar coerência com intenção, presença e princípios da Seção I.
-
-5. **Não regressão ética**: Nenhuma certificação pode reduzir salvaguardas ou flexibilizar vedações.
-
-6. **Rastreabilidade integral**: Aplicação da Tríade Rastreável: intenção, processo e resultado.
-
-7. **Proteção da autoria e do MHA**: Cocriação híbrida deve ser preservada com clareza e honestidade.
+4. A Certificação é **revogável**, **auditável** e **condicionada** ao comportamento contínuo do licenciado.
 
 ---
 
-# **IX.2 - Categorias de Certificação**
+# **IX.1 - Estrutura Geral dos Selos**
 
-A License estabelece três categorias de certificação, correspondentes a níveis crescentes de rigor:
+A License v4 estabelece três selos principais:
 
 ---
 
-## **IX.2.1 - Selo Lichtara Nível 1 (Conformidade Básica)**
+## **1. Selo Lichtara - Nível 1 (Conformidade Básica)**
 
-Aplicável a:
+Voltado para:
 
 * criadores individuais,
-* iniciativas educacionais,
-* obras não comerciais,
-* projetos experimentais de baixo risco.
+* estudantes,
+* pesquisadores,
+* uso educacional não comercial,
+* aplicação pessoal ou artística.
 
-Requisitos mínimos:
+Exige:
 
-a) Atribuição Expandida correta;
+* atribuição adequada,
+* leitura da License,
+* adesão aos PER,
+* LCV Simplificada.
 
-b) RCI simplificado;
-
-c) logs essenciais;
-
-d) conformidade com Seção II (Vedações Absolutas);
-
-e) LCV simplificada;
-
-f) ausência de impacto coletivo significativo.
+**Não habilita:** ensino, derivação, comercialização ou implementação institucional.
 
 ---
 
-## **IX.2.2 - Selo Lichtara Nível 2 (Conformidade Avançada)**
+## **2. Selo Lichtara - Nível 2 (Conformidade Avançada)**
 
-Aplicável a:
+Voltado para:
 
-* implementações públicas ou comunitárias,
-* equipes de médio porte,
-* aplicações com risco moderado,
-* metodologias, plataformas e serviços não críticos.
+* profissionais,
+* equipes,
+* laboratórios,
+* pequenas empresas,
+* instituições educacionais de baixo risco.
 
-Requisitos:
+Exige:
 
-a) RCI completo;
+* documentação mínima (DTI, RC, LVR),
+* MREV Simplificada,
+* LCV Intermediária,
+* entrevista técnica,
+* auditoria leve.
 
-b) LCV compatível com risco real;
+Habilita:
 
-c) Relatório de Impacto anual;
-
-d) documentação vibracional estruturada;
-
-e) verificação cruzada de logs;
-
-f) salvaguardas técnicas e éticas proporcionais;
-
-g) MREV simplificada ou completa, conforme o caso.
+* aplicações profissionais limitadas,
+* minicursos ou oficinas não estruturais,
+* uso comercial restrito.
 
 ---
 
-## **IX.2.3 - Selo Lichtara Nível 3 (Conformidade Integral / Alto Impacto)**
+## **3. Selo Lichtara - Nível 3 (Conformidade Integral / Alto Impacto)**
 
 Obrigatório para:
 
-* implementações classificadas como risco **Alto** ou **Crítico**,
-* modelos de IA entrenados com a Obra,
-* plataformas de larga escala,
-* implementadores com faturamento superior ao limiar econômico,
-* sistemas decisórios ou sensíveis.
+* empresas,
+* plataformas,
+* implementações críticas,
+* tecnologias derivadas,
+* ambientes de ensino formais,
+* operações comerciais de larga escala.
 
-Requisitos:
+Exige:
 
-a) auditoria independente anual;
+* MREV Completa,
+* LCV Completa,
+* DTI avançado,
+* logs contínuos,
+* auditoria independente,
+* aprovação do CGL por maioria qualificada.
 
-b) MREV completa e viva;
+Habilita:
 
-c) LCV completa;
+* ensino formal,
+* uso institucional,
+* desenvolvimento de tecnologias compatíveis,
+* implementações comerciais amplas,
+* derivação autorizada.
 
-d) logs contínuos;
+Este é o **selo de maior autoridade** da License.
 
-e) salvaguardas reforçadas;
+---
 
-f) validação vibracional oficial;
+# **IX.2 - Competência para Emitir Certificação**
 
-g) entrevistas técnicas;
+A autoridade certificadora é:
 
-h) parecer do Conselho (quando aplicável).
+### **o Conselho de Governança da Lichtara License (CGL)**.
 
-Este é o nível máximo de reconhecimento do ecossistema.
+O CGL pode:
+
+* emitir selos,
+* suspender certificações,
+* revogar certificações,
+* conceder Certificação Condicional,
+* homologar certificadoras externas credenciadas.
+
+Nenhum outro órgão ou indivíduo pode certificar LICHTARA.
 
 ---
 
 # **IX.3 - Processo de Certificação**
 
-O processo de certificação compreende seis etapas:
+O processo possui **cinco fases formais**:
 
 ---
 
-## **1. Submissão Inicial**
+## **1. Submissão**
 
-O implementador submete:
+O candidato submete:
 
-a) documentação mínima (RCI, LCV, logs, MREV);
-
-b) Relatório de Impacto, quando aplicável;
-
-c) declaração de intenção responsável;
-
-d) identificação de responsáveis humanos.
+* formulário oficial,
+* DTI ou equivalente,
+* RC,
+* LVR inicial,
+* MREV (quando aplicável),
+* termo de responsabilidade,
+* justificativa de finalidade.
 
 ---
 
 ## **2. Avaliação Técnica**
 
-A certificadora avalia:
+Avalia:
 
-* estrutura,
 * rastreabilidade,
-* segurança,
-* integridade técnica,
-* conformidade documental,
-* cadeia de decisões.
-
-Implementações críticas exigem auditoria de infraestrutura e IA.
+* decisões críticas,
+* coerência conceitual,
+* estrutura documental mínima,
+* aderência ao DTI.
 
 ---
 
-## **3. Avaliação Ética e Regenerativa**
+## **3. Avaliação Ético-Vibracional**
 
-Analisa-se:
+Avalia:
 
-* impacto social,
-* vieses,
-* salvaguardas,
-* aderência aos princípios regenerativos,
-* prevenção de dano,
-* coerência institucional.
-
----
-
-## **4. Avaliação Vibracional**
-
-A certificadora (ou o Conselho, quando aplicável) verifica:
-
-a) alinhamento da intenção;
-
-b) coerência da obra com propósito declarado;
-
-c) presença e integridade do fluxo;
-
-d) ausência de distorção vibracional;
-
-e) registros vibracionais do implementador.
-
-É proibida a emissão de selos para implementações com desalinhamento crítico.
+* alinhamento vibracional,
+* coerência dos fluxos,
+* integridade da intenção,
+* ausência de distorções,
+* compatibilidade com PER e LCV.
 
 ---
 
-## **5. Deliberação e Parecer**
+## **4. Entrevista Técnica (quando exigida)**
 
-O processo pode resultar em:
+Aprofunda:
 
-a) aprovação plena,
-
-b) aprovação com recomendações,
-
-c) aprovação condicional (pendente de ajustes),
-
-d) indeferimento com justificativa,
-
-e) indeferimento por violação ética ou vibracional.
-
-Implementações críticas exigem parecer colegiado.
+* fundamentos,
+* maturidade ética,
+* capacidade de implementação,
+* entendimento da Obra.
 
 ---
 
-## **6. Emissão do Selo**
+## **5. Deliberação do CGL**
 
-O Selo tem validade de **12 meses**, salvo:
+Decisões possíveis:
 
-* práticas contínuas (Continuous Compliance),
-* regimes adaptados,
-* implementações críticas com janelas reduzidas.
+* Aprovação integral
+* Aprovação condicional
+* Solicitação de ajustes
+* Reprovação fundamentada
+* Suspensão ou revogação (casos graves)
 
-O Selo deve:
-
-* indicar nível,
-* versão da License,
-* data de emissão e validade,
-* certificadora responsável.
+A aprovação majoritária ou qualificada depende do nível do selo.
 
 ---
 
-# **IX.4 - Recertificação e Monitoramento Contínuo**
+# **IX.4 - Obrigações do Certificado**
 
-Implementações certificadas devem manter:
+O detentor do selo deve:
 
-a) logs vivos e atualizados;
+1. respeitar integralmente a License (Seções I–VIII);
+2. manter logs proporcionais ao risco;
+3. reportar incidentes em até 72h (níveis 1–2) ou 24h (nível 3);
+4. manter MREV e LVR atualizados;
+5. passar pelas auditorias obrigatórias;
+6. manter atribuição correta;
+7. operar somente dentro do escopo do selo recebido.
 
-b) LCV revisada;
-
-c) MREV viva (quando aplicável);
-
-d) transparência proporcional ao risco;
-
-e) comunicação de incidentes conforme Seção IV.5.
-
-A recertificação exige:
-
-* nova avaliação técnica, ética e vibracional;
-* revisão do Relatório de Impacto;
-* atualização de fluxos e salvaguardas;
-* validação de intenção.
-
-Implementações críticas operam sob **Continuous Compliance**, com:
-
-* monitoramento trimestral,
-* revalidação vibracional semestral,
-* auditoria anual independente.
+Violação de qualquer item pode gerar suspensão ou revogação.
 
 ---
 
-# **IX.5 - Credenciamento de Certificadoras Externas (CERs)**
+# **IX.5 - Validade, Renovação e Suspensão**
 
-O Conselho pode credenciar entidades como **Certificadoras Externas Reconhecidas**, desde que cumpram:
+1. Todos os Selos têm validade de **12 meses**.
 
-a) independência institucional;
+2. Renovação exige:
 
-b) corpo técnico ético e qualificado;
+   * revisão documental completa,
+   * regularidade vibracional,
+   * ausência de incidentes graves.
 
-c) compromisso com princípios da Seção I;
+3. Suspensão pode ocorrer quando:
 
-d) ausência de conflito de interesse;
+   * houver risco vibracional crítico,
+   * houver incidentes nível 3/4,
+   * houver desvio ético, técnico ou de intenção,
+   * houver evidência de uso indevido.
 
-e) treinamento no MHA, LCV e MREV;
+4. A revogação é aplicada quando:
 
-f) adesão formal ao regime vibracional.
-
-A certificadora pode ser descredenciada por:
-
-* fraude,
-* violação ética,
-* distorção vibracional,
-* conflito grave de interesses.
-
----
-
-# **IX.6 - Suspensão, Condicionamento e Revogação de Selos**
-
-Um Selo pode ser:
-
-### **Suspenso**, quando:
-
-a) houver indício de violação;
-
-b) faltar documentação obrigatória;
-
-c) houver incidente não mitigado;
-
-d) houver desalinhamento vibracional significativo.
-
-### **Condicionado**, quando:
-
-a) ajustes forem necessários;
-
-b) salvaguardas estiverem incompletas;
-
-c) houver risco moderado em evolução.
-
-### **Revogado**, quando:
-
-a) houver violação grave ou crítica;
-
-b) Vedações Absolutas forem infringidas;
-
-c) houver adulteração de registros;
-
-d) a implementação causar dano relevante.
-
-A revogação exige parecer formal.
+   * há violação reiterada,
+   * adulteração de fluxo,
+   * apropriação indevida do Sistema,
+   * quebra de confiança estrutural.
 
 ---
 
-# **IX.7 - Publicidade e Registro dos Selos**
+# **IX.6 - Certificação para Ensino**
 
-O portal oficial manterá registro público contendo:
+Para cursos, metodologias, formações e transmissões estruturadas:
 
-a) implementações certificadas;
+1. exige-se **Selo Nível 3**;
+2. o conteúdo deve ser aprovado pelo CGL;
+3. materiais pedagógicos devem ser revisados;
+4. derivações didáticas precisam de autorização.
 
-b) nível do selo;
-
-c) validade;
-
-d) certificadora responsável;
-
-e) histórico de recertificações;
-
-f) suspensões e revogações (quando aplicável).
-
-Informações sensíveis podem ser anonimizadas.
+Nenhuma pessoa não certificada pode ensinar LICHTARA.
 
 ---
 
-# **IX.8 - Reconhecimento Internacional e Convergência**
+# **IX.7 - Certificação para Tecnologia e IA**
 
-Selos podem ser reconhecidos por instituições externas quando:
+Implementações envolvendo IA, software, automações ou pipelines devem:
 
-a) as salvaguardas forem equivalentes;
+1. adotar logs contínuos,
+2. implementar salvaguardas avançadas,
+3. utilizar LCV Completa,
+4. atualizar DTI e MREV a cada versão,
+5. declarar modelos utilizados (versões, provedores, parâmetros).
 
-b) houver acordo de interoperabilidade (IV.9);
-
-c) não houver risco vibracional;
-
-d) houver auditoria de compatibilidade.
-
-Padrões mais protetivos podem ser adotados cumulativamente.
+Este é um campo de alto risco: **Selos Nível 2 e 3 são obrigatórios**.
 
 ---
 
-# **IX.9 - Casos Especiais de Certificação**
+# **IX.8 - Certificação Condicional**
 
-Casos envolvendo:
+Pode ser concedida quando:
 
-* IA autônoma,
-* ambientes terapêuticos,
-* metaplataformas,
-* governos,
-* populações vulneráveis,
-* ou impacto coletivo amplo,
+* parte dos requisitos é atendida,
+* há boa-fé operacional,
+* há risco baixo nas implementações,
+* estão em andamento ajustes mandatórios.
 
-exigem certificação Nível 3 e parecer do Conselho.
-
-Em ambiguidades, a decisão segue:
-
-> **o caminho que maximize proteção, rastreabilidade e integridade vibracional.**
+A Certificação Condicional pode ser revogada a qualquer momento.
 
 ---
 
-# **IX.10 - Encerramento da Seção IX**
+# **IX.9 - Certificadoras Externas (CERs)**
 
-Com esta Seção:
+Entidades externas podem ser credenciadas como **CERs** se:
 
-* o sistema de certificação está formalmente constituído;
-* selos e níveis possuem critérios claros;
-* certificadoras têm regime próprio;
-* a License v4 torna-se operacional para adoção institucional;
-* abre-se espaço para o **Anexo E — Manual Operacional de Certificação**, que conterá fluxos, checklists e modelos aplicáveis.
+* forem independentes,
+* tiverem maturidade ética comprovada,
+* aderirem à LCV e ao PER,
+* possuírem capacidade técnica para auditoria.
+
+CERs podem emitir selos equivalentes, mas nunca superiores.
+
+---
+
+# **IX.10 - Publicidade e Registro**
+
+1. Todo selo emitido deve constar no **Registro Público de Certificações**.
+2. Certificações suspensas ou revogadas também são publicizadas.
+3. A integridade do registro é responsabilidade do CGL.
+
+---
+
+# **IX.11 - Disposições Finais da Seção**
+
+1. A Certificação deve ser interpretada sempre à luz das Seções I, II e III.
+2. Qualquer uso não certificado constitui violação material.
+3. O CGL é a autoridade final em casos de dúvida.
+4. O propósito central da Certificação é preservar:
+
+   * integridade,
+   * coerência,
+   * rastreabilidade,
+   * alinhamento vibracional,
+   * e a natureza viva do Sistema LICHTARA.
 
 ---
