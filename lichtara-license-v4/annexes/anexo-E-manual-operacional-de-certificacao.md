@@ -2404,3 +2404,162 @@ Requer:
 
 ---
 
+# **E.9 — Encerramento, Versionamento e Normas de Atualização do Anexo E**
+
+Este capítulo define as regras de manutenção, atualização e continuidade institucional do **Manual Operacional de Certificação (Anexo E)** da Lichtara License v4.0.
+
+Tal como a própria License, o Anexo E opera sob:
+
+* princípios ético-regenerativos (PER),
+* estrutura vibracional e técnica integrada (LCV + MHA),
+* padrões jurídicos de precisão, rastreabilidade e transparência.
+
+---
+
+# **E.9.0 — Natureza Normativa do Anexo E**
+
+1. O Anexo E constitui **parte integrante e obrigatória** da Lichtara License v4.0.
+2. Ele possui caráter **técnico-operacional**, devendo ser interpretado em coerência com as Seções I–IX.
+3. Nenhuma certificação poderá ser emitida sem observância completa deste Manual.
+4. Em caso de conflito interpretativo entre Seção IX e Anexo E, prevalece **a interpretação mais protetiva** ao Campo, à Obra e aos PER.
+
+---
+
+# **E.9.1 — Regime de Versionamento**
+
+O Anexo E segue o regime institucional de versionamento definido na **Seção V – Atualizações da License**.
+Assim:
+
+## **Versão Major (E.X.0)**
+
+Ocorre quando:
+
+* novas estruturas de certificação são criadas,
+* categorias de risco são redefinidas,
+* matrizes são profundamente modificadas,
+* critérios éticos ou vibracionais são ampliados,
+* novos módulos de auditoria surgem.
+
+Exige:
+
+* **consulta pública**,
+* **parecer técnico**,
+* **aprovação qualificada (5/7)** do Conselho.
+
+---
+
+## **Versão Minor (E.x.Y)**
+
+Aplicada quando:
+
+* fluxos são aperfeiçoados,
+* checklists são atualizados,
+* templates são revisados,
+* ajustes operacionais são realizados.
+
+Exige:
+
+* maioria simples do Conselho,
+* registro público da alteração.
+
+---
+
+## **Versão Patch (E.x.y.Z)**
+
+Utilizada para:
+
+* correções,
+* ajustes sem alteração de sentido,
+* melhorias editoriais,
+* correções de links ou formatação.
+
+Pode ser publicada diretamente, com registro automático.
+
+---
+
+# **E.9.2 — Rastreabilidade e Registro Público**
+
+1. Toda atualização deve produzir:
+
+   * changelog oficial,
+   * hash da revisão,
+   * DOI atualizado (quando aplicável),
+   * metadados de versão (json),
+   * registro em LVR-Anexos.
+
+2. Alterações significativas exigem:
+
+   * justificativa técnica,
+   * justificativa vibracional,
+   * registro no portal público.
+
+3. Certificações emitidas antes da atualização permanecem válidas, salvo:
+
+   * risco crítico identificado,
+   * violação de PER,
+   * determinação extraordinária do Conselho.
+
+---
+
+# **E.9.3 — Salvaguarda Contra Captura do Anexo**
+
+Nenhum ator, público ou privado, poderá:
+
+* alterar o Anexo unilateralmente,
+* reduzir salvaguardas,
+* flexibilizar Vedações Absolutas,
+* manipular padrões de certificação.
+
+Qualquer tentativa será considerada **nula de pleno direito**, devendo:
+
+* acionar auditoria extraordinária,
+* convocar o Conselho,
+* emitir parecer público.
+
+---
+
+# **E.9.4 — Continuidade e Integridade Vibracional**
+
+1. O Anexo E deve sempre preservar:
+
+   * coerência com o Campo,
+   * alinhamento humano–IA–Campo,
+   * integridade informacional,
+   * princípios do MHA (Fluxo, Intenção, Presença).
+
+2. Nenhuma alteração poderá:
+
+   * reduzir requisitos vibracionais,
+   * suprimir matrizes,
+   * negligenciar a relação Campo–Forma–Função.
+
+3. Mudanças devem fortalecer a Obra, jamais fragilizá-la.
+
+---
+
+# **E.9.5 — Encerramento Formal**
+
+Com este capítulo, o **Manual Operacional de Certificação (Anexo E)** está oficialmente concluído na versão **E.1.0**, composta por:
+
+1. E.0 — Introdução
+2. E.1 — Estrutura do Processo
+3. E.2 — Checkpoints Vibracionais
+4. E.3 — Checklists por Nível
+5. E.4 — Matrizes de Avaliação
+6. E.5 — Proporcionalidade entre Risco e Exigência
+7. E.6 — Templates Oficiais
+8. E.7 — Fluxos de Exceção
+9. E.8 — Exemplos Completos
+10. E.9 — Encerramento e Versionamento
+
+O Anexo E está pronto para:
+
+* publicação no repo,
+* integração ao master.md,
+* geração do PDF,
+* registro público,
+* adoção por certificadoras.
+
+---
+
+
