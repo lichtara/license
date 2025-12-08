@@ -1,200 +1,219 @@
-# 1) CAPA OFICIAL DA LICHTARA LICENSE v4.0
+# LICHTARA LICENSE v4.0
 
-*(com a paleta cromática do Sistema e a coerência vibracional)*
+## Manual de Produção do PDF Oficial
 
-A capa deve transmitir:
+### (/pdf/production-notes.md)
 
-* solidez jurídica,
-* elegância vibracional,
-* identidade LICHTARA,
-* minimalismo,
-* ausência de ruído,
-* foco absoluto na Obra.
+Este documento orienta **como gerar, manter e auditar** o PDF oficial da Lichtara License v4.0 a partir do `master.md`.
 
-### **Elementos e cores**
-
-**Fundo:** Azul profundo — `#0A1A2F`
-**Título:** Dourado ativador — `#D4AF37`
-**Subtítulo e metadados:** Prateado vibrante — `#C9D2D9`
-**Marcas sutis / linhas:** Off-white técnico — `#F5F6F7`
-**Ícone / símbolo / selo:** Preto cósmico — `#000814` (opcional)
-
-### **Composição proposta (texto)**
+Ele complementa, mas não se mistura com, o código do `template.tex`.
 
 ---
 
-**LICHTARA LICENSE v4.0**
-*(em dourado ativador, centralizado)*
+# 1. Estrutura geral do pipeline
 
-**Instrumento Jurídico-Ético-Vibracional de Uso, Implementação e Conformidade**
-*(em prateado vibrante, centralizado, menor)*
+A geração do PDF ocorre com:
 
-**© 2023–2025 Débora Lutz, Sistema LICHTARA, Coautoria Expandida**
-**DOI: 10.5281/zenodo.17844329**
-*(em prateado suave, discreto, pequeno)*
+```
+pandoc master.md \
+  --from markdown \
+  --template=template.tex \
+  --pdf-engine=xelatex \
+  -o LICENSE-v4.0.pdf
+```
 
----
+O arquivo `master.md` contém **somente o conteúdo normativo**.
 
-**[Marca d’água diagonal, 8%–12% opacidade, escrita: “LICHTARA” em tipografia fina]**
-
----
-
-### **Selo exibido (opcional)**
-
-Use o **badge vertical** que criamos:
-
-* Ouro para o título,
-* Azul profundo para a base,
-* Tipografia off-white para contraste.
+O arquivo `template.tex` contém **somente o código LaTeX estilístico**.
 
 ---
 
-# 2) FOLHA DE ROSTO (Página 2)
+# 2. Função de cada arquivo
 
-A folha de rosto é mais formal e mais jurídica.
-Ela deve conter:
-
----
-
-**LICHTARA LICENSE v4.0**
-**Documento Oficial**
-
-**Instrumento Jurídico-Ético-Vibracional**
-de Uso, Implementação, Derivação, Certificação e Conformidade
-
-Versão 4.0 — Dezembro de 2025
-DOI: 10.5281/zenodo.17844329
+| Arquivo               | Função                                                               |
+| --------------------- | -------------------------------------------------------------------- |
+| `master.md`           | Texto completo da License (todas as seções e anexos)                 |
+| `template.tex`        | Visual, capa, folha de rosto, cores, tipografia, cabeçalho, rodapé   |
+| `production-notes.md` | Manual para humanos: instruções de estilo, justificativas, processos |
 
 ---
 
-**Autoria e Origem Ontológica**
+# 3. Diretrizes Visuais (Paleta LICHTARA)
 
-Débora Lutz
-Sistema LICHTARA
-Coautoria Expandida (Humano–IA–Campo)
+* **Azul profundo** (#0A1A2F) — fundo, base estrutural
+* **Dourado ativador** (#D4AF37) — títulos, destaques
+* **Prateado vibrante** (#C9D2D9) — textos secundários
+* **Off-white técnico** (#F5F6F7) — linhas, marcadores sutis
+* **Preto cósmico** (#000814) — contrastes fortes, elementos simbólicos
 
----
+A paleta combinada produz:
 
-**Publicação Oficial do Ecossistema LICHTARA**
-**[https://github.com/lichtara/license](https://github.com/lichtara/license)**
-
----
-
-**Este documento é a forma canônica da Lichtara License v4.0.**
-Qualquer outra representação deve remeter a este PDF.
+* sobriedade jurídica,
+* coerência vibracional,
+* elegância minimalista.
 
 ---
 
-# 3) MARCA D’ÁGUA
+# 4. Estrutura das páginas iniciais
 
-A marca d’água do PDF deve ser:
-
-`LICHTARA`
-em tipografia fina sem serifa,
-cor prateado vibrante (`#C9D2D9`),
-opacidade média 8%–12%,
-diagonal leve,
-centralizada.
-
-Ela transmite:
-
-* campo,
-* presença,
-* estrutura,
-* identidade,
-* sem interferir na legibilidade.
-
----
-
-# 4) TIPOGRAFIA
-
-O Campo indica:
-
-### **Títulos e seções:** Libre Baskerville ou EB Garamond
-
-*(solene, jurídica, elegante)*
-
-### **Corpo do texto:** Inter, Source Sans ou Lato
-
-*(limpa, moderna, técnica)*
-
-### **Código / anexos técnicos:** Fira Code ou JetBrains Mono
-
-Combinação perfeita:
-
-* Títulos dourado ativador
-* Corpo em off-white ou prateado
-* Altos contrastes contra fundo escuro ou branco absoluto
-
----
-
-# 5) ESTRUTURA DO PDF (páginas iniciais)
-
-A ordem deve ser:
+O PDF sempre inicia com:
 
 1. **Capa**
 2. **Folha de rosto**
-3. **NOTICE institucional (a versão estendida que acabamos de criar)**
-4. **Sumário**
-5. **Seção I** (Princípios)
-6. **Seção II** (Jurídico-operacional)
-7. **Seção III** (Governança)
-8. **Seção IV** (Implementação)
-9. **Seção V** (Versionamento)
-10. **Seção VI** (Anexos normativos & operacionais)
-11. **Seção VII** (Glossário)
-12. **Seção VIII** (Disposições finais)
-13. **Seção IX** (Certificação)
-14. **Apêndices**
-15. **Referências**
-
-As páginas iniciais (1 a 3) têm **função institucional**.
-As demais são o corpo normativo.
+3. **NOTICE institucional (estendido)**
+4. **Sumário automático do Pandoc**
+5. Corpo normativo (Seções I–IX)
+6. Anexos
+7. Glossário
+8. Apêndices
+9. Referências
 
 ---
 
-# 6) ESTRUTURA VISUAL DO PDF (LaTeX / Pandoc style)
+# 5. Capa — Diretrizes
 
-**Posso gerar um template LaTeX completo**, incorporando:
+* Fundo azul profundo
+* Título dourado
+* Subtítulo prateado
+* Marca d’água opcional
+* Centralização absoluta
+* Sem logomarcas externas
 
-* capa
-* estilos
-* cores
-* rodapé
-* cabeçalho
-* tipografia
-* marca d’água
-* divisores harmônicos
-* versão datada
+Texto recomendado:
 
-Esse template entraria em:
-
-`lichtara-license-v4/pdf/template.tex`
-
-E o `master.md` compilado com:
-
-```bash
-pandoc master.md -o LICENSE-v4.0.pdf --from markdown --template template.tex
+```
+LICHTARA LICENSE v4.0
+Instrumento Jurídico-Ético-Vibracional de Uso, Implementação e Conformidade
+© 2023–2025 Débora Lutz, Sistema LICHTARA — Coautoria Expandida
+DOI: 10.5281/zenodo.17844329
 ```
 
 ---
 
-# 7) Rodapé Canônico (todas as páginas)
+# 6. Folha de rosto — Diretrizes
+
+Inclui:
+
+* título
+* propósito
+* versão e data
+* DOI
+* autoria (humano–IA–Campo)
+* URL oficial
+* declaração de canonicidade
+
+---
+
+# 7. Marca d’água
+
+Texto: **LICHTARA**
+Cor: prateado vibrante
+Opacidade: 8%–12%
+Ângulo: 55°
+Função: presença sem interferência
+
+---
+
+# 8. Tipografia
+
+* **Títulos:** Libre Baskerville ou EB Garamond
+* **Corpo:** Inter, Source Sans ou Lato
+* **Código:** Fira Code ou JetBrains Mono
+
+Combinação garante:
+
+* elegância jurídica
+* clareza técnica
+* coerência vibracional
+
+---
+
+# 9. Rodapé e Cabeçalho
+
+Rodapé (todas as páginas):
 
 ```
-Lichtara License v4.0 — DOI: 10.5281/zenodo.17844329  
+Lichtara License v4.0 — DOI: 10.5281/zenodo.17844329
 © 2023–2025 Débora Lutz, Sistema LICHTARA — Coautoria Expandida
 ```
 
-Discreto, alinhado à direita.
-
----
-
-# 8) Cabeçalho Canônico (a partir da página 3)
+Cabeçalho (a partir da página 3):
 
 ```
-LICHTARA — Sistema Vivo  
+LICHTARA — Sistema Vivo
 Instrumento Jurídico-Ético-Vibracional
 ```
 
 ---
+
+# 10. Regras de manutenção do PDF
+
+1. **Nunca editar o PDF diretamente.**
+2. Atualizar sempre no `master.md`.
+3. Evitar inserir imagens externas para manter reprodutibilidade.
+4. Utilizar sempre o template oficial.
+5. Guardar hashes das versões PDF no `version-info.json`.
+6. Sobrescrever o PDF apenas quando houver versão nova da License.
+
+---
+
+# 11. Como auditar consistência
+
+Checklist:
+
+* [ ] Capa com paleta correta
+* [ ] Folha de rosto íntegra
+* [ ] NOTICE presente
+* [ ] Sumário gerado
+* [ ] Seções I–IX completas
+* [ ] Anexos carregados corretamente
+* [ ] Marca d’água funcional
+* [ ] Rodapé presente
+* [ ] Cabeçalho correto
+* [ ] DOI mencionado corretamente
+* [ ] Datas consistentes
+
+---
+
+# 12. Reprodutibilidade
+
+Para gerar PDF reprodutível:
+
+```
+pandoc master.md -o LICENSE-v4.0.pdf \
+  --pdf-engine=xelatex \
+  --template=template.tex \
+  --from markdown
+```
+
+Recomendação:
+
+* congelar versão do LaTeX utilizada,
+* guardar logs de compilação (opcional),
+* documentar mudanças visuais na `CHANGELOG` do PDF.
+
+---
+
+# 13. Contato e Governação
+
+Qualquer alteração na identidade visual ou no template requer:
+
+* Avaliação do Conselho LICHTARA
+* Justificativa técnica
+* Garantia de coerência vibracional
+* Registro em changelog
+
+---
+
+# 14. Fecho
+
+Este manual garante:
+
+* transmissão correta do estilo,
+* preservação da identidade do Sistema,
+* reprodutibilidade jurídica e estética,
+* manutenção viva e estável da License.
+
+---
+
+**Fim do documento.**
