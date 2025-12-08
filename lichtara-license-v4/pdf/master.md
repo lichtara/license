@@ -18,6 +18,10 @@ header-includes:
 
 ---
 
+\newpage
+\include{../NOTICE}
+\newpage
+
 # **PREÂMBULO**
 
 \include{../versoes/v4.0/preambulo.md}
@@ -135,3 +139,5 @@ header-includes:
 * Versões anteriores (arquivo histórico)  
 * Diagramas, tabelas e fluxos  
 * Documentos auxiliares do Conselho  
+
+---

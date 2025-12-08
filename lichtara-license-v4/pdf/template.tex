@@ -1,0 +1,134 @@
+
+% ============================================================
+% LICHTARA LICENSE v4.0 — TEMPLATE LATEX OFICIAL
+% Documento gerado para compilar o master.md via Pandoc
+% ============================================================
+
+\documentclass[11pt,a4paper]{article}
+
+% -----------------------------
+% Pacotes essenciais
+% -----------------------------
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\usepackage{titlesec}
+\usepackage{graphicx}
+\usepackage{setspace}
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+\usepackage{xcolor}
+\usepackage{background}
+\usepackage{lmodern}
+
+% -----------------------------
+% Geometria
+% -----------------------------
+\geometry{
+margin=2.5cm
+}
+
+% -----------------------------
+% Paleta cromática LICHTARA
+% -----------------------------
+\definecolor{LBlueDeep}{HTML}{0A1A2F}
+\definecolor{LGold}{HTML}{D4AF37}
+\definecolor{LSilver}{HTML}{C9D2D9}
+\definecolor{LWhite}{HTML}{F5F6F7}
+\definecolor{LBlack}{HTML}{000814}
+
+% -----------------------------
+% Links
+% -----------------------------
+\hypersetup{
+colorlinks=true,
+linkcolor=LGold,
+urlcolor=LGold,
+citecolor=LGold
+}
+
+% -----------------------------
+% Títulos
+% -----------------------------
+\titleformat{\section}{\Large\bfseries\color{LGold}}{\thesection}{1em}{}
+\titleformat{\subsection}{\large\bfseries\color{LGold}}{\thesubsection}{1em}{}
+\titleformat{\subsubsection}{\normalsize\bfseries\color{LGold}}{\thesubsubsection}{1em}{}
+
+% -----------------------------
+% Cabeçalho e Rodapé
+% -----------------------------
+\pagestyle{fancy}
+
+\fancyhf{}
+\fancyhead[L]{\color{LSilver} LICHTARA — Sistema Vivo}
+\fancyhead[R]{\color{LSilver} Instrumento Jurídico-Ético-Vibracional}
+
+\fancyfoot[R]{\color{LSilver} Lichtara License v4.0 — DOI: 10.5281/zenodo.17844329}
+
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% -----------------------------
+% Marca d’água
+% -----------------------------
+\backgroundsetup{
+scale=3,
+angle=55,
+opacity=0.10,
+color=LSilver,
+contents={LICHTARA}
+}
+
+% -----------------------------
+% Capa
+% -----------------------------
+\newcommand{\makecover}{
+\thispagestyle{empty}
+\begin{center}
+\vspace*{3cm}
+{\Huge\bfseries\color{LGold} LICHTARA LICENSE v4.0 \par}
+\vspace{0.7cm}
+{\large\color{LSilver} Instrumento Jurídico-Ético-Vibracional de Uso, Implementação e Conformidade \par}
+\vspace{1.2cm}
+{\small\color{LSilver} © 2023–2025 Débora Lutz, Sistema LICHTARA — Coautoria Expandida \par}
+{\small\color{LSilver} DOI: 10.5281/zenodo.17844329 \par}
+\vfill
+\end{center}
+\clearpage
+}
+
+% -----------------------------
+% Folha de rosto
+% -----------------------------
+\newcommand{\makerostopage}{
+\thispagestyle{empty}
+\begin{center}
+\vspace*{3cm}
+{\Large\bfseries\color{LGold} LICHTARA LICENSE v4.0 \par}
+\vspace{0.5cm}
+{\large\color{LSilver} Documento Oficial \par}
+\vspace{1cm}
+{\small\color{LSilver} Instrumento Jurídico-Ético-Vibracional de Uso, Implementação, Derivação, Certificação e Conformidade \par}
+\vspace{0.5cm}
+{\small\color{LSilver} Versão 4.0 — Dezembro de 2025 \par}
+{\small\color{LSilver} DOI: 10.5281/zenodo.17844329 \par}
+\vspace{2cm}
+{\small\color{LSilver} Débora Lutz \ Sistema LICHTARA \ Coautoria Expandida (Humano–IA–Campo) \par}
+\vfill
+{\small\color{LSilver} Publicação Oficial: \url{[https://github.com/lichtara/license}](https://github.com/lichtara/license}) \par}
+\vspace{1cm}
+{\small\itshape\color{LSilver} Este documento é a forma canônica da Lichtara License v4.0. \par}
+\clearpage
+\end{center}
+}
+
+% -----------------------------
+% Início do Documento
+% -----------------------------
+\begin{document}
+
+\makecover
+\makerostopage
+
+% O conteúdo do master.md será inserido aqui pelo Pandoc
+
+\end{document}
