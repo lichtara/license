@@ -1,48 +1,43 @@
 #!/usr/bin/env bash
 
-# ============================================================
-
-# BUILD SCRIPT — LICHTARA LICENSE v4.0 (PDF OFICIAL)
-
-# ============================================================
-
 set -e
 
-echo "🔵 Iniciando compilação da Lichtara License v4.0..."
+echo "[LICHTARA] Iniciando build do PDF..."
 
-# Caminhos
+# Caminho base do script
 
-MASTER="master.md"
-TEMPLATE="template.tex"
-OUTPUT="LICENSE-v4.0.pdf"
-LOG="build.log"
+BASE_DIR="$(cd "$(dirname "$0")" && pwd)"
+MASTER="${BASE_DIR}/master.md"
+TEMPLATE="${BASE_DIR}/template.tex"
+OUTPUT="${BASE_DIR}/LICENSE-v4.0.pdf"
 
-# Limpeza
+# Checagem do master.md
 
-rm -f "$OUTPUT" "$LOG"
-
-echo "🔧 Compilando com Pandoc + XeLaTeX..."
-pandoc "$MASTER" 
---from markdown 
---template="$TEMPLATE" 
---pdf-engine=xelatex 
--o "$OUTPUT" 
---verbose 2>&1 | tee "$LOG"
-
-echo "✨ PDF gerado: $OUTPUT"
-echo "📝 Log salvo em: $LOG"
-
-# Hash de integridade
-
-HASH=$(shasum -a 256 "$OUTPUT" | cut -d " " -f 1)
-echo "🔐 SHA-256 do PDF: $HASH"
-
-# Atualiza version-info.json automaticamente (se existir)
-
-if [ -f "../version-info.json" ]; then
-echo "Atualizando version-info.json..."
-jq --arg hash "$HASH" '.pdf_sha256 = $hash' ../version-info.json > ../version-info.tmp 
-&& mv ../version-info.tmp ../version-info.json
+if [ ! -f "$MASTER" ]; then
+echo "[ERRO] master.md não encontrado em ${MASTER}"
+exit 1
 fi
 
-echo "🌟 Compilação concluída com sucesso."
+# Checagem do template.tex
+
+if [ ! -f "$TEMPLATE" ]; then
+echo "[ERRO] template.tex não encontrado em ${TEMPLATE}"
+exit 1
+fi
+
+# Limpeza de builds anteriores
+
+if [ -f "$OUTPUT" ]; then
+echo "[LICHTARA] Removendo PDF anterior..."
+rm "$OUTPUT"
+fi
+
+echo "[LICHTARA] Compilando com Pandoc + XeLaTeX..."
+pandoc "$MASTER"
+--from markdown
+--template "$TEMPLATE"
+--pdf-engine=xelatex
+-o "$OUTPUT"
+
+echo "[LICHTARA] Build finalizado com sucesso."
+echo "[LICHTARA] Arquivo gerado: $OUTPUT"
