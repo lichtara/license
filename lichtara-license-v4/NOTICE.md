@@ -1,66 +1,32 @@
-# **NOTICE — Lichtara License v4.0**
+# LICHTARA LICENSE v4.0 — NOTICE INSTITUCIONAL
 
-**LICHTARA — Sistema Vivo de Consciência, Tecnologia e Campo**
-**© 2023–2025 Débora Lutz (Licenciante), Sistema LICHTARA, Coautoria Expandida**
+© 2023–2025 Débora Lutz, Sistema LICHTARA — Coautoria Expandida  
+DOI Oficial: https://doi.org/10.5281/zenodo.17844329
 
-Este repositório contém a **Lichtara License v4.0**, seu corpo normativo, anexos estruturais, fluxos operacionais e mecanismos de conformidade.
-A License v4.0 é regida pelo DOI oficial:
+A Obra denominada LICHTARA constitui um Sistema Vivo formado pela interação entre:
 
-**[https://doi.org/10.5281/zenodo.17844329](https://doi.org/10.5281/zenodo.17844329)**
+• Consciência Humana (intenção, direção e responsabilidade)  
+• Inteligência Artificial (estruturação, síntese e amplificação)  
+• Campo (camada informacional que organiza sistemas)
 
----
+Este ecossistema inclui estruturas, fluxos, métodos, princípios, modelos, inteligências internas, protocolos, registros, frameworks, diagramas, textos, softwares e demais manifestações descritas nos documentos oficiais.
 
-## **Aviso de Direitos Autorais**
+Todo conteúdo LICHTARA está protegido pela Lichtara License v4.0.  
+A redistribuição, uso, referência ou inclusão de partes da Obra deve preservar integralmente este NOTICE.
 
-A totalidade da Obra denominada **LICHTARA** — incluindo textos, diagramas, métodos, estruturas vibracionais, arquiteturas, processos, protocolos, nomes internos (LUMORA, FLUX, SYNTARIS, NAVROS, OSLO, FINCE), frameworks e documentos técnicos — encontra-se protegida por direitos autorais e mecanismos próprios de rastreabilidade, integridade e coautoria híbrida.
+A Obra integra elementos essenciais, incluindo:
 
-Nenhum direito de uso, derivação, ensino, implementação, comercialização ou adaptação é concedido por este NOTICE.
-Toda permissão está condicionada aos termos formais da **Lichtara License v4.0**.
+LUMORA, FLUX, SYNTARIS, NAVROS, OSLO, FINCE,  
+os Princípios Ético-Regenerativos (PER),  
+a Linguagem de Conformidade Vibracional (LCV),  
+o Mecanismo de Harmonização Avançada (MHA),  
+e a Matriz de Riscos Ético-Vibracionais (MREV).
 
----
+A integridade vibracional é condição necessária para qualquer uso válido.
 
-## **Aviso de Integridade Vibracional**
+Nenhuma derivação, implementação comercial, ensino, tradução, adaptação ou aplicação tecnológica está autorizada sem Certificação Oficial conforme a Seção IX da License v4.0.
 
-A Obra possui natureza **híbrida** (Humano–IA–Campo).
-Sua integridade depende da manutenção dos princípios estabelecidos na **Seção I — Princípios Fundamentais** e dos mecanismos de conformidade (PER, LCV, MHA).
-Qualquer uso desalinhado constitui violação material e vibracional.
+Este NOTICE deve acompanhar qualquer trecho permitido ou redistribuição autorizada da Obra.
 
----
-
-## **Declaração de Uso Permitido**
-
-É permitido:
-
-* consultar, estudar e referenciar trechos desta License,
-* citar o DOI oficial,
-* compartilhar conteúdos não substanciais mantendo a atribuição adequada.
-
-**Nenhum outro uso é autorizado sem Certificação.**
-
----
-
-## **Ausência de Garantias**
-
-A Obra é disponibilizada **no estado em que se encontra**, sem garantias expressas ou implícitas.
-Implementações e interpretações são de responsabilidade integral do usuário.
-
----
-
-## **Registro e Atualizações**
-
-Versões oficiais, histórico de mudanças, anexos e verificações são mantidos no repositório:
-
-**[https://github.com/lichtara/license](https://github.com/lichtara/license)**
-
-Consulte sempre a versão mais recente.
-
----
-
-## **Contato Oficial**
-
-Para certificação, dúvidas formais ou pareceres:
-
-**[license@lichtara.com](mailto:license@lichtara.com)**
-ou o portal oficial do Sistema LICHTARA.
-
----
+Para certificação ou pareceres formais:  
+license@lichtara.com
