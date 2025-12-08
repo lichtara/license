@@ -1,7 +1,7 @@
 # LICHTARA LICENSE v4.0
 
 Documento Oficial
-v4.0-master-rc1
+v4.0-master-rc1 
 DOI: 10.5281/zenodo.17844329
 
 © 2023–2025 Débora Lutz, Sistema LICHTARA — Coautoria Expandida
