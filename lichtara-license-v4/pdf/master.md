@@ -9454,21 +9454,8 @@ Sim, desde que:
 Para dúvidas, permissões ou propostas:
 
 ```
-Email: admin@deboralutz.com
+Email: license@lichtara.com
 Site: https://license.lichtara.com
 ```
-
----
-
-
-# HISTÓRICO DE VERSÕES
-
-Opcional nesta fase. Será incluído após revisão final da v4.0.
-
----
-
-# FIM DO DOCUMENTO
-
-v4.0-master-rc1
 
 ---
