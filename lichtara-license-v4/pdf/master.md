@@ -9113,20 +9113,7 @@ classDef box fill:#f9f9ff,stroke:#444,stroke-width:1;
 classDef middle fill:#ffffff,stroke:#444,stroke-width:1;
 classDef bottom fill:#ffffff,stroke:#222,stroke-width:1;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+---
 
 # FAQ OFICIAL
 
