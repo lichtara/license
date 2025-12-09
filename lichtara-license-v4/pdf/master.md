@@ -9029,6 +9029,14 @@ Este fluxograma:
 
 ---
 
+# FLUXOGRAMA PÚBLICO
+
+A seguir, o fluxograma oficial da Lichtara License v4.
+
+![Fluxograma Público de Permissões](fluxograma-publico.svg)
+
+---
+
 # FAQ OFICIAL
 
 ### *Perguntas Frequentes — Versão para o Portal license.lichtara.com*
